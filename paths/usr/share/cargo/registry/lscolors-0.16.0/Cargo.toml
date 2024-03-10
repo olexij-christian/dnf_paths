@@ -1,0 +1,6 @@
+rust-lscolors+ansi_term-devel
+rust-lscolors+crossterm-devel
+rust-lscolors+default-devel
+rust-lscolors-devel
+rust-lscolors+gnu_legacy-devel
+rust-lscolors+nu-ansi-term-devel

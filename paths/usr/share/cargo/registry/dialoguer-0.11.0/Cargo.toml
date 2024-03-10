@@ -1,0 +1,10 @@
+rust-dialoguer+completion-devel
+rust-dialoguer+default-devel
+rust-dialoguer-devel
+rust-dialoguer+editor-devel
+rust-dialoguer+fuzzy-matcher-devel
+rust-dialoguer+fuzzy-select-devel
+rust-dialoguer+history-devel
+rust-dialoguer+password-devel
+rust-dialoguer+tempfile-devel
+rust-dialoguer+zeroize-devel

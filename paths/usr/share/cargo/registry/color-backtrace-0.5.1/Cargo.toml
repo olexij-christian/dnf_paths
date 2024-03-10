@@ -1,0 +1,5 @@
+rust-color-backtrace+default-devel
+rust-color-backtrace-devel
+rust-color-backtrace+gimli-symbolize-devel
+rust-color-backtrace+regex-devel
+rust-color-backtrace+resolve-modules-devel

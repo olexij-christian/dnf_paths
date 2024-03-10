@@ -1,0 +1,1 @@
+drupal7-cs_adaptive_image

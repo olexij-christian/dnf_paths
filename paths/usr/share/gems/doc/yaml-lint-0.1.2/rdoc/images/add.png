@@ -1,0 +1,1 @@
+rubygem-yaml-lint-doc

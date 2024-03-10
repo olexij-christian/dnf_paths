@@ -1,0 +1,7 @@
+rust-smartstring+arbitrary-devel
+rust-smartstring+default-devel
+rust-smartstring-devel
+rust-smartstring+proptest-devel
+rust-smartstring+serde-devel
+rust-smartstring+std-devel
+rust-smartstring+test-devel

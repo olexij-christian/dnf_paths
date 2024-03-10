@@ -1,0 +1,5 @@
+rust-gix-object+default-devel
+rust-gix-object-devel
+rust-gix-object+document-features-devel
+rust-gix-object+serde-devel
+rust-gix-object+verbose-object-parsing-errors-devel

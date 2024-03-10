@@ -1,0 +1,3 @@
+python2-uritemplate
+python36-uritemplate
+python3-uritemplate

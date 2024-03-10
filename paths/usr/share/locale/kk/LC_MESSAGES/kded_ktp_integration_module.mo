@@ -1,0 +1,1 @@
+ktp-kded-integration-module

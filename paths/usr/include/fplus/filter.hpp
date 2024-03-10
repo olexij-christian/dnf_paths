@@ -1,0 +1,2 @@
+fplus-devel
+functionalplus-devel

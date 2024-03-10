@@ -1,0 +1,5 @@
+rust-process_control+crossbeam-channel-devel
+rust-process_control+default-devel
+rust-process_control-devel
+rust-process_control+signal-hook-devel
+rust-process_control+__unstable-disable-unix-waitid-devel

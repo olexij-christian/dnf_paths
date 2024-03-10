@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-elasticsearch
+python3-opentelemetry-instrumentation-elasticsearch+instruments

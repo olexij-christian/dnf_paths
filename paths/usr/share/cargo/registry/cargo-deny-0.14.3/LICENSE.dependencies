@@ -1,0 +1,1 @@
+rust-cargo-deny-devel

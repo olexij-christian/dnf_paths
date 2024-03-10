@@ -1,0 +1,2 @@
+efl-devel
+elementary-devel

@@ -1,0 +1,2 @@
+plexus-containers-component-annotations
+plexus-containers-javadoc

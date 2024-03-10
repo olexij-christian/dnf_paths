@@ -1,0 +1,1 @@
+ghc-conduit-extra-devel

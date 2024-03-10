@@ -1,0 +1,6 @@
+rust-lcms2-sys+cc-devel
+rust-lcms2-sys+default-devel
+rust-lcms2-sys-devel
+rust-lcms2-sys+dynamic-devel
+rust-lcms2-sys+lcms2-strict-cgats-devel
+rust-lcms2-sys+parallel-devel

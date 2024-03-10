@@ -1,0 +1,1 @@
+ghc-pretty-simple-doc

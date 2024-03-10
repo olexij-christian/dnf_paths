@@ -1,0 +1,1 @@
+perl-Glib-IO-tests

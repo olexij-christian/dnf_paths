@@ -1,0 +1,1 @@
+rust-libdeflate-sys-devel

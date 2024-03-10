@@ -1,0 +1,11 @@
+rust-shellexpand+base-0-devel
+rust-shellexpand+bstr-devel
+rust-shellexpand+default-devel
+rust-shellexpand-devel
+rust-shellexpand+dirs-devel
+rust-shellexpand+full-devel
+rust-shellexpand+full-msrv-1-31-devel
+rust-shellexpand+full-msrv-1-51-devel
+rust-shellexpand+os_str_bytes-devel
+rust-shellexpand+path-devel
+rust-shellexpand+tilde-devel

@@ -1,0 +1,2 @@
+sevmgr
+sevmgr-doc

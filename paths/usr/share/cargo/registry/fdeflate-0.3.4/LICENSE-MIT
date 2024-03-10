@@ -1,0 +1,1 @@
+rust-fdeflate-devel

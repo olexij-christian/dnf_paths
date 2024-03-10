@@ -1,0 +1,1 @@
+python-XStatic-jquery-ui

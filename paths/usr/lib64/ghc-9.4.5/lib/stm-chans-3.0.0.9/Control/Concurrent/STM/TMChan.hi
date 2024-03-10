@@ -1,0 +1,1 @@
+ghc-stm-chans-devel

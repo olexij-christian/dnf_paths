@@ -1,0 +1,1 @@
+ghc-shakespeare-js-devel

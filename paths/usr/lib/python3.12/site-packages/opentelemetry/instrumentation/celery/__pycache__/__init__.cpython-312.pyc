@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-celery
+python3-opentelemetry-instrumentation-celery+instruments

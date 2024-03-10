@@ -1,0 +1,1 @@
+ghc-githash-doc

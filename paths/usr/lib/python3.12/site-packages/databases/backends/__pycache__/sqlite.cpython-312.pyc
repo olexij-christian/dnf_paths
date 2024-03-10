@@ -1,0 +1,9 @@
+python3-databases
+python3-databases+aiomysql
+python3-databases+aiopg
+python3-databases+aiosqlite
+python3-databases+asyncmy
+python3-databases+asyncpg
+python3-databases+mysql
+python3-databases+postgresql
+python3-databases+sqlite

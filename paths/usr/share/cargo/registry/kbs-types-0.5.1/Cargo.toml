@@ -1,0 +1,7 @@
+rust-kbs-types+alloc-devel
+rust-kbs-types+default-devel
+rust-kbs-types-devel
+rust-kbs-types+sev-devel
+rust-kbs-types+std-devel
+rust-kbs-types+tee-sev-devel
+rust-kbs-types+tee-snp-devel

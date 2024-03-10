@@ -1,0 +1,5 @@
+rust-safe-transmute+alloc-devel
+rust-safe-transmute+const_generics-devel
+rust-safe-transmute+default-devel
+rust-safe-transmute-devel
+rust-safe-transmute+std-devel

@@ -1,0 +1,1 @@
+nbdkit-ruby-plugin

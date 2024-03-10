@@ -1,0 +1,5 @@
+rust-xcb+genericevent-devel
+rust-xcb+selinux-devel
+rust-xcb+test-devel
+rust-xcb+thread-devel
+rust-xcb+x_print-devel

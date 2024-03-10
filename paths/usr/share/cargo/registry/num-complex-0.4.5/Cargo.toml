@@ -1,0 +1,9 @@
+rust-num-complex+bytecheck-devel
+rust-num-complex+bytemuck-devel
+rust-num-complex+default-devel
+rust-num-complex-devel
+rust-num-complex+libm-devel
+rust-num-complex+rand-devel
+rust-num-complex+rkyv-devel
+rust-num-complex+serde-devel
+rust-num-complex+std-devel

@@ -1,0 +1,16 @@
+rust-crosstermion+ansiterm-devel
+rust-crosstermion+async-channel-devel
+rust-crosstermion+color-devel
+rust-crosstermion+crossterm-devel
+rust-crosstermion+default-devel
+rust-crosstermion-devel
+rust-crosstermion+futures-channel-devel
+rust-crosstermion+futures-core-devel
+rust-crosstermion+futures-lite-devel
+rust-crosstermion+input-async-crossterm-devel
+rust-crosstermion+input-async-devel
+rust-crosstermion+tui-crossterm-backend-devel
+rust-crosstermion+tui-crossterm-devel
+rust-crosstermion+tui-devel
+rust-crosstermion+tui-react-crossterm-devel
+rust-crosstermion+tui-react-devel

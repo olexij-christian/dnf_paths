@@ -1,0 +1,5 @@
+rust-snafu+backtraces-devel
+rust-snafu+backtraces-impl-std-devel
+rust-snafu+rust_1_39-devel
+rust-snafu+rust_1_46-devel
+rust-snafu+unstable-backtraces-impl-std-devel

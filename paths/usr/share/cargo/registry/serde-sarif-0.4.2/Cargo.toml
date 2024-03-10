@@ -1,0 +1,8 @@
+rust-serde-sarif+cargo_metadata-devel
+rust-serde-sarif+clang-tidy-converters-devel
+rust-serde-sarif+clippy-converters-devel
+rust-serde-sarif+default-devel
+rust-serde-sarif-devel
+rust-serde-sarif+hadolint-converters-devel
+rust-serde-sarif+regex-devel
+rust-serde-sarif+shellcheck-converters-devel

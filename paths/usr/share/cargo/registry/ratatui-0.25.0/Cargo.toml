@@ -1,0 +1,13 @@
+rust-ratatui+all-widgets-devel
+rust-ratatui+crossterm-devel
+rust-ratatui+default-devel
+rust-ratatui-devel
+rust-ratatui+document-features-devel
+rust-ratatui+macros-devel
+rust-ratatui+serde-devel
+rust-ratatui+termion-devel
+rust-ratatui+underline-color-devel
+rust-ratatui+unstable-devel
+rust-ratatui+unstable-rendered-line-info-devel
+rust-ratatui+unstable-segment-size-devel
+rust-ratatui+widget-calendar-devel

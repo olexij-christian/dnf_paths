@@ -1,0 +1,14 @@
+rust-i18n-embed+arc-swap-devel
+rust-i18n-embed+default-devel
+rust-i18n-embed+desktop-requester-devel
+rust-i18n-embed-devel
+rust-i18n-embed+filesystem-assets-devel
+rust-i18n-embed+fluent-devel
+rust-i18n-embed+fluent-syntax-devel
+rust-i18n-embed+fluent-system-devel
+rust-i18n-embed+i18n-embed-impl-devel
+rust-i18n-embed-impl+default-devel
+rust-i18n-embed+locale_config-devel
+rust-i18n-embed+parking_lot-devel
+rust-i18n-embed+rust-embed-devel
+rust-i18n-embed+walkdir-devel

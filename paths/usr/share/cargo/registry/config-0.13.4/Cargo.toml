@@ -1,0 +1,13 @@
+rust-config+default-devel
+rust-config-devel
+rust-config+indexmap-devel
+rust-config+ini-devel
+rust-config+json5-devel
+rust-config+json5_rs-devel
+rust-config+preserve_order-devel
+rust-config+ron-devel
+rust-config+rust-ini-devel
+rust-config+serde_json-devel
+rust-config+toml-devel
+rust-config+yaml-devel
+rust-config+yaml-rust-devel

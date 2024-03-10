@@ -1,0 +1,7 @@
+rust-procfs+backtrace-devel
+rust-procfs+chrono-devel
+rust-procfs+default-devel
+rust-procfs-devel
+rust-procfs+flate2-devel
+rust-procfs+serde1-devel
+rust-procfs+serde-devel

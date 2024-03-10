@@ -1,0 +1,1 @@
+gcc-openrisc-linux-gnu

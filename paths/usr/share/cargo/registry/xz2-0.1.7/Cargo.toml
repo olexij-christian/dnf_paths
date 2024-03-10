@@ -1,0 +1,5 @@
+rust-xz2+default-devel
+rust-xz2-devel
+rust-xz2+futures-devel
+rust-xz2+tokio-devel
+rust-xz2+tokio-io-devel

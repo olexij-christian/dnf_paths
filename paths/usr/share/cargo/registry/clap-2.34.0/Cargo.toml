@@ -1,0 +1,16 @@
+rust-clap2+ansi_term-devel
+rust-clap2+atty-devel
+rust-clap2+color-devel
+rust-clap2+debug-devel
+rust-clap2+default-devel
+rust-clap2-devel
+rust-clap2+doc-devel
+rust-clap2+no_cargo-devel
+rust-clap2+strsim-devel
+rust-clap2+suggestions-devel
+rust-clap2+term_size-devel
+rust-clap2+unstable-devel
+rust-clap2+vec_map-devel
+rust-clap2+wrap_help-devel
+rust-clap2+yaml-devel
+rust-clap2+yaml-rust-devel

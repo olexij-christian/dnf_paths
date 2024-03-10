@@ -1,0 +1,4 @@
+rust-eyre+auto-install-devel
+rust-eyre+default-devel
+rust-eyre-devel
+rust-eyre+track-caller-devel

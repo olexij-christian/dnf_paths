@@ -1,0 +1,1 @@
+rust-inotify-sys-devel

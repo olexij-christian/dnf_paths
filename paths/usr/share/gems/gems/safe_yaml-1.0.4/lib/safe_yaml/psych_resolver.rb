@@ -1,0 +1,1 @@
+rubygem-safe_yaml

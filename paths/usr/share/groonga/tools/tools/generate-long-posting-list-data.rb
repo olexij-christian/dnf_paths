@@ -1,0 +1,2 @@
+groonga-libs
+groonga-tools

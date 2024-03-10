@@ -1,0 +1,10 @@
+rust-warp+async-compression-devel
+rust-warp+compression-brotli-devel
+rust-warp+compression-devel
+rust-warp+compression-gzip-devel
+rust-warp+default-devel
+rust-warp-devel
+rust-warp+multer-devel
+rust-warp+multipart-devel
+rust-warp+tokio-tungstenite-devel
+rust-warp+websocket-devel

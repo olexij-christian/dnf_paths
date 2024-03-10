@@ -1,0 +1,1 @@
+rpmlint-fedora-license-data

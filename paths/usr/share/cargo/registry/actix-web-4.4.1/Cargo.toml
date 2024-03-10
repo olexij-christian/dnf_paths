@@ -1,0 +1,16 @@
+rust-actix-web+actix-macros-devel
+rust-actix-web+actix-tls-devel
+rust-actix-web+actix-web-codegen-devel
+rust-actix-web+compress-brotli-devel
+rust-actix-web+__compress-devel
+rust-actix-web+compress-gzip-devel
+rust-actix-web+compress-zstd-devel
+rust-actix-web+cookie-devel
+rust-actix-web+cookies-devel
+rust-actix-web+default-devel
+rust-actix-web-devel
+rust-actix-web+experimental-io-uring-devel
+rust-actix-web+http2-devel
+rust-actix-web+macros-devel
+rust-actix-web+openssl-devel
+rust-actix-web+secure-cookies-devel

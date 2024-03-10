@@ -1,0 +1,1 @@
+globus-net-manager-devel

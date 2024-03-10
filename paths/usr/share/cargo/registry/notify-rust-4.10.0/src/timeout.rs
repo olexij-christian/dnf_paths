@@ -1,0 +1,1 @@
+rust-notify-rust-devel

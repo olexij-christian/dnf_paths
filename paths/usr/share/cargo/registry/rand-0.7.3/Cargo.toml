@@ -1,0 +1,11 @@
+rust-rand0.7+alloc-devel
+rust-rand0.7+default-devel
+rust-rand0.7-devel
+rust-rand0.7+getrandom-devel
+rust-rand0.7+getrandom_package-devel
+rust-rand0.7+libc-devel
+rust-rand0.7+log-devel
+rust-rand0.7+rand_pcg-devel
+rust-rand0.7+serde1-devel
+rust-rand0.7+small_rng-devel
+rust-rand0.7+std-devel

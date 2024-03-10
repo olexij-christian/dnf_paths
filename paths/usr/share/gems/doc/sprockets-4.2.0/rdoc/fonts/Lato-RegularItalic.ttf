@@ -1,0 +1,1 @@
+rubygem-sprockets-doc

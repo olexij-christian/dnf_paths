@@ -1,0 +1,2 @@
+lesstif-devel
+motif-devel

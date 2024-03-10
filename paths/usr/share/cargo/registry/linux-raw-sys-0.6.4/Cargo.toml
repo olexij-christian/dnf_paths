@@ -1,0 +1,17 @@
+rust-linux-raw-sys+default-devel
+rust-linux-raw-sys-devel
+rust-linux-raw-sys+elf-devel
+rust-linux-raw-sys+errno-devel
+rust-linux-raw-sys+general-devel
+rust-linux-raw-sys+if_ether-devel
+rust-linux-raw-sys+if_packet-devel
+rust-linux-raw-sys+ioctl-devel
+rust-linux-raw-sys+io_uring-devel
+rust-linux-raw-sys+mempolicy-devel
+rust-linux-raw-sys+net-devel
+rust-linux-raw-sys+netlink-devel
+rust-linux-raw-sys+no_std-devel
+rust-linux-raw-sys+prctl-devel
+rust-linux-raw-sys+std-devel
+rust-linux-raw-sys+system-devel
+rust-linux-raw-sys+xdp-devel

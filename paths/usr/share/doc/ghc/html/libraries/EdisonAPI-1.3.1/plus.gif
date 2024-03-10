@@ -1,0 +1,1 @@
+ghc-EdisonAPI-devel

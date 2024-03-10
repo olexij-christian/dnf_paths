@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-aws-lambda
+python3-opentelemetry-instrumentation-aws-lambda+instruments

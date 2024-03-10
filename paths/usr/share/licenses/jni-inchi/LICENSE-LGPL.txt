@@ -1,0 +1,2 @@
+jni-inchi
+jni-inchi-javadoc

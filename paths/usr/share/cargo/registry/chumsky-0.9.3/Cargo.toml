@@ -1,0 +1,7 @@
+rust-chumsky+ahash-devel
+rust-chumsky+default-devel
+rust-chumsky-devel
+rust-chumsky+nightly-devel
+rust-chumsky+spill-stack-devel
+rust-chumsky+stacker-devel
+rust-chumsky+std-devel

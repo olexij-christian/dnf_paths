@@ -1,0 +1,5 @@
+rust-ansi_colours+ansi_term-devel
+rust-ansi_colours+default-devel
+rust-ansi_colours-devel
+rust-ansi_colours+rgb-devel
+rust-ansi_colours+termcolor-devel

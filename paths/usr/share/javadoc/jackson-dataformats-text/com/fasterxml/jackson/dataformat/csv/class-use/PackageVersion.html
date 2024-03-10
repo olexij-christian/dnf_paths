@@ -1,0 +1,1 @@
+jackson-dataformats-text-javadoc

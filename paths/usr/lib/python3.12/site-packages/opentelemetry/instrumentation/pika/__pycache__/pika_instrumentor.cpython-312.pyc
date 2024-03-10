@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-pika
+python3-opentelemetry-instrumentation-pika+instruments

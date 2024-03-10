@@ -1,0 +1,2 @@
+qpid-cpp-client
+qpid-cpp-client-docs

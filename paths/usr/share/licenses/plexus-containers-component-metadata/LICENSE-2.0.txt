@@ -1,0 +1,2 @@
+plexus-containers-component-metadata
+plexus-containers-javadoc

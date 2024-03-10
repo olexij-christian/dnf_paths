@@ -1,0 +1,2 @@
+libpreludedb-devel
+preludedb-pgsql

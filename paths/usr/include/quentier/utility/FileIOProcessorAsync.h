@@ -1,0 +1,1 @@
+libquentier-devel

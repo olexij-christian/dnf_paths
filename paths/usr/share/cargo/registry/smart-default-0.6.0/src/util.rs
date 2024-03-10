@@ -1,0 +1,1 @@
+rust-smart-default-devel

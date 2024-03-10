@@ -1,0 +1,1 @@
+libosmium-devel

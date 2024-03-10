@@ -1,0 +1,8 @@
+rust-libgit2-sys+default-devel
+rust-libgit2-sys-devel
+rust-libgit2-sys+https-devel
+rust-libgit2-sys+libssh2-sys-devel
+rust-libgit2-sys+openssl-sys-devel
+rust-libgit2-sys+ssh-devel
+rust-libgit2-sys+ssh_key_from_memory-devel
+rust-libgit2-sys+vendored-devel

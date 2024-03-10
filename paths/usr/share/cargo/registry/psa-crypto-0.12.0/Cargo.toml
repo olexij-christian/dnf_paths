@@ -1,0 +1,6 @@
+rust-psa-crypto+default-devel
+rust-psa-crypto-devel
+rust-psa-crypto+interface-devel
+rust-psa-crypto+operations-devel
+rust-psa-crypto+prefix-devel
+rust-psa-crypto+std-devel

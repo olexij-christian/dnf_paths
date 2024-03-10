@@ -1,0 +1,7 @@
+rust-dolby_vision+capi-devel
+rust-dolby_vision+default-devel
+rust-dolby_vision-devel
+rust-dolby_vision+libc-devel
+rust-dolby_vision+roxmltree-devel
+rust-dolby_vision+serde-devel
+rust-dolby_vision+xml-devel

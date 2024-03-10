@@ -1,0 +1,10 @@
+rust-backtrace+cpp_demangle-devel
+rust-backtrace+default-devel
+rust-backtrace-devel
+rust-backtrace+gimli-symbolize-devel
+rust-backtrace+libbacktrace-devel
+rust-backtrace+rustc-serialize-devel
+rust-backtrace+serde-devel
+rust-backtrace+serialize-rustc-devel
+rust-backtrace+serialize-serde-devel
+rust-backtrace+std-devel

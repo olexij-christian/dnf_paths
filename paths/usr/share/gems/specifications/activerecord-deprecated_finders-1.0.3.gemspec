@@ -1,0 +1,1 @@
+rubygem-activerecord-deprecated_finders

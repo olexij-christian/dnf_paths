@@ -1,0 +1,6 @@
+python3-dns-lexicon
+python3-dns-lexicon+ddns
+python3-dns-lexicon+duckdns
+python3-dns-lexicon+gransy
+python3-dns-lexicon+localzone
+python3-dns-lexicon+oci

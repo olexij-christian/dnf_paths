@@ -1,0 +1,1 @@
+rust-eza-devel

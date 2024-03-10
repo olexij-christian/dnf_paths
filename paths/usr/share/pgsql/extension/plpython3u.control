@@ -1,0 +1,3 @@
+postgresql15-plpython3
+postgresql16-plpython3
+postgresql-plpython3

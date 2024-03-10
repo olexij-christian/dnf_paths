@@ -1,0 +1,9 @@
+rust-gix-packetline+async-io-devel
+rust-gix-packetline+blocking-io-devel
+rust-gix-packetline+default-devel
+rust-gix-packetline-devel
+rust-gix-packetline+document-features-devel
+rust-gix-packetline+futures-io-devel
+rust-gix-packetline+futures-lite-devel
+rust-gix-packetline+pin-project-lite-devel
+rust-gix-packetline+serde-devel

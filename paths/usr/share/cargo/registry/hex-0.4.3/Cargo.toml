@@ -1,0 +1,5 @@
+rust-hex+alloc-devel
+rust-hex+default-devel
+rust-hex-devel
+rust-hex+serde-devel
+rust-hex+std-devel

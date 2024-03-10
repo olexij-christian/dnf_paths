@@ -1,0 +1,4 @@
+rust-enumset_derive+default-devel
+rust-enumset_derive-devel
+rust-enumset_derive+proc-macro-crate-devel
+rust-enumset_derive+serde-devel

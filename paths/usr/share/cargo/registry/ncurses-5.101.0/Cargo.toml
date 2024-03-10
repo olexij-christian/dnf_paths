@@ -1,0 +1,8 @@
+rust-ncurses+default-devel
+rust-ncurses-devel
+rust-ncurses+extended_colors-devel
+rust-ncurses+menu-devel
+rust-ncurses+mouse_v1-devel
+rust-ncurses+panel-devel
+rust-ncurses+wide_chtype-devel
+rust-ncurses+wide-devel

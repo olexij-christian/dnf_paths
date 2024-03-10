@@ -1,0 +1,8 @@
+rust-zeroize+aarch64-devel
+rust-zeroize+alloc-devel
+rust-zeroize+default-devel
+rust-zeroize+derive-devel
+rust-zeroize-devel
+rust-zeroize+serde-devel
+rust-zeroize+std-devel
+rust-zeroize+zeroize_derive-devel

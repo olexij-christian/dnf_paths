@@ -1,0 +1,12 @@
+rust-rxml+async-devel
+rust-rxml+default-devel
+rust-rxml-devel
+rust-rxml+futures-core-devel
+rust-rxml+macros-devel
+rust-rxml+mt-devel
+rust-rxml+pin-project-lite-devel
+rust-rxml+rxml_proc-devel
+rust-rxml+shared_ns-devel
+rust-rxml+stream-devel
+rust-rxml+tokio-devel
+rust-rxml+weak-table-devel

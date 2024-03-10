@@ -1,0 +1,4 @@
+rust-maildir+default-devel
+rust-maildir-devel
+rust-maildir+memmap2-devel
+rust-maildir+mmap-devel

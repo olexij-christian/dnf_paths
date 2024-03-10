@@ -1,0 +1,1 @@
+ghc-base-compat-devel

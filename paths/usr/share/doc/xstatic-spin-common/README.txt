@@ -1,0 +1,1 @@
+xstatic-spin-common

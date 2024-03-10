@@ -1,0 +1,1 @@
+sofia-sip-glib-devel

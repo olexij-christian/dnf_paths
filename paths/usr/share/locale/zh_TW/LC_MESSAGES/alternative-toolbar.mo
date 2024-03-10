@@ -1,0 +1,1 @@
+rhythmbox-alternative-toolbar

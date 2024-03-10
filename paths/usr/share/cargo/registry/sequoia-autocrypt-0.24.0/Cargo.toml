@@ -1,0 +1,4 @@
+rust-sequoia-autocrypt+compression-bzip2-devel
+rust-sequoia-autocrypt+compression-deflate-devel
+rust-sequoia-autocrypt+compression-devel
+rust-sequoia-autocrypt+crypto-nettle-devel

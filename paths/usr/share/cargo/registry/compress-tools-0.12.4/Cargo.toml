@@ -1,0 +1,14 @@
+rust-compress-tools+async_support-devel
+rust-compress-tools+async-trait-devel
+rust-compress-tools+blocking-devel
+rust-compress-tools+default-devel
+rust-compress-tools-devel
+rust-compress-tools+futures-channel-devel
+rust-compress-tools+futures-core-devel
+rust-compress-tools+futures-executor-devel
+rust-compress-tools+futures-io-devel
+rust-compress-tools+futures_support-devel
+rust-compress-tools+futures-util-devel
+rust-compress-tools+tokio-devel
+rust-compress-tools+tokio_support-devel
+rust-compress-tools+tokio-util-devel

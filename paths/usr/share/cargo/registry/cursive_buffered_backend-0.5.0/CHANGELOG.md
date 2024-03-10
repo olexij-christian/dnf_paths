@@ -1,0 +1,1 @@
+rust-cursive_buffered_backend0.5-devel

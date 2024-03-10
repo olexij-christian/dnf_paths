@@ -1,0 +1,6 @@
+rust-ord_subset+default-devel
+rust-ord_subset-devel
+rust-ord_subset+ops-devel
+rust-ord_subset+std-devel
+rust-ord_subset+unchecked_ops-devel
+rust-ord_subset+unstable-devel

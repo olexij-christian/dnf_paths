@@ -1,0 +1,11 @@
+rust-cargo-husky+default-devel
+rust-cargo-husky-devel
+rust-cargo-husky+postmerge-hook-devel
+rust-cargo-husky+precommit-hook-devel
+rust-cargo-husky+prepush-hook-devel
+rust-cargo-husky+run-cargo-check-devel
+rust-cargo-husky+run-cargo-clippy-devel
+rust-cargo-husky+run-cargo-fmt-devel
+rust-cargo-husky+run-cargo-test-devel
+rust-cargo-husky+run-for-all-devel
+rust-cargo-husky+user-hooks-devel

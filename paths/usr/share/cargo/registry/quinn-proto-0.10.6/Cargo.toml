@@ -1,0 +1,9 @@
+rust-quinn-proto+arbitrary-devel
+rust-quinn-proto+default-devel
+rust-quinn-proto-devel
+rust-quinn-proto+log-devel
+rust-quinn-proto+native-certs-devel
+rust-quinn-proto+ring-devel
+rust-quinn-proto+rustls-devel
+rust-quinn-proto+rustls-native-certs-devel
+rust-quinn-proto+tls-rustls-devel

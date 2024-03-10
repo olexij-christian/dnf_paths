@@ -1,0 +1,1 @@
+rubygem-logstash-event-doc

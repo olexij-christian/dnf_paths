@@ -1,0 +1,5 @@
+rust-aho-corasick+default-devel
+rust-aho-corasick-devel
+rust-aho-corasick+logging-devel
+rust-aho-corasick+perf-literal-devel
+rust-aho-corasick+std-devel

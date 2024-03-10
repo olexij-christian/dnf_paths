@@ -1,0 +1,1 @@
+ghc-data-inttrie-devel

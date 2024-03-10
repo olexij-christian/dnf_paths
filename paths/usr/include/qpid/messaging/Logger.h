@@ -1,0 +1,1 @@
+qpid-cpp-client-devel

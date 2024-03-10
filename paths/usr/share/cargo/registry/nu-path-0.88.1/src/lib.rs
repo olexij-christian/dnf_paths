@@ -1,0 +1,1 @@
+rust-nu-path-devel

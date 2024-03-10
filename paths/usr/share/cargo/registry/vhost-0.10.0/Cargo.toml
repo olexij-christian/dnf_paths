@@ -1,0 +1,10 @@
+rust-vhost+default-devel
+rust-vhost-devel
+rust-vhost+test-utils-devel
+rust-vhost+vhost-kern-devel
+rust-vhost+vhost-net-devel
+rust-vhost+vhost-user-backend-devel
+rust-vhost+vhost-user-devel
+rust-vhost+vhost-user-frontend-devel
+rust-vhost+vhost-vdpa-devel
+rust-vhost+vhost-vsock-devel

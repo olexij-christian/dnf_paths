@@ -1,0 +1,1 @@
+pretty-git-prompt

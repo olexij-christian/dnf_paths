@@ -1,0 +1,1 @@
+rust-zstd-sys-devel

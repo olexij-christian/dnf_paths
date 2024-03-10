@@ -1,0 +1,4 @@
+rust-virtio-bindings+default-devel
+rust-virtio-bindings-devel
+rust-virtio-bindings+virtio-v4_14_0-devel
+rust-virtio-bindings+virtio-v5_0_0-devel

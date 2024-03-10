@@ -1,0 +1,1 @@
+ghc-js-jquery-doc

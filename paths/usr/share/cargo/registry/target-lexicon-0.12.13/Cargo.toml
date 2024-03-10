@@ -1,0 +1,6 @@
+rust-target-lexicon+arch_zkasm-devel
+rust-target-lexicon+default-devel
+rust-target-lexicon-devel
+rust-target-lexicon+serde-devel
+rust-target-lexicon+serde_support-devel
+rust-target-lexicon+std-devel

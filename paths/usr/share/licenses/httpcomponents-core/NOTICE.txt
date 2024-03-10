@@ -1,0 +1,2 @@
+httpcomponents-core
+httpcomponents-core-javadoc

@@ -1,0 +1,1 @@
+ghc-tasty-kat-doc

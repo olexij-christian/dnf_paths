@@ -1,0 +1,1 @@
+rust-cursor-icon-devel

@@ -1,0 +1,15 @@
+rust-fake+always-true-rng-devel
+rust-fake+bigdecimal-devel
+rust-fake+bigdecimal-rs-devel
+rust-fake+chrono-devel
+rust-fake+chrono-tz-devel
+rust-fake+default-devel
+rust-fake+derive-devel
+rust-fake-devel
+rust-fake+dummy-devel
+rust-fake+maybe-non-empty-collections-devel
+rust-fake+rand_core-devel
+rust-fake+rust_decimal-devel
+rust-fake+serde_json-devel
+rust-fake+time-devel
+rust-fake+zerocopy-devel

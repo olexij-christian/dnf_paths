@@ -1,0 +1,4 @@
+rust-bytes+default-devel
+rust-bytes-devel
+rust-bytes+serde-devel
+rust-bytes+std-devel

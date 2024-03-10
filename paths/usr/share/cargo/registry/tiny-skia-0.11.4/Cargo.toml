@@ -1,0 +1,7 @@
+rust-tiny-skia+default-devel
+rust-tiny-skia-devel
+rust-tiny-skia+no-std-float-devel
+rust-tiny-skia+png-devel
+rust-tiny-skia+png-format-devel
+rust-tiny-skia+simd-devel
+rust-tiny-skia+std-devel

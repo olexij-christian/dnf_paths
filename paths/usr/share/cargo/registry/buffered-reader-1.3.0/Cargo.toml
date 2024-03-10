@@ -1,0 +1,7 @@
+rust-buffered-reader+bzip2-devel
+rust-buffered-reader+compression-bzip2-devel
+rust-buffered-reader+compression-deflate-devel
+rust-buffered-reader+compression-devel
+rust-buffered-reader+default-devel
+rust-buffered-reader-devel
+rust-buffered-reader+flate2-devel

@@ -1,0 +1,11 @@
+rust-wayland-sys0.29+client-devel
+rust-wayland-sys0.29+cursor-devel
+rust-wayland-sys0.29+default-devel
+rust-wayland-sys0.29-devel
+rust-wayland-sys0.29+dlopen-devel
+rust-wayland-sys0.29+egl-devel
+rust-wayland-sys0.29+lazy_static-devel
+rust-wayland-sys0.29+libc-devel
+rust-wayland-sys0.29+memoffset-devel
+rust-wayland-sys0.29+server-devel
+rust-wayland-sys+lazy_static-devel

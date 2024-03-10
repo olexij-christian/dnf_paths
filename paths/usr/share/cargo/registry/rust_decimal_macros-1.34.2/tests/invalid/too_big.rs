@@ -1,0 +1,1 @@
+rust-rust_decimal_macros-devel

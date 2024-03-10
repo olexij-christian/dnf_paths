@@ -1,0 +1,4 @@
+rust-itertools+default-devel
+rust-itertools-devel
+rust-itertools+use_alloc-devel
+rust-itertools+use_std-devel

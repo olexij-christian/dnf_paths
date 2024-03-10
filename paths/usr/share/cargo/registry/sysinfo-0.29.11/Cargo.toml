@@ -1,0 +1,7 @@
+rust-sysinfo+c-interface-devel
+rust-sysinfo+debug-devel
+rust-sysinfo+default-devel
+rust-sysinfo-devel
+rust-sysinfo+multithread-devel
+rust-sysinfo+rayon-devel
+rust-sysinfo+serde-devel

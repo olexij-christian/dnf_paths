@@ -1,0 +1,13 @@
+rust-smallvec+arbitrary-devel
+rust-smallvec+const_generics-devel
+rust-smallvec+const_new-devel
+rust-smallvec+debugger_visualizer-devel
+rust-smallvec+default-devel
+rust-smallvec-devel
+rust-smallvec+drain_filter-devel
+rust-smallvec+drain_keep_rest-devel
+rust-smallvec+may_dangle-devel
+rust-smallvec+serde-devel
+rust-smallvec+specialization-devel
+rust-smallvec+union-devel
+rust-smallvec+write-devel

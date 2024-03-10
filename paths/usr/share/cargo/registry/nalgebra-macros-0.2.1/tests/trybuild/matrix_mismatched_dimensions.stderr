@@ -1,0 +1,1 @@
+rust-nalgebra-macros-devel

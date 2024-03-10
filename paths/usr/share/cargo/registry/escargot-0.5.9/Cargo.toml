@@ -1,0 +1,6 @@
+rust-escargot+cargo_unstable-devel
+rust-escargot+default-devel
+rust-escargot-devel
+rust-escargot+print-devel
+rust-escargot+strict_unstable-devel
+rust-escargot+test_unstable-devel

@@ -1,0 +1,1 @@
+ghc-gitrev-doc

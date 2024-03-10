@@ -1,0 +1,6 @@
+rust-miniz_oxide+default-devel
+rust-miniz_oxide-devel
+rust-miniz_oxide+simd-adler32-devel
+rust-miniz_oxide+simd-devel
+rust-miniz_oxide+std-devel
+rust-miniz_oxide+with-alloc-devel

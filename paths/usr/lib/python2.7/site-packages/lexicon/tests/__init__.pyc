@@ -1,0 +1,5 @@
+python2-dns-lexicon
+python2-dns-lexicon+easyname
+python2-dns-lexicon+gratisdns
+python2-dns-lexicon+henet
+python2-dns-lexicon+plesk

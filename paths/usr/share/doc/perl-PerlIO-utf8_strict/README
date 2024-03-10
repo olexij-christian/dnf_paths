@@ -1,0 +1,1 @@
+perl-PerlIO-utf8_strict

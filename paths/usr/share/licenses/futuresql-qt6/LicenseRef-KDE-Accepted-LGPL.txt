@@ -1,0 +1,1 @@
+futuresql-qt6

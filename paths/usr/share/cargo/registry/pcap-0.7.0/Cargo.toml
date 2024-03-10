@@ -1,0 +1,9 @@
+rust-pcap+default-devel
+rust-pcap-devel
+rust-pcap+full-devel
+rust-pcap+futures-devel
+rust-pcap+mio-devel
+rust-pcap+pcap-fopen-offline-precision-devel
+rust-pcap+pcap-savefile-append-devel
+rust-pcap+tokio-core-devel
+rust-pcap+tokio-devel

@@ -1,0 +1,5 @@
+rust-gdk4-wayland-sys+default-devel
+rust-gdk4-wayland-sys-devel
+rust-gdk4-wayland-sys+v4_10-devel
+rust-gdk4-wayland-sys+v4_12-devel
+rust-gdk4-wayland-sys+v4_4-devel

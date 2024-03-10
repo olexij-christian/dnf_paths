@@ -1,0 +1,5 @@
+rust-rmpv+default-devel
+rust-rmpv-devel
+rust-rmpv+serde_bytes-devel
+rust-rmpv+serde-devel
+rust-rmpv+with-serde-devel

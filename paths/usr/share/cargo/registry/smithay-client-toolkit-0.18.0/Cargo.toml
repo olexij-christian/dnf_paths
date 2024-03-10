@@ -1,0 +1,7 @@
+rust-smithay-client-toolkit+bytemuck-devel
+rust-smithay-client-toolkit+calloop-devel
+rust-smithay-client-toolkit+calloop-wayland-source-devel
+rust-smithay-client-toolkit+default-devel
+rust-smithay-client-toolkit-devel
+rust-smithay-client-toolkit+pkg-config-devel
+rust-smithay-client-toolkit+xkbcommon-devel

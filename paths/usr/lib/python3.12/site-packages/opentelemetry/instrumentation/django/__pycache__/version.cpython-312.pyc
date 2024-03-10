@@ -1,0 +1,3 @@
+python3-opentelemetry-instrumentation-django
+python3-opentelemetry-instrumentation-django+asgi
+python3-opentelemetry-instrumentation-django+instruments

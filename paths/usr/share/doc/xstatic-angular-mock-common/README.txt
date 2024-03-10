@@ -1,0 +1,1 @@
+xstatic-angular-mock-common

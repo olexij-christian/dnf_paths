@@ -1,0 +1,1 @@
+rust-alacritty_terminal-devel

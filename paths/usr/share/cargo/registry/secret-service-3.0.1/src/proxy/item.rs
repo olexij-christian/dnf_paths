@@ -1,0 +1,1 @@
+rust-secret-service-devel

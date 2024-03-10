@@ -1,0 +1,1 @@
+rust-libcryptsetup-rs-devel

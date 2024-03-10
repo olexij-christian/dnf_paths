@@ -1,0 +1,5 @@
+rust-getrandom+custom-devel
+rust-getrandom+default-devel
+rust-getrandom-devel
+rust-getrandom+rdrand-devel
+rust-getrandom+std-devel

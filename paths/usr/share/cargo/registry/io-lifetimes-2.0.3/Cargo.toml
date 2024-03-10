@@ -1,0 +1,9 @@
+rust-io-lifetimes+async-std-devel
+rust-io-lifetimes+close-devel
+rust-io-lifetimes+default-devel
+rust-io-lifetimes-devel
+rust-io-lifetimes+libc-devel
+rust-io-lifetimes+mio-devel
+rust-io-lifetimes+os_pipe-devel
+rust-io-lifetimes+socket2-devel
+rust-io-lifetimes+tokio-devel

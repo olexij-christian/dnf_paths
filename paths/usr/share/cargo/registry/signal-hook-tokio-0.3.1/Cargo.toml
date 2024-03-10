@@ -1,0 +1,4 @@
+rust-signal-hook-tokio+default-devel
+rust-signal-hook-tokio-devel
+rust-signal-hook-tokio+futures-core-0_3-devel
+rust-signal-hook-tokio+futures-v0_3-devel

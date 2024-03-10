@@ -1,0 +1,5 @@
+rust-bzip2-rs+default-devel
+rust-bzip2-rs-devel
+rust-bzip2-rs+rustc_1_37-devel
+rust-bzip2-rs+rustc_1_40-devel
+rust-bzip2-rs+rustc_1_51-devel

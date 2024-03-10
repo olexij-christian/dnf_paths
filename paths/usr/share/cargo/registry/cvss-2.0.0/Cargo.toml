@@ -1,0 +1,5 @@
+rust-cvss+default-devel
+rust-cvss-devel
+rust-cvss+serde-devel
+rust-cvss+std-devel
+rust-cvss+v3-devel

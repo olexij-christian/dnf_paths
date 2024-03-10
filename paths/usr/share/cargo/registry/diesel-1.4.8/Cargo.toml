@@ -1,0 +1,8 @@
+rust-diesel+deprecated-time-devel
+rust-diesel+num-integer-devel
+rust-diesel+num-traits-devel
+rust-diesel+url-devel
+rust-diesel+uuidv07-devel
+rust-diesel+x128-column-tables-devel
+rust-diesel+x32-column-tables-devel
+rust-diesel+x64-column-tables-devel

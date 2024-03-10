@@ -1,0 +1,1 @@
+ghc-type-equality-doc

@@ -1,0 +1,1 @@
+ghc-hslua-objectorientation-doc

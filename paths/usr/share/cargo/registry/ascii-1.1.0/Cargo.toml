@@ -1,0 +1,6 @@
+rust-ascii+alloc-devel
+rust-ascii+default-devel
+rust-ascii-devel
+rust-ascii+serde-devel
+rust-ascii+serde_test-devel
+rust-ascii+std-devel

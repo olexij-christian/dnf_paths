@@ -1,0 +1,4 @@
+rust-randomize+default-devel
+rust-randomize-devel
+rust-randomize+rand_core-devel
+rust-randomize+serde-devel

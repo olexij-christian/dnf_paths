@@ -1,0 +1,4 @@
+libnuml
+libnuml-doc
+libnuml-static
+python3-libnuml

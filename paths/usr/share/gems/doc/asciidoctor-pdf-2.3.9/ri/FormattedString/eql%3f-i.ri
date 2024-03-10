@@ -1,0 +1,1 @@
+rubygem-asciidoctor-pdf-doc

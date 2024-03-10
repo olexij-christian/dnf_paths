@@ -1,0 +1,11 @@
+rust-nanorand+alloc-devel
+rust-nanorand+chacha-devel
+rust-nanorand+default-devel
+rust-nanorand-devel
+rust-nanorand+getrandom-devel
+rust-nanorand+pcg64-devel
+rust-nanorand+rdseed-devel
+rust-nanorand+std-devel
+rust-nanorand+tls-devel
+rust-nanorand+wyrand-devel
+rust-nanorand+zeroize-devel

@@ -1,0 +1,9 @@
+rust-git2+default-devel
+rust-git2-devel
+rust-git2+https-devel
+rust-git2+openssl-probe-devel
+rust-git2+openssl-sys-devel
+rust-git2+ssh-devel
+rust-git2+ssh_key_from_memory-devel
+rust-git2+unstable-devel
+rust-git2+vendored-libgit2-devel

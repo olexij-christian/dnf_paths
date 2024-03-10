@@ -1,0 +1,9 @@
+rust-deranged+alloc-devel
+rust-deranged+default-devel
+rust-deranged-devel
+rust-deranged+num-devel
+rust-deranged+powerfmt-devel
+rust-deranged+quickcheck-devel
+rust-deranged+rand-devel
+rust-deranged+serde-devel
+rust-deranged+std-devel

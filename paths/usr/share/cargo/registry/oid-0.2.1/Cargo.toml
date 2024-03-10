@@ -1,0 +1,6 @@
+rust-oid+default-devel
+rust-oid-devel
+rust-oid+serde-devel
+rust-oid+serde_support-devel
+rust-oid+std-devel
+rust-oid+u32-devel

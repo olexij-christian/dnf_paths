@@ -1,0 +1,6 @@
+rust-slog-term+default-devel
+rust-slog-term-devel
+rust-slog-term+erased-serde-devel
+rust-slog-term+nested-values-devel
+rust-slog-term+serde-devel
+rust-slog-term+serde_json-devel

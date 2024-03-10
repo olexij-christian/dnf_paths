@@ -1,0 +1,11 @@
+rust-sec1+alloc-devel
+rust-sec1+default-devel
+rust-sec1+der-devel
+rust-sec1-devel
+rust-sec1+pem-devel
+rust-sec1+pkcs8-devel
+rust-sec1+point-devel
+rust-sec1+serde-devel
+rust-sec1+std-devel
+rust-sec1+subtle-devel
+rust-sec1+zeroize-devel

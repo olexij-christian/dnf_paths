@@ -1,0 +1,1 @@
+rust-freetype-sys-devel

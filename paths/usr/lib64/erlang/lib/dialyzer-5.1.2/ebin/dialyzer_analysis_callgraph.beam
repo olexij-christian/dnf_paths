@@ -1,0 +1,1 @@
+erlang-dialyzer

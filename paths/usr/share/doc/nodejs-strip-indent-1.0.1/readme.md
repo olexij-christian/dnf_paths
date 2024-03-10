@@ -1,0 +1,1 @@
+nodejs-strip-indent

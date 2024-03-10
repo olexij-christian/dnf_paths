@@ -1,0 +1,1 @@
+ghc-resource-pool-devel

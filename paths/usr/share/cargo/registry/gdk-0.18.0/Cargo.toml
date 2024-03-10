@@ -1,0 +1,4 @@
+rust-gdk+default-devel
+rust-gdk-devel
+rust-gdk+unsafe-assume-initialized-devel
+rust-gdk+v3_24-devel

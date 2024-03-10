@@ -1,0 +1,1 @@
+rust-terminfo-devel

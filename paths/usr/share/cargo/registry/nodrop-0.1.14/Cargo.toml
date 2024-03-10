@@ -1,0 +1,4 @@
+rust-nodrop+default-devel
+rust-nodrop-devel
+rust-nodrop+std-devel
+rust-nodrop+use_needs_drop-devel

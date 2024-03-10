@@ -1,0 +1,10 @@
+rust-half1+alloc-devel
+rust-half1+bytemuck-devel
+rust-half1+default-devel
+rust-half1-devel
+rust-half1+num-traits-devel
+rust-half1+serde-devel
+rust-half1+serialize-devel
+rust-half1+std-devel
+rust-half1+use-intrinsics-devel
+rust-half+serialize-devel

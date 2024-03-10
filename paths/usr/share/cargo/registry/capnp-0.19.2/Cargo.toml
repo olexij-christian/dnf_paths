@@ -1,0 +1,8 @@
+rust-capnp+alloc-devel
+rust-capnp+default-devel
+rust-capnp-devel
+rust-capnp+quickcheck-devel
+rust-capnp+rpc_try-devel
+rust-capnp+std-devel
+rust-capnp+sync_reader-devel
+rust-capnp+unaligned-devel

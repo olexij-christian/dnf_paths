@@ -1,0 +1,4 @@
+rust-gix-ignore+default-devel
+rust-gix-ignore-devel
+rust-gix-ignore+document-features-devel
+rust-gix-ignore+serde-devel

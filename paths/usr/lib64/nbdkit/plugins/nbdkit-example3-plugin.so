@@ -1,0 +1,1 @@
+nbdkit-example-plugins

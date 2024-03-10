@@ -1,0 +1,7 @@
+rust-cookie_store+default-devel
+rust-cookie_store-devel
+rust-cookie_store+indexmap-devel
+rust-cookie_store+log_secure_cookie_values-devel
+rust-cookie_store+preserve_order-devel
+rust-cookie_store+public_suffix-devel
+rust-cookie_store+publicsuffix-devel

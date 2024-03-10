@@ -1,0 +1,4 @@
+rust-slog-async+default-devel
+rust-slog-async-devel
+rust-slog-async+dynamic-keys-devel
+rust-slog-async+nested-values-devel

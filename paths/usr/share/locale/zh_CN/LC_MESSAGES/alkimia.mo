@@ -1,0 +1,1 @@
+libalkimia-qt5

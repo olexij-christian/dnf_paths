@@ -1,0 +1,1 @@
+ocaml-rpm-macros

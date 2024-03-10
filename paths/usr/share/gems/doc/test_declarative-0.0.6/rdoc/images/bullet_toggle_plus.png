@@ -1,0 +1,1 @@
+rubygem-test_declarative-doc

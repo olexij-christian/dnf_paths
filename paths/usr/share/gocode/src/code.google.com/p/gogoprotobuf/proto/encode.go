@@ -1,0 +1,1 @@
+golang-googlecode-gogoprotobuf-devel

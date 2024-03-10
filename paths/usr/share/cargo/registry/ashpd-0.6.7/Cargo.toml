@@ -1,0 +1,13 @@
+rust-ashpd+async-std-devel
+rust-ashpd+default-devel
+rust-ashpd-devel
+rust-ashpd+gdk4wayland-devel
+rust-ashpd+gdk4x11-devel
+rust-ashpd+gtk4-devel
+rust-ashpd+gtk4_wayland-devel
+rust-ashpd+gtk4_x11-devel
+rust-ashpd+libc-devel
+rust-ashpd+pipewire-devel
+rust-ashpd+pw-devel
+rust-ashpd+tokio-devel
+rust-ashpd+tracing-devel

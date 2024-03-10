@@ -1,0 +1,7 @@
+rust-simplelog+ansi_term-devel
+rust-simplelog+default-devel
+rust-simplelog-devel
+rust-simplelog+local-offset-devel
+rust-simplelog+paris-devel
+rust-simplelog+termcolor-devel
+rust-simplelog+test-devel

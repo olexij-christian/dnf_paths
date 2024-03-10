@@ -1,0 +1,9 @@
+rust-matrixmultiply+cgemm-devel
+rust-matrixmultiply+constconf-devel
+rust-matrixmultiply+default-devel
+rust-matrixmultiply-devel
+rust-matrixmultiply+num_cpus-devel
+rust-matrixmultiply+once_cell-devel
+rust-matrixmultiply+std-devel
+rust-matrixmultiply+threading-devel
+rust-matrixmultiply+thread-tree-devel

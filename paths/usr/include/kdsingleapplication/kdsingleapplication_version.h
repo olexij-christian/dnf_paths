@@ -1,0 +1,1 @@
+kdsingleapplication-qt5-devel

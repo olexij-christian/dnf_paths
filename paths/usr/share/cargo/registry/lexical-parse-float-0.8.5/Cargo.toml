@@ -1,0 +1,12 @@
+rust-lexical-parse-float+compact-devel
+rust-lexical-parse-float+default-devel
+rust-lexical-parse-float-devel
+rust-lexical-parse-float+f128-devel
+rust-lexical-parse-float+f16-devel
+rust-lexical-parse-float+format-devel
+rust-lexical-parse-float+lint-devel
+rust-lexical-parse-float+nightly-devel
+rust-lexical-parse-float+power-of-two-devel
+rust-lexical-parse-float+radix-devel
+rust-lexical-parse-float+safe-devel
+rust-lexical-parse-float+std-devel

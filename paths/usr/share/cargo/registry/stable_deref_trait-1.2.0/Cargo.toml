@@ -1,0 +1,4 @@
+rust-stable_deref_trait+alloc-devel
+rust-stable_deref_trait+default-devel
+rust-stable_deref_trait-devel
+rust-stable_deref_trait+std-devel

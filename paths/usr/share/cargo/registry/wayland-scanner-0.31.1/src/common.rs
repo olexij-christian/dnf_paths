@@ -1,0 +1,1 @@
+rust-wayland-scanner-devel

@@ -1,0 +1,1 @@
+librs232-devel

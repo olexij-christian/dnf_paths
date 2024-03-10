@@ -1,0 +1,5 @@
+rust-servo_arc+default-devel
+rust-servo_arc-devel
+rust-servo_arc+gecko_refcount_logging-devel
+rust-servo_arc+serde-devel
+rust-servo_arc+servo-devel

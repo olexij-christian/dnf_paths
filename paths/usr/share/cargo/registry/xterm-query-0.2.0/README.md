@@ -1,0 +1,1 @@
+rust-xterm-query-devel

@@ -1,0 +1,1 @@
+ghc-haxr-devel

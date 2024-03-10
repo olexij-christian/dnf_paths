@@ -1,0 +1,7 @@
+rust-rtnetlink+async-global-executor-devel
+rust-rtnetlink+default-devel
+rust-rtnetlink-devel
+rust-rtnetlink+smol_socket-devel
+rust-rtnetlink+test_as_root-devel
+rust-rtnetlink+tokio-devel
+rust-rtnetlink+tokio_socket-devel

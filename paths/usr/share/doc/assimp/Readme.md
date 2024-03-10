@@ -1,0 +1,2 @@
+assimp
+assimp-doc

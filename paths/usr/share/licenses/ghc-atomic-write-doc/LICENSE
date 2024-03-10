@@ -1,0 +1,1 @@
+ghc-atomic-write-doc

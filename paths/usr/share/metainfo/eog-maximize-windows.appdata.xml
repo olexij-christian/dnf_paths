@@ -1,0 +1,1 @@
+eog-plugin-maximize-windows

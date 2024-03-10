@@ -1,0 +1,7 @@
+rust-drm-fourcc+bindgen-devel
+rust-drm-fourcc+build_bindings-devel
+rust-drm-fourcc+default-devel
+rust-drm-fourcc-devel
+rust-drm-fourcc+regex-devel
+rust-drm-fourcc+serde-devel
+rust-drm-fourcc+std-devel

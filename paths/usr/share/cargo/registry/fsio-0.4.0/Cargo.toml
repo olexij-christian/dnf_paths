@@ -1,0 +1,4 @@
+rust-fsio+default-devel
+rust-fsio-devel
+rust-fsio+rand-devel
+rust-fsio+temp-path-devel

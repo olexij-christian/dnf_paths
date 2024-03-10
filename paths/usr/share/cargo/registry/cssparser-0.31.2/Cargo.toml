@@ -1,0 +1,5 @@
+rust-cssparser+bench-devel
+rust-cssparser+default-devel
+rust-cssparser-devel
+rust-cssparser+dummy_match_byte-devel
+rust-cssparser+serde-devel

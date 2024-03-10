@@ -1,0 +1,5 @@
+rust-tui0.17+crossterm-devel
+rust-tui0.17+default-devel
+rust-tui0.17-devel
+rust-tui0.17+serde-devel
+rust-tui0.17+termion-devel

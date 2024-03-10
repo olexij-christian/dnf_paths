@@ -1,0 +1,1 @@
+python3-asahi_firmware

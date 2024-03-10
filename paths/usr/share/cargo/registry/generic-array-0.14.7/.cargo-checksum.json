@@ -1,0 +1,1 @@
+rust-generic-array-devel

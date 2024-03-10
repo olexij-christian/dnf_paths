@@ -1,0 +1,1 @@
+texlive-smart-eqn

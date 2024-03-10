@@ -1,0 +1,1 @@
+ghc-cabal-install-devel

@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-grpc
+python3-opentelemetry-instrumentation-grpc+instruments

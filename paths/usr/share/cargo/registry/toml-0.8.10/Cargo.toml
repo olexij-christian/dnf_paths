@@ -1,0 +1,6 @@
+rust-toml+default-devel
+rust-toml-devel
+rust-toml+display-devel
+rust-toml+indexmap-devel
+rust-toml+parse-devel
+rust-toml+preserve_order-devel

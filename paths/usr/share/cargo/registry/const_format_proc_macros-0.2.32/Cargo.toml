@@ -1,0 +1,6 @@
+rust-const_format_proc_macros+all-devel
+rust-const_format_proc_macros+debug-devel
+rust-const_format_proc_macros+default-devel
+rust-const_format_proc_macros+derive-devel
+rust-const_format_proc_macros-devel
+rust-const_format_proc_macros+syn-devel

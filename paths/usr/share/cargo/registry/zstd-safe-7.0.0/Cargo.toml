@@ -1,0 +1,16 @@
+rust-zstd-safe+arrays-devel
+rust-zstd-safe+bindgen-devel
+rust-zstd-safe+debug-devel
+rust-zstd-safe+default-devel
+rust-zstd-safe-devel
+rust-zstd-safe+doc-cfg-devel
+rust-zstd-safe+experimental-devel
+rust-zstd-safe+fat-lto-devel
+rust-zstd-safe+legacy-devel
+rust-zstd-safe+no_asm-devel
+rust-zstd-safe+pkg-config-devel
+rust-zstd-safe+std-devel
+rust-zstd-safe+thin-devel
+rust-zstd-safe+thin-lto-devel
+rust-zstd-safe+zdict_builder-devel
+rust-zstd-safe+zstdmt-devel

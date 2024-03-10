@@ -1,0 +1,12 @@
+rust-tera+builtins-devel
+rust-tera+chrono-devel
+rust-tera+chrono-tz-devel
+rust-tera+date-locale-devel
+rust-tera+default-devel
+rust-tera-devel
+rust-tera+humansize-devel
+rust-tera+percent-encoding-devel
+rust-tera+preserve_order-devel
+rust-tera+rand-devel
+rust-tera+slug-devel
+rust-tera+urlencode-devel

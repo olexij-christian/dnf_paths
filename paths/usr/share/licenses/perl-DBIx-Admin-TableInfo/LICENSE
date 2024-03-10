@@ -1,0 +1,1 @@
+perl-DBIx-Admin-TableInfo

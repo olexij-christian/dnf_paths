@@ -1,0 +1,9 @@
+rust-hdrhistogram+base64-devel
+rust-hdrhistogram+bench_private-devel
+rust-hdrhistogram+crossbeam-channel-devel
+rust-hdrhistogram+default-devel
+rust-hdrhistogram-devel
+rust-hdrhistogram+flate2-devel
+rust-hdrhistogram+nom-devel
+rust-hdrhistogram+serialization-devel
+rust-hdrhistogram+sync-devel

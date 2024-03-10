@@ -1,0 +1,13 @@
+python3-hypothesis
+python3-hypothesis+cli
+python3-hypothesis+codemods
+python3-hypothesis+dateutil
+python3-hypothesis+django
+python3-hypothesis+ghostwriter
+python3-hypothesis+lark
+python3-hypothesis+numpy
+python3-hypothesis+pandas
+python3-hypothesis+pytest
+python3-hypothesis+pytz
+python3-hypothesis+redis
+python3-hypothesis+zoneinfo

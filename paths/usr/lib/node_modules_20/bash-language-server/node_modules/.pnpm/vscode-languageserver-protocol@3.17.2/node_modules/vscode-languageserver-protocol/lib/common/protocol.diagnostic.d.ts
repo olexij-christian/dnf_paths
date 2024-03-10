@@ -1,0 +1,1 @@
+nodejs-bash-language-server

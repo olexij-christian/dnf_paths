@@ -1,0 +1,1 @@
+rust-stable_deref_trait-devel

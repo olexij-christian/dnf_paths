@@ -1,0 +1,1 @@
+perl-Lingua-PT-Stemmer

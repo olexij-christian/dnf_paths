@@ -1,0 +1,1 @@
+golang-github-bugsnag-devel

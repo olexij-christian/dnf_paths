@@ -1,0 +1,6 @@
+rust-gix-archive+default-devel
+rust-gix-archive-devel
+rust-gix-archive+document-features-devel
+rust-gix-archive+tar-devel
+rust-gix-archive+tar_gz-devel
+rust-gix-archive+zip-devel

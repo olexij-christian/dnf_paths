@@ -1,0 +1,10 @@
+rust-flate2+any_impl-devel
+rust-flate2+any_zlib-devel
+rust-flate2+default-devel
+rust-flate2-devel
+rust-flate2+libz-sys-devel
+rust-flate2+miniz_oxide-devel
+rust-flate2+miniz-sys-devel
+rust-flate2+rust_backend-devel
+rust-flate2+zlib-default-devel
+rust-flate2+zlib-devel

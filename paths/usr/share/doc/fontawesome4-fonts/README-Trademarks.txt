@@ -1,0 +1,1 @@
+fontawesome4-fonts

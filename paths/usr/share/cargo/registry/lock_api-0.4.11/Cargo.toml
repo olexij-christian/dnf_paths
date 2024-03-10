@@ -1,0 +1,7 @@
+rust-lock_api+arc_lock-devel
+rust-lock_api+atomic_usize-devel
+rust-lock_api+default-devel
+rust-lock_api-devel
+rust-lock_api+nightly-devel
+rust-lock_api+owning_ref-devel
+rust-lock_api+serde-devel

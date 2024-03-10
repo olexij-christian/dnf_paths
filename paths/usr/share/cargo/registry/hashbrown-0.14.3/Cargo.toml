@@ -1,0 +1,10 @@
+rust-hashbrown+ahash-devel
+rust-hashbrown+allocator-api2-devel
+rust-hashbrown+default-devel
+rust-hashbrown-devel
+rust-hashbrown+equivalent-devel
+rust-hashbrown+inline-more-devel
+rust-hashbrown+raw-devel
+rust-hashbrown+rayon-devel
+rust-hashbrown+rkyv-devel
+rust-hashbrown+serde-devel

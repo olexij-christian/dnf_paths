@@ -1,0 +1,12 @@
+python3-sqlalchemy
+python3-sqlalchemy+aiomysql
+python3-sqlalchemy+aioodbc
+python3-sqlalchemy+aiosqlite
+python3-sqlalchemy+asyncio
+python3-sqlalchemy+asyncmy
+python3-sqlalchemy+mypy
+python3-sqlalchemy+mysql
+python3-sqlalchemy+mysql_connector
+python3-sqlalchemy+postgresql
+python3-sqlalchemy+postgresql_asyncpg
+python3-sqlalchemy+pymysql

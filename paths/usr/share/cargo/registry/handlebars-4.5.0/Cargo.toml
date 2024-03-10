@@ -1,0 +1,7 @@
+rust-handlebars+default-devel
+rust-handlebars-devel
+rust-handlebars+dir_source-devel
+rust-handlebars+heck-devel
+rust-handlebars+no_logging-devel
+rust-handlebars+string_helpers-devel
+rust-handlebars+walkdir-devel

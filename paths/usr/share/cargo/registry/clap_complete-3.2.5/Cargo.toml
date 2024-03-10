@@ -1,0 +1,10 @@
+rust-clap_complete3+clap_lex-devel
+rust-clap_complete3+debug-devel
+rust-clap_complete3+default-devel
+rust-clap_complete3-devel
+rust-clap_complete3+is_executable-devel
+rust-clap_complete3+os_str_bytes-devel
+rust-clap_complete3+pathdiff-devel
+rust-clap_complete3+shlex-devel
+rust-clap_complete3+unicode-xid-devel
+rust-clap_complete3+unstable-dynamic-devel

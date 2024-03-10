@@ -1,0 +1,5 @@
+rust-configparser+async-std-devel
+rust-configparser+default-devel
+rust-configparser-devel
+rust-configparser+indexmap-devel
+rust-configparser+tokio-devel

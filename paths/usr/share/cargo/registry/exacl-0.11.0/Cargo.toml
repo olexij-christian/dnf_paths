@@ -1,0 +1,4 @@
+rust-exacl+buildtime_bindgen-devel
+rust-exacl+default-devel
+rust-exacl-devel
+rust-exacl+serde-devel

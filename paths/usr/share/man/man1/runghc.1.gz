@@ -1,0 +1,7 @@
+ghc8.10-compiler
+ghc9.0-compiler
+ghc9.2-compiler
+ghc9.4-compiler
+ghc9.6-compiler
+ghc9.8-compiler
+ghc-compiler

@@ -1,0 +1,6 @@
+rust-bytecheck+default-devel
+rust-bytecheck-devel
+rust-bytecheck+simdutf8-devel
+rust-bytecheck+std-devel
+rust-bytecheck+uuid-devel
+rust-bytecheck+verbose-devel

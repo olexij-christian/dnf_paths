@@ -1,0 +1,1 @@
+abrt-server-info-page

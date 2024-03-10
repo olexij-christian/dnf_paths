@@ -1,0 +1,1 @@
+kdiagram2-devel

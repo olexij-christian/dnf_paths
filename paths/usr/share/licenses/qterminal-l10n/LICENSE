@@ -1,0 +1,1 @@
+qterminal-l10n

@@ -1,0 +1,1 @@
+ghc-snap-core-doc

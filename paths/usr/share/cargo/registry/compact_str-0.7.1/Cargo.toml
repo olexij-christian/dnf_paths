@@ -1,0 +1,9 @@
+rust-compact_str+arbitrary-devel
+rust-compact_str+bytes-devel
+rust-compact_str+default-devel
+rust-compact_str-devel
+rust-compact_str+proptest-devel
+rust-compact_str+quickcheck-devel
+rust-compact_str+rkyv-devel
+rust-compact_str+serde-devel
+rust-compact_str+smallvec-devel

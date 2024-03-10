@@ -1,0 +1,6 @@
+rust-mio+default-devel
+rust-mio-devel
+rust-mio+log-devel
+rust-mio+net-devel
+rust-mio+os-ext-devel
+rust-mio+os-poll-devel

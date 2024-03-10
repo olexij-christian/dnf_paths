@@ -1,0 +1,4 @@
+rust-cxx-build+default-devel
+rust-cxx-build-devel
+rust-cxx-build+experimental-async-fn-devel
+rust-cxx-build+parallel-devel

@@ -1,0 +1,1 @@
+nodejs-normalize-package-data

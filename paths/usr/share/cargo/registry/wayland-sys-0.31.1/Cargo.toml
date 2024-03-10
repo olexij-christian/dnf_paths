@@ -1,0 +1,10 @@
+rust-wayland-sys+client-devel
+rust-wayland-sys+cursor-devel
+rust-wayland-sys+default-devel
+rust-wayland-sys-devel
+rust-wayland-sys+dlopen-devel
+rust-wayland-sys+egl-devel
+rust-wayland-sys+libc-devel
+rust-wayland-sys+memoffset-devel
+rust-wayland-sys+once_cell-devel
+rust-wayland-sys+server-devel

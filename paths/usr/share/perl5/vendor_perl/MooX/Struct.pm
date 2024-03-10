@@ -1,0 +1,1 @@
+perl-MooX-Struct

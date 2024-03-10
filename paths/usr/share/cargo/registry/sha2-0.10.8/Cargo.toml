@@ -1,0 +1,10 @@
+rust-sha2+asm-aarch64-devel
+rust-sha2+asm-devel
+rust-sha2+compress-devel
+rust-sha2+default-devel
+rust-sha2-devel
+rust-sha2+force-soft-devel
+rust-sha2+loongarch64_asm-devel
+rust-sha2+oid-devel
+rust-sha2+sha2-asm-devel
+rust-sha2+std-devel

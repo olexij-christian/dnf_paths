@@ -1,0 +1,4 @@
+rust-slab+default-devel
+rust-slab-devel
+rust-slab+serde-devel
+rust-slab+std-devel

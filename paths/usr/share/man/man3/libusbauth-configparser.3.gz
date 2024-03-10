@@ -1,0 +1,1 @@
+libusbauth-configparser-devel

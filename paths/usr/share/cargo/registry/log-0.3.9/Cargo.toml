@@ -1,0 +1,16 @@
+rust-log0.3+default-devel
+rust-log0.3-devel
+rust-log0.3+max_level_debug-devel
+rust-log0.3+max_level_error-devel
+rust-log0.3+max_level_info-devel
+rust-log0.3+max_level_off-devel
+rust-log0.3+max_level_trace-devel
+rust-log0.3+max_level_warn-devel
+rust-log0.3+nightly-devel
+rust-log0.3+release_max_level_debug-devel
+rust-log0.3+release_max_level_error-devel
+rust-log0.3+release_max_level_info-devel
+rust-log0.3+release_max_level_off-devel
+rust-log0.3+release_max_level_trace-devel
+rust-log0.3+release_max_level_warn-devel
+rust-log0.3+use_std-devel

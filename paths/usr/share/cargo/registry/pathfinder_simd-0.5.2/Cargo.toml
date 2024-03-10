@@ -1,0 +1,3 @@
+rust-pathfinder_simd+default-devel
+rust-pathfinder_simd-devel
+rust-pathfinder_simd+pf-no-simd-devel

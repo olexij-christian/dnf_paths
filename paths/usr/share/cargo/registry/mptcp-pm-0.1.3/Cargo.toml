@@ -1,0 +1,6 @@
+rust-mptcp-pm+async-std-devel
+rust-mptcp-pm+default-devel
+rust-mptcp-pm-devel
+rust-mptcp-pm+smol_socket-devel
+rust-mptcp-pm+tokio-devel
+rust-mptcp-pm+tokio_socket-devel

@@ -1,0 +1,1 @@
+ghc-indexed-traversable-doc

@@ -1,0 +1,5 @@
+rust-serde_with+base64_crate-devel
+rust-serde_with+chrono_crate-devel
+rust-serde_with+doc-comment-devel
+rust-serde_with+serde_json-devel
+rust-serde_with+serde_with_macros-devel

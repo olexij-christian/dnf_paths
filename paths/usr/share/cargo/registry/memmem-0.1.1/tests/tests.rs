@@ -1,0 +1,1 @@
+rust-memmem-devel

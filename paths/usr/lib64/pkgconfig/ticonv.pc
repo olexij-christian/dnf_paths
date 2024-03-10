@@ -1,0 +1,2 @@
+libticonv-devel
+tilibs-devel

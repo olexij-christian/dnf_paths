@@ -1,0 +1,2 @@
+rapidjson-devel
+rapidjson-doc

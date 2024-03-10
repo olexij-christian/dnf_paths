@@ -1,0 +1,7 @@
+rust-openssl+bindgen-devel
+rust-openssl+default-devel
+rust-openssl-devel
+rust-openssl+v101-devel
+rust-openssl+v102-devel
+rust-openssl+v110-devel
+rust-openssl+v111-devel

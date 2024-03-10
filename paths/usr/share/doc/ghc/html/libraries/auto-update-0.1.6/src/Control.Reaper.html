@@ -1,0 +1,1 @@
+ghc-auto-update-doc

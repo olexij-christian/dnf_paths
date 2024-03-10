@@ -1,0 +1,1 @@
+ghc-highlighting-kate-devel

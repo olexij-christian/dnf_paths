@@ -1,0 +1,9 @@
+rust-simple_logger+colored-devel
+rust-simple_logger+colors-devel
+rust-simple_logger+default-devel
+rust-simple_logger-devel
+rust-simple_logger+nightly-devel
+rust-simple_logger+stderr-devel
+rust-simple_logger+threads-devel
+rust-simple_logger+time-devel
+rust-simple_logger+timestamps-devel

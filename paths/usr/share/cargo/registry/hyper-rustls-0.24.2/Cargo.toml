@@ -1,0 +1,13 @@
+rust-hyper-rustls+acceptor-devel
+rust-hyper-rustls+default-devel
+rust-hyper-rustls-devel
+rust-hyper-rustls+http1-devel
+rust-hyper-rustls+http2-devel
+rust-hyper-rustls+log-devel
+rust-hyper-rustls+logging-devel
+rust-hyper-rustls+native-tokio-devel
+rust-hyper-rustls+rustls-native-certs-devel
+rust-hyper-rustls+tls12-devel
+rust-hyper-rustls+tokio-runtime-devel
+rust-hyper-rustls+webpki-roots-devel
+rust-hyper-rustls+webpki-tokio-devel

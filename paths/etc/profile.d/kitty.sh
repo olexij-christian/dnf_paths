@@ -1,0 +1,1 @@
+kitty-bash-integration

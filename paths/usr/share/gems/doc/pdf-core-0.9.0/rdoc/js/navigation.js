@@ -1,0 +1,1 @@
+rubygem-pdf-core-doc

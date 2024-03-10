@@ -1,0 +1,1 @@
+rust-comfy-table-devel

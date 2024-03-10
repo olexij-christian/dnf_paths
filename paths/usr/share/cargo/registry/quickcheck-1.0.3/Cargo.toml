@@ -1,0 +1,6 @@
+rust-quickcheck+default-devel
+rust-quickcheck-devel
+rust-quickcheck+env_logger-devel
+rust-quickcheck+log-devel
+rust-quickcheck+regex-devel
+rust-quickcheck+use_logging-devel

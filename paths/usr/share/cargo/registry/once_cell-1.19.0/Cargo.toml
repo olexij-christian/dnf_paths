@@ -1,0 +1,12 @@
+rust-once_cell+alloc-devel
+rust-once_cell+atomic-polyfill-devel
+rust-once_cell+atomic_polyfill-devel
+rust-once_cell+critical-section-devel
+rust-once_cell+critical_section-devel
+rust-once_cell+default-devel
+rust-once_cell-devel
+rust-once_cell+parking_lot-devel
+rust-once_cell+portable-atomic-devel
+rust-once_cell+race-devel
+rust-once_cell+std-devel
+rust-once_cell+unstable-devel

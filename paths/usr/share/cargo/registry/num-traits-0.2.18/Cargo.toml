@@ -1,0 +1,5 @@
+rust-num-traits+default-devel
+rust-num-traits-devel
+rust-num-traits+i128-devel
+rust-num-traits+libm-devel
+rust-num-traits+std-devel

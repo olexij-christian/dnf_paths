@@ -1,0 +1,1 @@
+catharsis-cormorant-upright-fonts

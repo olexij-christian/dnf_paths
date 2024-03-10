@@ -1,0 +1,11 @@
+rust-inferno+clap-devel
+rust-inferno+cli-devel
+rust-inferno+crossbeam-channel-devel
+rust-inferno+crossbeam-utils-devel
+rust-inferno+dashmap-devel
+rust-inferno+default-devel
+rust-inferno-devel
+rust-inferno+env_logger-devel
+rust-inferno+indexmap-devel
+rust-inferno+multithreaded-devel
+rust-inferno+nameattr-devel

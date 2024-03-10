@@ -1,0 +1,13 @@
+rust-goblin+alloc-devel
+rust-goblin+archive-devel
+rust-goblin+default-devel
+rust-goblin-devel
+rust-goblin+elf32-devel
+rust-goblin+elf64-devel
+rust-goblin+endian_fd-devel
+rust-goblin+log-devel
+rust-goblin+mach32-devel
+rust-goblin+mach64-devel
+rust-goblin+pe32-devel
+rust-goblin+pe64-devel
+rust-goblin+std-devel

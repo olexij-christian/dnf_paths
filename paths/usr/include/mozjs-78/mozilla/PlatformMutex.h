@@ -1,0 +1,1 @@
+mozjs78-devel

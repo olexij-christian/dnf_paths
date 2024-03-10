@@ -1,0 +1,1 @@
+rust-diesel_table_macro_syntax-devel

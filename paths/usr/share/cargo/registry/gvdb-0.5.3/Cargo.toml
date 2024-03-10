@@ -1,0 +1,5 @@
+rust-gvdb+default-devel
+rust-gvdb-devel
+rust-gvdb+glib-devel
+rust-gvdb+gresource-devel
+rust-gvdb+mmap-devel

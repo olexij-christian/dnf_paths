@@ -1,0 +1,1 @@
+perl-bareword-filehandles-tests

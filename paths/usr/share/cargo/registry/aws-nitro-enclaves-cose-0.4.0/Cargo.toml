@@ -1,0 +1,5 @@
+rust-aws-nitro-enclaves-cose+default-devel
+rust-aws-nitro-enclaves-cose-devel
+rust-aws-nitro-enclaves-cose+key_openssl_pkey-devel
+rust-aws-nitro-enclaves-cose+key_tpm-devel
+rust-aws-nitro-enclaves-cose+tss-esapi-devel

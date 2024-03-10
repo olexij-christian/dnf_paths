@@ -1,0 +1,6 @@
+rust-sha256+async-devel
+rust-sha256+default-devel
+rust-sha256-devel
+rust-sha256+native_openssl-devel
+rust-sha256+openssl-devel
+rust-sha256+tokio-devel

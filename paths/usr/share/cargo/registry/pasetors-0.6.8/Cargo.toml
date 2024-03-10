@@ -1,0 +1,16 @@
+rust-pasetors+default-devel
+rust-pasetors-devel
+rust-pasetors+ed25519-compact-devel
+rust-pasetors+orion-devel
+rust-pasetors+p384-devel
+rust-pasetors+paserk-devel
+rust-pasetors+rand_core-devel
+rust-pasetors+regex-devel
+rust-pasetors+serde-devel
+rust-pasetors+serde_json-devel
+rust-pasetors+sha2-devel
+rust-pasetors+std-devel
+rust-pasetors+time-devel
+rust-pasetors+v2-devel
+rust-pasetors+v3-devel
+rust-pasetors+v4-devel

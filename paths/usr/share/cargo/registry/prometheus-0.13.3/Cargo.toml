@@ -1,0 +1,10 @@
+rust-prometheus+default-devel
+rust-prometheus-devel
+rust-prometheus+gen-devel
+rust-prometheus+libc-devel
+rust-prometheus+nightly-devel
+rust-prometheus+process-devel
+rust-prometheus+procfs-devel
+rust-prometheus+protobuf-codegen-pure-devel
+rust-prometheus+push-devel
+rust-prometheus+reqwest-devel

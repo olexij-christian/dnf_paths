@@ -1,0 +1,1 @@
+libgnomecanvasmm26-devel

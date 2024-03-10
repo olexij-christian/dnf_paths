@@ -1,0 +1,8 @@
+rust-num+alloc-devel
+rust-num+default-devel
+rust-num-devel
+rust-num+libm-devel
+rust-num+num-bigint-devel
+rust-num+rand-devel
+rust-num+serde-devel
+rust-num+std-devel

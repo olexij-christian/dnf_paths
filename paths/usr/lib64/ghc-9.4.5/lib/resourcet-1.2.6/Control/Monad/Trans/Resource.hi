@@ -1,0 +1,1 @@
+ghc-resourcet-devel

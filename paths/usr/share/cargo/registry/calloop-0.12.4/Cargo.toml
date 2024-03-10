@@ -1,0 +1,9 @@
+rust-calloop+async-task-devel
+rust-calloop+block_on-devel
+rust-calloop+default-devel
+rust-calloop-devel
+rust-calloop+executor-devel
+rust-calloop+futures-io-devel
+rust-calloop+nix-devel
+rust-calloop+pin-utils-devel
+rust-calloop+signals-devel

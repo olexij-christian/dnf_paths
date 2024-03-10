@@ -1,0 +1,3 @@
+rust-libheif-sys+default-devel
+rust-libheif-sys-devel
+rust-libheif-sys+use-bindgen-devel

@@ -1,0 +1,1 @@
+rust-dirs-sys-devel

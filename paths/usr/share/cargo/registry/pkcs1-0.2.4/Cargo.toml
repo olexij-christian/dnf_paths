@@ -1,0 +1,8 @@
+rust-pkcs1_0.2+alloc-devel
+rust-pkcs1_0.2+default-devel
+rust-pkcs1_0.2-devel
+rust-pkcs1_0.2+pem-devel
+rust-pkcs1_0.2+pem-rfc7468-devel
+rust-pkcs1_0.2+std-devel
+rust-pkcs1_0.2+zeroize-devel
+rust-pkcs1+pem-rfc7468-devel

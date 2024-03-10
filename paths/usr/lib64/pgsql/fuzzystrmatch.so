@@ -1,0 +1,3 @@
+postgresql15-contrib
+postgresql16-contrib
+postgresql-contrib

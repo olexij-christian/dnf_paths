@@ -1,0 +1,2 @@
+dmtcp-devel
+slimdata-devel

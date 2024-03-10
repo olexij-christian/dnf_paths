@@ -1,0 +1,5 @@
+rust-nmstate+default-devel
+rust-nmstate-devel
+rust-nmstate+gen_conf-devel
+rust-nmstate+gen_revert-devel
+rust-nmstate+query_apply-devel

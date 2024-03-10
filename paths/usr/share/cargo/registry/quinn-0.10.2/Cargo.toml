@@ -1,0 +1,13 @@
+rust-quinn+async-io-devel
+rust-quinn+async-std-devel
+rust-quinn+default-devel
+rust-quinn-devel
+rust-quinn+futures-io-devel
+rust-quinn+lock_tracking-devel
+rust-quinn+log-devel
+rust-quinn+native-certs-devel
+rust-quinn+ring-devel
+rust-quinn+runtime-async-std-devel
+rust-quinn+runtime-tokio-devel
+rust-quinn+rustls-devel
+rust-quinn+tls-rustls-devel

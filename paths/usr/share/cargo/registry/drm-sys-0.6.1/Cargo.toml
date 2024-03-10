@@ -1,0 +1,6 @@
+rust-drm-sys+bindgen-devel
+rust-drm-sys+default-devel
+rust-drm-sys-devel
+rust-drm-sys+pkg-config-devel
+rust-drm-sys+update_bindings-devel
+rust-drm-sys+use_bindgen-devel

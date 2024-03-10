@@ -1,0 +1,1 @@
+plasma-applet-weather-widget

@@ -1,0 +1,9 @@
+rust-crunchy+default-devel
+rust-crunchy-devel
+rust-crunchy+limit_1024-devel
+rust-crunchy+limit_128-devel
+rust-crunchy+limit_2048-devel
+rust-crunchy+limit_256-devel
+rust-crunchy+limit_512-devel
+rust-crunchy+limit_64-devel
+rust-crunchy+std-devel

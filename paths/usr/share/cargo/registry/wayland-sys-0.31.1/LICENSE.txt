@@ -1,0 +1,1 @@
+rust-wayland-sys-devel

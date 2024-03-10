@@ -1,0 +1,1 @@
+ghc-pretty-terminal-doc

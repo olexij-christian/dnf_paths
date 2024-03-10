@@ -1,0 +1,1 @@
+rubygem-chunky_png

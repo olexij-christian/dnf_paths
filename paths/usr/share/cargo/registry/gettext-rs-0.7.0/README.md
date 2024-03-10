@@ -1,0 +1,1 @@
+rust-gettext-rs-devel

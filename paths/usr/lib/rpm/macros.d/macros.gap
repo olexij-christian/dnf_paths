@@ -1,0 +1,1 @@
+gap-rpm-macros

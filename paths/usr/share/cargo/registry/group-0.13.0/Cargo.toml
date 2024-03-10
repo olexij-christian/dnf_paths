@@ -1,0 +1,6 @@
+rust-group+alloc-devel
+rust-group+default-devel
+rust-group-devel
+rust-group+rand-devel
+rust-group+rand_xorshift-devel
+rust-group+tests-devel

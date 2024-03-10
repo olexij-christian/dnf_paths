@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-urllib
+python3-opentelemetry-instrumentation-urllib+instruments

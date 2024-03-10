@@ -1,0 +1,1 @@
+php-symfony-property-access

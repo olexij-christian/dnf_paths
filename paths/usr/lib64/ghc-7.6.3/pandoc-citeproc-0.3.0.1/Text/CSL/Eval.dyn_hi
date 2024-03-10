@@ -1,0 +1,1 @@
+ghc-pandoc-citeproc-devel

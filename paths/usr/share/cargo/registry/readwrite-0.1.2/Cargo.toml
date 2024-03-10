@@ -1,0 +1,5 @@
+rust-readwrite+default-devel
+rust-readwrite-devel
+rust-readwrite+futures-devel
+rust-readwrite+tokio-devel
+rust-readwrite+tokio-io-devel

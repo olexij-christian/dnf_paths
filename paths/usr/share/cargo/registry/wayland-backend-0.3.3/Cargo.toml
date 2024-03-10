@@ -1,0 +1,7 @@
+rust-wayland-backend+client_system-devel
+rust-wayland-backend+default-devel
+rust-wayland-backend-devel
+rust-wayland-backend+dlopen-devel
+rust-wayland-backend+log-devel
+rust-wayland-backend+raw-window-handle-devel
+rust-wayland-backend+server_system-devel

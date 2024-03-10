@@ -1,0 +1,16 @@
+rust-value-bag+alloc-devel
+rust-value-bag+default-devel
+rust-value-bag-devel
+rust-value-bag+error-devel
+rust-value-bag+inline-i128-devel
+rust-value-bag+owned-devel
+rust-value-bag+seq-devel
+rust-value-bag+serde1-devel
+rust-value-bag+serde-devel
+rust-value-bag+std-devel
+rust-value-bag-sval2+default-devel
+rust-value-bag+sval2-devel
+rust-value-bag+sval-devel
+rust-value-bag+test-devel
+rust-value-bag+value-bag-serde1-devel
+rust-value-bag+value-bag-sval2-devel

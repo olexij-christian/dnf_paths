@@ -1,0 +1,1 @@
+libeasyfc-gobject-devel

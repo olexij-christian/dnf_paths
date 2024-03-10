@@ -1,0 +1,10 @@
+rust-rsa+alloc-devel
+rust-rsa+default-devel
+rust-rsa-devel
+rust-rsa+expose-internals-devel
+rust-rsa+nightly-devel
+rust-rsa+pem-devel
+rust-rsa+pkcs5-devel
+rust-rsa+serde_crate-devel
+rust-rsa+serde-devel
+rust-rsa+std-devel

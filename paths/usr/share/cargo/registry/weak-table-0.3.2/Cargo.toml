@@ -1,0 +1,5 @@
+rust-weak-table+ahash-devel
+rust-weak-table+alloc-devel
+rust-weak-table+default-devel
+rust-weak-table-devel
+rust-weak-table+std-devel

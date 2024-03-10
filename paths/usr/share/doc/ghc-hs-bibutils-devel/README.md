@@ -1,0 +1,1 @@
+ghc-hs-bibutils-devel

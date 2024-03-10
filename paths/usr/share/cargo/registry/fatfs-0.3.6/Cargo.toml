@@ -1,0 +1,5 @@
+rust-fatfs+alloc-devel
+rust-fatfs+chrono-devel
+rust-fatfs+default-devel
+rust-fatfs-devel
+rust-fatfs+std-devel

@@ -1,0 +1,9 @@
+rust-futures-lite+alloc-devel
+rust-futures-lite+default-devel
+rust-futures-lite-devel
+rust-futures-lite+fastrand-devel
+rust-futures-lite+futures-io-devel
+rust-futures-lite+memchr-devel
+rust-futures-lite+parking-devel
+rust-futures-lite+race-devel
+rust-futures-lite+std-devel

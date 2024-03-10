@@ -1,0 +1,2 @@
+xfig
+xfig-common

@@ -1,0 +1,5 @@
+rust-quantiles+default-devel
+rust-quantiles-devel
+rust-quantiles+serde_derive-devel
+rust-quantiles+serde-devel
+rust-quantiles+serde_support-devel

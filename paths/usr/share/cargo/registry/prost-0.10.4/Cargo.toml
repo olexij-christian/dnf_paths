@@ -1,0 +1,5 @@
+rust-prost+default-devel
+rust-prost-devel
+rust-prost+no-recursion-limit-devel
+rust-prost+prost-derive-devel
+rust-prost+std-devel

@@ -1,0 +1,1 @@
+php-symfony-doctrine-bridge

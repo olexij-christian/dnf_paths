@@ -1,0 +1,5 @@
+rust-link-cplusplus+default-devel
+rust-link-cplusplus-devel
+rust-link-cplusplus+libcxx-devel
+rust-link-cplusplus+libstdcxx-devel
+rust-link-cplusplus+nothing-devel

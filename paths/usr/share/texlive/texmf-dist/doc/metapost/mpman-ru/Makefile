@@ -1,0 +1,1 @@
+texlive-mpman-ru-doc

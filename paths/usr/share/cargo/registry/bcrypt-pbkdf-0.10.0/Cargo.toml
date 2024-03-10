@@ -1,0 +1,5 @@
+rust-bcrypt-pbkdf+alloc-devel
+rust-bcrypt-pbkdf+default-devel
+rust-bcrypt-pbkdf-devel
+rust-bcrypt-pbkdf+std-devel
+rust-bcrypt-pbkdf+zeroize-devel

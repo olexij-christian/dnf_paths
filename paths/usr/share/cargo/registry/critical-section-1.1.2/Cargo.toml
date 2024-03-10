@@ -1,0 +1,9 @@
+rust-critical-section+default-devel
+rust-critical-section-devel
+rust-critical-section+restore-state-bool-devel
+rust-critical-section+restore-state-none-devel
+rust-critical-section+restore-state-u16-devel
+rust-critical-section+restore-state-u32-devel
+rust-critical-section+restore-state-u64-devel
+rust-critical-section+restore-state-u8-devel
+rust-critical-section+std-devel

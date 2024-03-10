@@ -1,0 +1,1 @@
+rust-syntect-devel

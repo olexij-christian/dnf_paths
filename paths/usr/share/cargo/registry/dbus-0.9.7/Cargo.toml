@@ -1,0 +1,8 @@
+rust-dbus+default-devel
+rust-dbus-devel
+rust-dbus+futures-channel-devel
+rust-dbus+futures-devel
+rust-dbus+futures-executor-devel
+rust-dbus+futures-util-devel
+rust-dbus+no-string-validation-devel
+rust-dbus+stdfd-devel

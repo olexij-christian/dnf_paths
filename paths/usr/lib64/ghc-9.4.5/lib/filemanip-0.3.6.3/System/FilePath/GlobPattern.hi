@@ -1,0 +1,1 @@
+ghc-filemanip-devel

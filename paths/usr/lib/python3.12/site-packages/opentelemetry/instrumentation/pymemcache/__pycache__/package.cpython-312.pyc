@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-pymemcache
+python3-opentelemetry-instrumentation-pymemcache+instruments

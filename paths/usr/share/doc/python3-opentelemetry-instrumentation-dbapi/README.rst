@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-dbapi
+python3-opentelemetry-instrumentation-dbapi+instruments

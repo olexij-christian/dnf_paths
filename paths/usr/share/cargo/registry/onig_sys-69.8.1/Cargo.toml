@@ -1,0 +1,6 @@
+rust-onig_sys+bindgen-devel
+rust-onig_sys+default-devel
+rust-onig_sys-devel
+rust-onig_sys+generate-devel
+rust-onig_sys+posix-api-devel
+rust-onig_sys+print-debug-devel

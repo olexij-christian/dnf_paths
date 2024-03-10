@@ -1,0 +1,2 @@
+lxc-doc
+lxc-libs

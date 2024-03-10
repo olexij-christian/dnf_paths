@@ -1,0 +1,4 @@
+rust-ansi_term+default-devel
+rust-ansi_term+derive_serde_style-devel
+rust-ansi_term-devel
+rust-ansi_term+serde-devel

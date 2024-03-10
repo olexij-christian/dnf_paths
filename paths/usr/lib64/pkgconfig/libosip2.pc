@@ -1,0 +1,1 @@
+libosip2-devel

@@ -1,0 +1,6 @@
+rust-globset+default-devel
+rust-globset-devel
+rust-globset+log-devel
+rust-globset+serde1-devel
+rust-globset+serde-devel
+rust-globset+simd-accel-devel

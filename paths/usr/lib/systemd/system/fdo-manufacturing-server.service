@@ -1,0 +1,1 @@
+fdo-manufacturing-server

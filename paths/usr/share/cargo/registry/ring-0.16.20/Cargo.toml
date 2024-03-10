@@ -1,0 +1,13 @@
+rust-ring0.16+alloc-devel
+rust-ring0.16+default-devel
+rust-ring0.16-devel
+rust-ring0.16+dev_urandom_fallback-devel
+rust-ring0.16+internal_benches-devel
+rust-ring0.16+once_cell-devel
+rust-ring0.16+slow_tests-devel
+rust-ring0.16+std-devel
+rust-ring0.16+test_logging-devel
+rust-ring0.16+wasm32_c-devel
+rust-ring+internal_benches-devel
+rust-ring+once_cell-devel
+rust-ring+wasm32_c-devel

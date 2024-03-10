@@ -1,0 +1,7 @@
+rust-memsec+alloc-devel
+rust-memsec+default-devel
+rust-memsec-devel
+rust-memsec+getrandom-devel
+rust-memsec+libc-devel
+rust-memsec+nightly-devel
+rust-memsec+use_os-devel

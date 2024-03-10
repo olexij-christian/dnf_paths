@@ -1,0 +1,13 @@
+rust-rand+alloc-devel
+rust-rand+default-devel
+rust-rand-devel
+rust-rand+getrandom-devel
+rust-rand+libc-devel
+rust-rand+log-devel
+rust-rand+min_const_gen-devel
+rust-rand+rand_chacha-devel
+rust-rand+serde1-devel
+rust-rand+serde-devel
+rust-rand+small_rng-devel
+rust-rand+std-devel
+rust-rand+std_rng-devel

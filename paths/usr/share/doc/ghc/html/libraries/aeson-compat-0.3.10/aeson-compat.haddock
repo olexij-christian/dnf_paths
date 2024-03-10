@@ -1,0 +1,1 @@
+ghc-aeson-compat-doc

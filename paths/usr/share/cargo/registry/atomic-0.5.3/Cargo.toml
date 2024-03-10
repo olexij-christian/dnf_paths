@@ -1,0 +1,5 @@
+rust-atomic+default-devel
+rust-atomic-devel
+rust-atomic+fallback-devel
+rust-atomic+nightly-devel
+rust-atomic+std-devel

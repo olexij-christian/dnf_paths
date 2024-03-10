@@ -1,0 +1,4 @@
+rust-hidapi+default-devel
+rust-hidapi-devel
+rust-hidapi+linux-shared-hidraw-devel
+rust-hidapi+linux-shared-libusb-devel

@@ -1,0 +1,13 @@
+rust-awc+compress-brotli-devel
+rust-awc+__compress-devel
+rust-awc+compress-gzip-devel
+rust-awc+compress-zstd-devel
+rust-awc+cookie-devel
+rust-awc+cookies-devel
+rust-awc+dangerous-h2c-devel
+rust-awc+default-devel
+rust-awc-devel
+rust-awc+openssl-devel
+rust-awc+tls-openssl-devel
+rust-awc+trust-dns-devel
+rust-awc+trust-dns-resolver-devel

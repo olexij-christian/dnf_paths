@@ -1,0 +1,5 @@
+rust-sval_buffer+alloc-devel
+rust-sval_buffer+default-devel
+rust-sval_buffer-devel
+rust-sval_buffer+no_debug_assertions-devel
+rust-sval_buffer+std-devel

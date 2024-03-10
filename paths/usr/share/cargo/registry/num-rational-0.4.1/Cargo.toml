@@ -1,0 +1,6 @@
+rust-num-rational+default-devel
+rust-num-rational-devel
+rust-num-rational+num-bigint-devel
+rust-num-rational+num-bigint-std-devel
+rust-num-rational+serde-devel
+rust-num-rational+std-devel

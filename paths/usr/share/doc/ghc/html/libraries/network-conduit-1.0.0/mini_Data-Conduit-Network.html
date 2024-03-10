@@ -1,0 +1,1 @@
+ghc-network-conduit-devel

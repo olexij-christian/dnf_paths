@@ -1,0 +1,6 @@
+rust-tiny_http+default-devel
+rust-tiny_http-devel
+rust-tiny_http+openssl-devel
+rust-tiny_http+ssl-devel
+rust-tiny_http+ssl-openssl-devel
+rust-tiny_http+zeroize-devel

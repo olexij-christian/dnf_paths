@@ -1,0 +1,5 @@
+rust-linux-loader+bzimage-devel
+rust-linux-loader+default-devel
+rust-linux-loader-devel
+rust-linux-loader+elf-devel
+rust-linux-loader+pe-devel

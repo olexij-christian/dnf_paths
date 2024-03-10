@@ -1,0 +1,1 @@
+rust-gix-prompt-devel

@@ -1,0 +1,16 @@
+rust-uuid0.7+byteorder-devel
+rust-uuid0.7+const_fn-devel
+rust-uuid0.7+default-devel
+rust-uuid0.7-devel
+rust-uuid0.7+md5-devel
+rust-uuid0.7+nightly-devel
+rust-uuid0.7+rand-devel
+rust-uuid0.7+serde-devel
+rust-uuid0.7+sha1-devel
+rust-uuid0.7+slog-devel
+rust-uuid0.7+std-devel
+rust-uuid0.7+u128-devel
+rust-uuid0.7+v1-devel
+rust-uuid0.7+v3-devel
+rust-uuid0.7+v4-devel
+rust-uuid0.7+v5-devel

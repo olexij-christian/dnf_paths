@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-httpx
+python3-opentelemetry-instrumentation-httpx+instruments

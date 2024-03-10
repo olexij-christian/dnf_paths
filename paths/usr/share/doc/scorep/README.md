@@ -1,0 +1,2 @@
+scorep
+scorep-doc

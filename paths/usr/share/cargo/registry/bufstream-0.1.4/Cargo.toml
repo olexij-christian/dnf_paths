@@ -1,0 +1,5 @@
+rust-bufstream+default-devel
+rust-bufstream-devel
+rust-bufstream+futures-devel
+rust-bufstream+tokio-devel
+rust-bufstream+tokio-io-devel

@@ -1,0 +1,1 @@
+xstatic-jquery-migrate-common

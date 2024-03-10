@@ -1,0 +1,4 @@
+rust-sequoia-net+compression-bzip2-devel
+rust-sequoia-net+compression-deflate-devel
+rust-sequoia-net+compression-devel
+rust-sequoia-net+crypto-nettle-devel

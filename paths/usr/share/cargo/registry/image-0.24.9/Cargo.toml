@@ -1,0 +1,17 @@
+rust-image+bmp-devel
+rust-image+dds-devel
+rust-image+default-devel
+rust-image-devel
+rust-image+dxt-devel
+rust-image+farbfeld-devel
+rust-image+gif-devel
+rust-image+hdr-devel
+rust-image+ico-devel
+rust-image+jpeg-devel
+rust-image+jpeg_rayon-devel
+rust-image+png-devel
+rust-image+pnm-devel
+rust-image+rayon-devel
+rust-image+tga-devel
+rust-image+tiff-devel
+rust-image+webp-devel

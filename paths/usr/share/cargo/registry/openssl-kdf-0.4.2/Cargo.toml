@@ -1,0 +1,6 @@
+rust-openssl-kdf+allow_custom-devel
+rust-openssl-kdf+default-devel
+rust-openssl-kdf+deny_custom-devel
+rust-openssl-kdf-devel
+rust-openssl-kdf+force_custom-devel
+rust-openssl-kdf+warn_custom-devel

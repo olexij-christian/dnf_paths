@@ -1,0 +1,3 @@
+COPASI-data
+COPASI-doc
+python3-COPASI

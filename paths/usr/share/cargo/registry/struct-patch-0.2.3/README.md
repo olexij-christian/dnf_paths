@@ -1,0 +1,1 @@
+rust-struct-patch-devel

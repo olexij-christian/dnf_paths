@@ -1,0 +1,1 @@
+rust-zram-generator-devel

@@ -1,0 +1,1 @@
+perl-XML-Catalog-tests

@@ -1,0 +1,8 @@
+rust-secret-service+crypto-openssl-devel
+rust-secret-service+crypto-rust-devel
+rust-secret-service+default-devel
+rust-secret-service-devel
+rust-secret-service+rt-async-io-crypto-openssl-devel
+rust-secret-service+rt-async-io-crypto-rust-devel
+rust-secret-service+rt-tokio-crypto-openssl-devel
+rust-secret-service+rt-tokio-crypto-rust-devel

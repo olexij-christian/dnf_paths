@@ -1,0 +1,1 @@
+webextension-token-signing

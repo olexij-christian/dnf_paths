@@ -1,0 +1,1 @@
+rust-libsodium-sys-devel

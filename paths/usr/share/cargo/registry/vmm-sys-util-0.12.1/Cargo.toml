@@ -1,0 +1,5 @@
+rust-vmm-sys-util+default-devel
+rust-vmm-sys-util-devel
+rust-vmm-sys-util+serde_derive-devel
+rust-vmm-sys-util+serde-devel
+rust-vmm-sys-util+with-serde-devel

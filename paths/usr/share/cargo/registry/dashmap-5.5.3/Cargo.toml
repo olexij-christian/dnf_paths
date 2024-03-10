@@ -1,0 +1,7 @@
+rust-dashmap+arbitrary-devel
+rust-dashmap+default-devel
+rust-dashmap-devel
+rust-dashmap+inline-devel
+rust-dashmap+raw-api-devel
+rust-dashmap+rayon-devel
+rust-dashmap+serde-devel

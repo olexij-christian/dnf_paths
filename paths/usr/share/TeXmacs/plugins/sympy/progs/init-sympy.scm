@@ -1,0 +1,2 @@
+sympy-texmacs
+TeXmacs

@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-redis
+python3-opentelemetry-instrumentation-redis+instruments

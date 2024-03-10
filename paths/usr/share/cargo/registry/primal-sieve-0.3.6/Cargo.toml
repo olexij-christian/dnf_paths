@@ -1,0 +1,5 @@
+rust-primal-sieve+default-devel
+rust-primal-sieve-devel
+rust-primal-sieve+safe-devel
+rust-primal-sieve+slow_tests-devel
+rust-primal-sieve+unstable-devel

@@ -1,0 +1,6 @@
+rust-chardetng+arrayvec-devel
+rust-chardetng+default-devel
+rust-chardetng-devel
+rust-chardetng+multithreading-devel
+rust-chardetng+rayon-devel
+rust-chardetng+testing-only-no-semver-guarantees-do-not-use-devel

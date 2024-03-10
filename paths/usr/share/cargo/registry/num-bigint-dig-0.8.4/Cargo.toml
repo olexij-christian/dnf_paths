@@ -1,0 +1,11 @@
+rust-num-bigint-dig+arbitrary-devel
+rust-num-bigint-dig+default-devel
+rust-num-bigint-dig-devel
+rust-num-bigint-dig+fuzz-devel
+rust-num-bigint-dig+i128-devel
+rust-num-bigint-dig+prime-devel
+rust-num-bigint-dig+rand-devel
+rust-num-bigint-dig+serde-devel
+rust-num-bigint-dig+std-devel
+rust-num-bigint-dig+u64_digit-devel
+rust-num-bigint-dig+zeroize-devel

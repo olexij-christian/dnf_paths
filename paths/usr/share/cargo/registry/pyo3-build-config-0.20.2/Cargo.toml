@@ -1,0 +1,11 @@
+rust-pyo3-build-config+abi3-devel
+rust-pyo3-build-config+abi3-py310-devel
+rust-pyo3-build-config+abi3-py311-devel
+rust-pyo3-build-config+abi3-py312-devel
+rust-pyo3-build-config+abi3-py37-devel
+rust-pyo3-build-config+abi3-py38-devel
+rust-pyo3-build-config+abi3-py39-devel
+rust-pyo3-build-config+default-devel
+rust-pyo3-build-config-devel
+rust-pyo3-build-config+extension-module-devel
+rust-pyo3-build-config+resolve-config-devel

@@ -1,0 +1,1 @@
+ghc-MemoTrie-devel

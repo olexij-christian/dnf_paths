@@ -1,0 +1,1 @@
+cheat-fish-completion

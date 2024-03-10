@@ -1,0 +1,16 @@
+rust-zip+aes-crypto-devel
+rust-zip+aes-devel
+rust-zip+bzip2-devel
+rust-zip+constant_time_eq-devel
+rust-zip+default-devel
+rust-zip+deflate-devel
+rust-zip+deflate-miniz-devel
+rust-zip+deflate-zlib-devel
+rust-zip-devel
+rust-zip+flate2-devel
+rust-zip+hmac-devel
+rust-zip+pbkdf2-devel
+rust-zip+sha1-devel
+rust-zip+time-devel
+rust-zip+unreserved-devel
+rust-zip+zstd-devel

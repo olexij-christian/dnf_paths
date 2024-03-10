@@ -1,0 +1,1 @@
+ghc-bifunctors-devel

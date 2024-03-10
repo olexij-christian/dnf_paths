@@ -1,0 +1,7 @@
+rust-parking_lot_core0.8+backtrace-devel
+rust-parking_lot_core0.8+deadlock_detection-devel
+rust-parking_lot_core0.8+default-devel
+rust-parking_lot_core0.8-devel
+rust-parking_lot_core0.8+nightly-devel
+rust-parking_lot_core0.8+petgraph-devel
+rust-parking_lot_core0.8+thread-id-devel

@@ -1,0 +1,8 @@
+rust-publicsuffix+anycase-devel
+rust-publicsuffix+default-devel
+rust-publicsuffix-devel
+rust-publicsuffix+hashbrown-devel
+rust-publicsuffix+idna-devel
+rust-publicsuffix+punycode-devel
+rust-publicsuffix+std-devel
+rust-publicsuffix+unicase-devel

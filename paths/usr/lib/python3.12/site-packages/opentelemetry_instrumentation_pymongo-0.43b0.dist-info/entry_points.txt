@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-pymongo
+python3-opentelemetry-instrumentation-pymongo+instruments

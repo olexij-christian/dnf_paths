@@ -1,0 +1,16 @@
+rust-spin+barrier-devel
+rust-spin+default-devel
+rust-spin-devel
+rust-spin+fair_mutex-devel
+rust-spin+lazy-devel
+rust-spin+lock_api_crate-devel
+rust-spin+lock_api-devel
+rust-spin+mutex-devel
+rust-spin+once-devel
+rust-spin+portable-atomic-devel
+rust-spin+portable_atomic-devel
+rust-spin+rwlock-devel
+rust-spin+spin_mutex-devel
+rust-spin+std-devel
+rust-spin+ticket_mutex-devel
+rust-spin+use_ticket_mutex-devel

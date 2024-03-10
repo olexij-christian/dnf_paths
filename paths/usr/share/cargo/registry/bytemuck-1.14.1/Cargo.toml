@@ -1,0 +1,14 @@
+rust-bytemuck+aarch64_simd-devel
+rust-bytemuck+align_offset-devel
+rust-bytemuck+bytemuck_derive-devel
+rust-bytemuck+default-devel
+rust-bytemuck+derive-devel
+rust-bytemuck-devel
+rust-bytemuck+extern_crate_alloc-devel
+rust-bytemuck+extern_crate_std-devel
+rust-bytemuck+min_const_generics-devel
+rust-bytemuck+must_cast-devel
+rust-bytemuck+nightly_stdsimd-devel
+rust-bytemuck+unsound_ptr_pod_impl-devel
+rust-bytemuck+zeroable_atomics-devel
+rust-bytemuck+zeroable_maybe_uninit-devel

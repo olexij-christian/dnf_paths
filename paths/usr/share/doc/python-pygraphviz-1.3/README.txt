@@ -1,0 +1,3 @@
+python2-pygraphviz
+python34-pygraphviz
+python36-pygraphviz

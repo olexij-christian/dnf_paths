@@ -1,0 +1,10 @@
+rust-ratatui0.21+all-widgets-devel
+rust-ratatui0.21+crossterm-devel
+rust-ratatui0.21+default-devel
+rust-ratatui0.21-devel
+rust-ratatui0.21+macros-devel
+rust-ratatui0.21+serde-devel
+rust-ratatui0.21+termion-devel
+rust-ratatui0.21+time-devel
+rust-ratatui0.21+widget-calendar-devel
+rust-ratatui+time-devel

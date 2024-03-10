@@ -1,0 +1,3 @@
+python3-cs
+python3-cs+async
+python3-cs+highlight

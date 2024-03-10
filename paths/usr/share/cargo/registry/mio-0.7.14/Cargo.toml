@@ -1,0 +1,11 @@
+rust-mio0.7+default-devel
+rust-mio0.7-devel
+rust-mio0.7+extra-docs-devel
+rust-mio0.7+net-devel
+rust-mio0.7+os-ext-devel
+rust-mio0.7+os-poll-devel
+rust-mio0.7+os-util-devel
+rust-mio0.7+pipe-devel
+rust-mio0.7+tcp-devel
+rust-mio0.7+udp-devel
+rust-mio0.7+uds-devel

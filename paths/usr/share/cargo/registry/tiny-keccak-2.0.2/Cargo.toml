@@ -1,0 +1,12 @@
+rust-tiny-keccak+cshake-devel
+rust-tiny-keccak+default-devel
+rust-tiny-keccak-devel
+rust-tiny-keccak+fips202-devel
+rust-tiny-keccak+k12-devel
+rust-tiny-keccak+keccak-devel
+rust-tiny-keccak+kmac-devel
+rust-tiny-keccak+parallel_hash-devel
+rust-tiny-keccak+sha3-devel
+rust-tiny-keccak+shake-devel
+rust-tiny-keccak+sp800-devel
+rust-tiny-keccak+tuple_hash-devel

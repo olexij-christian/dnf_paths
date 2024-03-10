@@ -1,0 +1,2 @@
+vimiv
+vimiv-qt

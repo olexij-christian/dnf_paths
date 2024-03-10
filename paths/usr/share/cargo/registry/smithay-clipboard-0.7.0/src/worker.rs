@@ -1,0 +1,1 @@
+rust-smithay-clipboard-devel

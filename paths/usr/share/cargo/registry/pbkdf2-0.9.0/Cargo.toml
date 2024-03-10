@@ -1,0 +1,10 @@
+rust-pbkdf2_0.9+default-devel
+rust-pbkdf2_0.9-devel
+rust-pbkdf2_0.9+hmac-devel
+rust-pbkdf2_0.9+parallel-devel
+rust-pbkdf2_0.9+password-hash-devel
+rust-pbkdf2_0.9+rayon-devel
+rust-pbkdf2_0.9+sha1-devel
+rust-pbkdf2_0.9+sha2-devel
+rust-pbkdf2_0.9+simple-devel
+rust-pbkdf2_0.9+std-devel

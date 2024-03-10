@@ -1,0 +1,7 @@
+rust-gstreamer-audio+default-devel
+rust-gstreamer-audio-devel
+rust-gstreamer-audio+serde-devel
+rust-gstreamer-audio+v1_16-devel
+rust-gstreamer-audio+v1_18-devel
+rust-gstreamer-audio+v1_20-devel
+rust-gstreamer-audio+v1_22-devel

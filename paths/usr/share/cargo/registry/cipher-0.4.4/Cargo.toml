@@ -1,0 +1,9 @@
+rust-cipher+alloc-devel
+rust-cipher+blobby-devel
+rust-cipher+block-padding-devel
+rust-cipher+default-devel
+rust-cipher+dev-devel
+rust-cipher-devel
+rust-cipher+rand_core-devel
+rust-cipher+std-devel
+rust-cipher+zeroize-devel

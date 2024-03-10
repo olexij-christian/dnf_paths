@@ -1,0 +1,8 @@
+rust-unicode-bidi+bench_it-devel
+rust-unicode-bidi+default-devel
+rust-unicode-bidi-devel
+rust-unicode-bidi+hardcoded-data-devel
+rust-unicode-bidi+serde-devel
+rust-unicode-bidi+std-devel
+rust-unicode-bidi+unstable-devel
+rust-unicode-bidi+with_serde-devel

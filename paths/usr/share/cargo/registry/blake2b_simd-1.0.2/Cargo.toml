@@ -1,0 +1,4 @@
+rust-blake2b_simd+default-devel
+rust-blake2b_simd-devel
+rust-blake2b_simd+std-devel
+rust-blake2b_simd+uninline_portable-devel

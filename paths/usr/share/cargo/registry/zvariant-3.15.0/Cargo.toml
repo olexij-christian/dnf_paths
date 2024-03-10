@@ -1,0 +1,11 @@
+rust-zvariant+arrayvec-devel
+rust-zvariant+chrono-devel
+rust-zvariant+default-devel
+rust-zvariant-devel
+rust-zvariant+enumflags2-devel
+rust-zvariant+gvariant-devel
+rust-zvariant+ostree-tests-devel
+rust-zvariant+serde_bytes-devel
+rust-zvariant+time-devel
+rust-zvariant+url-devel
+rust-zvariant+uuid-devel

@@ -1,0 +1,6 @@
+rust-failure+backtrace-devel
+rust-failure+default-devel
+rust-failure+derive-devel
+rust-failure-devel
+rust-failure+failure_derive-devel
+rust-failure+std-devel

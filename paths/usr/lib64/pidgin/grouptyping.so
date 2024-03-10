@@ -1,0 +1,1 @@
+pidgin-groupchat-typing-notifications

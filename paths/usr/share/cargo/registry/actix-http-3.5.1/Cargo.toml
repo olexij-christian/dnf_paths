@@ -1,0 +1,17 @@
+rust-actix-http+actix-tls-devel
+rust-actix-http+base64-devel
+rust-actix-http+compress-brotli-devel
+rust-actix-http+__compress-devel
+rust-actix-http+compress-gzip-devel
+rust-actix-http+compress-zstd-devel
+rust-actix-http+default-devel
+rust-actix-http-devel
+rust-actix-http+flate2-devel
+rust-actix-http+h2-devel
+rust-actix-http+http2-devel
+rust-actix-http+local-channel-devel
+rust-actix-http+openssl-devel
+rust-actix-http+rand-devel
+rust-actix-http+sha1-devel
+rust-actix-http+ws-devel
+rust-actix-http+zstd-devel

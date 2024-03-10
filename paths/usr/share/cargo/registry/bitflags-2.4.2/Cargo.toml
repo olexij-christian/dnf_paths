@@ -1,0 +1,7 @@
+rust-bitflags+arbitrary-devel
+rust-bitflags+bytemuck-devel
+rust-bitflags+default-devel
+rust-bitflags-devel
+rust-bitflags+example_generated-devel
+rust-bitflags+serde-devel
+rust-bitflags+std-devel

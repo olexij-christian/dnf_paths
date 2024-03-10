@@ -1,0 +1,6 @@
+rust-notify+crossbeam-channel-devel
+rust-notify+default-devel
+rust-notify-devel
+rust-notify+manual_tests-devel
+rust-notify+serde-devel
+rust-notify+timing_tests-devel

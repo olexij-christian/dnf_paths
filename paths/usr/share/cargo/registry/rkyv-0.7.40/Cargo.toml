@@ -1,0 +1,3 @@
+rust-rkyv+bitvec_alloc-devel
+rust-rkyv+tinyvec_alloc-devel
+rust-rkyv+uuid_std-devel

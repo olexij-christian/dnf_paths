@@ -1,0 +1,1 @@
+librnp-devel

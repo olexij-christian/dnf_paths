@@ -1,0 +1,12 @@
+rust-digest+alloc-devel
+rust-digest+blobby-devel
+rust-digest+block-buffer-devel
+rust-digest+const-oid-devel
+rust-digest+core-api-devel
+rust-digest+default-devel
+rust-digest+dev-devel
+rust-digest-devel
+rust-digest+oid-devel
+rust-digest+rand_core-devel
+rust-digest+std-devel
+rust-digest+subtle-devel

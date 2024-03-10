@@ -1,0 +1,1 @@
+rust-fluent-langneg-devel

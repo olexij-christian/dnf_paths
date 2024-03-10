@@ -1,0 +1,6 @@
+rust-zerocopy0.6+alloc-devel
+rust-zerocopy0.6+default-devel
+rust-zerocopy0.6-devel
+rust-zerocopy0.6+__internal_use_only_features_that_work_on_stable-devel
+rust-zerocopy0.6+simd-devel
+rust-zerocopy0.6+simd-nightly-devel

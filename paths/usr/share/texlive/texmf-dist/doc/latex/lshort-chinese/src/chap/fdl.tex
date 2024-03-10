@@ -1,0 +1,1 @@
+texlive-lshort-chinese-doc

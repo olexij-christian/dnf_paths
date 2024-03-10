@@ -1,0 +1,1 @@
+rust-minijinja-devel

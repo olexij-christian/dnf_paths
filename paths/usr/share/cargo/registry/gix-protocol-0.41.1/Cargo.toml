@@ -1,0 +1,9 @@
+rust-gix-protocol+async-client-devel
+rust-gix-protocol+async-trait-devel
+rust-gix-protocol+blocking-client-devel
+rust-gix-protocol+default-devel
+rust-gix-protocol-devel
+rust-gix-protocol+document-features-devel
+rust-gix-protocol+futures-io-devel
+rust-gix-protocol+futures-lite-devel
+rust-gix-protocol+serde-devel

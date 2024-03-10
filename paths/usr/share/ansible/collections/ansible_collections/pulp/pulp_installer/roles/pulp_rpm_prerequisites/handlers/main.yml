@@ -1,0 +1,1 @@
+ansible-collection-pulp-pulp_installer

@@ -1,0 +1,17 @@
+rust-trust-dns-recursor+default-devel
+rust-trust-dns-recursor-devel
+rust-trust-dns-recursor+dns-over-https-devel
+rust-trust-dns-recursor+dns-over-https-rustls-devel
+rust-trust-dns-recursor+dns-over-native-tls-devel
+rust-trust-dns-recursor+dns-over-openssl-devel
+rust-trust-dns-recursor+dns-over-quic-devel
+rust-trust-dns-recursor+dns-over-rustls-devel
+rust-trust-dns-recursor+dns-over-tls-devel
+rust-trust-dns-recursor+dnssec-devel
+rust-trust-dns-recursor+dnssec-openssl-devel
+rust-trust-dns-recursor+dnssec-ring-devel
+rust-trust-dns-recursor+serde-config-devel
+rust-trust-dns-recursor+serde-devel
+rust-trust-dns-recursor+testing-devel
+rust-trust-dns-recursor+tls-devel
+rust-trust-dns-recursor+tls-openssl-devel

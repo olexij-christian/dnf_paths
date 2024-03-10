@@ -1,0 +1,11 @@
+rust-rand0.5+alloc-devel
+rust-rand0.5+default-devel
+rust-rand0.5-devel
+rust-rand0.5+i128_support-devel
+rust-rand0.5+libc-devel
+rust-rand0.5+log-devel
+rust-rand0.5+nightly-devel
+rust-rand0.5+serde1-devel
+rust-rand0.5+serde_derive-devel
+rust-rand0.5+serde-devel
+rust-rand0.5+std-devel

@@ -1,0 +1,7 @@
+rust-os_display+alloc-devel
+rust-os_display+default-devel
+rust-os_display-devel
+rust-os_display+native-devel
+rust-os_display+std-devel
+rust-os_display+unix-devel
+rust-os_display+windows-devel

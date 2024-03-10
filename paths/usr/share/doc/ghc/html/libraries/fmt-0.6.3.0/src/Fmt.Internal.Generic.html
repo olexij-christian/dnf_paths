@@ -1,0 +1,1 @@
+ghc-fmt-doc

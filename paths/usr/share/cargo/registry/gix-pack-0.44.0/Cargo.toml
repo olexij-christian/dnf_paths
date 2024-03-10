@@ -1,0 +1,9 @@
+rust-gix-pack+default-devel
+rust-gix-pack-devel
+rust-gix-pack+document-features-devel
+rust-gix-pack+generate-devel
+rust-gix-pack+object-cache-dynamic-devel
+rust-gix-pack+pack-cache-lru-dynamic-devel
+rust-gix-pack+pack-cache-lru-static-devel
+rust-gix-pack+serde-devel
+rust-gix-pack+streaming-input-devel

@@ -1,0 +1,4 @@
+rust-trybuild+default-devel
+rust-trybuild-devel
+rust-trybuild+diff-devel
+rust-trybuild+dissimilar-devel

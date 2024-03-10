@@ -1,0 +1,9 @@
+rust-rust-embed+debug-embed-devel
+rust-rust-embed+default-devel
+rust-rust-embed-devel
+rust-rust-embed+hex-devel
+rust-rust-embed+include-exclude-devel
+rust-rust-embed+interpolate-folder-path-devel
+rust-rust-embed+mime-guess-devel
+rust-rust-embed+tokio-devel
+rust-rust-embed+warp-devel

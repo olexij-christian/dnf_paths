@@ -1,0 +1,5 @@
+rust-erased-serde+alloc-devel
+rust-erased-serde+default-devel
+rust-erased-serde-devel
+rust-erased-serde+std-devel
+rust-erased-serde+unstable-debug-devel

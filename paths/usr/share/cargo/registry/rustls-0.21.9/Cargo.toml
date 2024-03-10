@@ -1,0 +1,10 @@
+rust-rustls+dangerous_configuration-devel
+rust-rustls+default-devel
+rust-rustls-devel
+rust-rustls+log-devel
+rust-rustls+logging-devel
+rust-rustls+quic-devel
+rust-rustls+read_buf-devel
+rust-rustls+rustversion-devel
+rust-rustls+secret_extraction-devel
+rust-rustls+tls12-devel

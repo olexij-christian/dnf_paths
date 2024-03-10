@@ -1,0 +1,1 @@
+golang-pack-amqp-devel

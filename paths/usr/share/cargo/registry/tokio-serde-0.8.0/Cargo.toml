@@ -1,0 +1,12 @@
+rust-tokio-serde+bincode-crate-devel
+rust-tokio-serde+bincode-devel
+rust-tokio-serde+cbor-devel
+rust-tokio-serde+default-devel
+rust-tokio-serde-devel
+rust-tokio-serde+educe-devel
+rust-tokio-serde+json-devel
+rust-tokio-serde+messagepack-devel
+rust-tokio-serde+rmp-serde-devel
+rust-tokio-serde+serde_cbor-devel
+rust-tokio-serde+serde-devel
+rust-tokio-serde+serde_json-devel

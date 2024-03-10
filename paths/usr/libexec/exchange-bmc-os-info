@@ -1,0 +1,1 @@
+exchange-bmc-os-info

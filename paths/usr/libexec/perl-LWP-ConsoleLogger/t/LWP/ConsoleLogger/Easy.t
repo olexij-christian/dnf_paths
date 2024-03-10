@@ -1,0 +1,1 @@
+perl-LWP-ConsoleLogger-tests

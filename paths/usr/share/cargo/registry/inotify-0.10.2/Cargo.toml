@@ -1,0 +1,5 @@
+rust-inotify+default-devel
+rust-inotify-devel
+rust-inotify+futures-core-devel
+rust-inotify+stream-devel
+rust-inotify+tokio-devel

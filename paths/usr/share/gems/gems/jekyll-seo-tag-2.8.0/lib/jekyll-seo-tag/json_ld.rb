@@ -1,0 +1,1 @@
+rubygem-jekyll-seo-tag

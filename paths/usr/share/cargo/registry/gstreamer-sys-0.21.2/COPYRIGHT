@@ -1,0 +1,1 @@
+rust-gstreamer-sys-devel

@@ -1,0 +1,7 @@
+rust-piper+default-devel
+rust-piper-devel
+rust-piper+futures-io-devel
+rust-piper+portable_atomic_crate-devel
+rust-piper+portable-atomic-devel
+rust-piper+portable-atomic-util-devel
+rust-piper+std-devel

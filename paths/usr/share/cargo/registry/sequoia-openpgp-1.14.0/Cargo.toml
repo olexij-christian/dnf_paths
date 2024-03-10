@@ -1,0 +1,6 @@
+rust-sequoia-openpgp+bzip2-devel
+rust-sequoia-openpgp+flate2-devel
+rust-sequoia-openpgp+foreign-types-shared-devel
+rust-sequoia-openpgp+nettle-devel
+rust-sequoia-openpgp+openssl-devel
+rust-sequoia-openpgp+openssl-sys-devel

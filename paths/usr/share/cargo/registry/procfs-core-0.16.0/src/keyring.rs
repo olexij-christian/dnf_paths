@@ -1,0 +1,1 @@
+rust-procfs-core-devel

@@ -1,0 +1,1 @@
+ghc-Cabal-syntax-doc

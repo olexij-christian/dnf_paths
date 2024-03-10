@@ -1,0 +1,7 @@
+rust-futures-core+alloc-devel
+rust-futures-core+cfg-target-has-atomic-devel
+rust-futures-core+default-devel
+rust-futures-core-devel
+rust-futures-core+portable-atomic-devel
+rust-futures-core+std-devel
+rust-futures-core+unstable-devel

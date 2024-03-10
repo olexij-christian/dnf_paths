@@ -1,0 +1,5 @@
+rust-sev+default-devel
+rust-sev-devel
+rust-sev+openssl-devel
+rust-sev+sev-devel
+rust-sev+snp-devel

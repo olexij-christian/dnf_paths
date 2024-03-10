@@ -1,0 +1,1 @@
+rust-prettytable-rs-devel

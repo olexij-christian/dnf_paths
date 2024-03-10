@@ -1,0 +1,1 @@
+perl-Class-XSAccessor-tests

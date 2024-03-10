@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-sqlalchemy
+python3-opentelemetry-instrumentation-sqlalchemy+instruments

@@ -1,0 +1,1 @@
+rust-varlink_generator-devel

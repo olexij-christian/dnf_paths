@@ -1,0 +1,1 @@
+ghc-generics-sop-devel

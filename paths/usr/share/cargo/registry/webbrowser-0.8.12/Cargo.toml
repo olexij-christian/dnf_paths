@@ -1,0 +1,4 @@
+rust-webbrowser+default-devel
+rust-webbrowser-devel
+rust-webbrowser+disable-wsl-devel
+rust-webbrowser+hardened-devel

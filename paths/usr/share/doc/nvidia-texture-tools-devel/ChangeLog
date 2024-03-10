@@ -1,0 +1,1 @@
+nvidia-texture-tools-devel

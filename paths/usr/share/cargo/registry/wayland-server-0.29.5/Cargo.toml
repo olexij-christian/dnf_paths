@@ -1,0 +1,5 @@
+rust-wayland-server+dlopen-devel
+rust-wayland-server+lazy_static-devel
+rust-wayland-server+parking_lot-devel
+rust-wayland-server+scoped-tls-devel
+rust-wayland-server+use_system_lib-devel

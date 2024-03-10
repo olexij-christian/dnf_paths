@@ -1,0 +1,1 @@
+perl-CBOR-XS-tests

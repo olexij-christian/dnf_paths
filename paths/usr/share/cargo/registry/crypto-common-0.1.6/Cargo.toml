@@ -1,0 +1,5 @@
+rust-crypto-common+default-devel
+rust-crypto-common-devel
+rust-crypto-common+getrandom-devel
+rust-crypto-common+rand_core-devel
+rust-crypto-common+std-devel

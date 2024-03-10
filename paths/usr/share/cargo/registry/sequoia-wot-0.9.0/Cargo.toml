@@ -1,0 +1,8 @@
+rust-sequoia-wot+clap_complete-devel
+rust-sequoia-wot+clap-devel
+rust-sequoia-wot+clap_mangen-devel
+rust-sequoia-wot+cli-devel
+rust-sequoia-wot+crypto-nettle-devel
+rust-sequoia-wot+crypto-openssl-devel
+rust-sequoia-wot+default-devel
+rust-sequoia-wot-devel

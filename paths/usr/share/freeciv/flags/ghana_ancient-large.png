@@ -1,0 +1,2 @@
+freeciv
+freeciv-common

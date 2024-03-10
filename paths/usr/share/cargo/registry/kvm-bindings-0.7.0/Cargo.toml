@@ -1,0 +1,4 @@
+rust-kvm-bindings+default-devel
+rust-kvm-bindings-devel
+rust-kvm-bindings+fam-wrappers-devel
+rust-kvm-bindings+vmm-sys-util-devel

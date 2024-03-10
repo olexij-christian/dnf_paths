@@ -1,0 +1,1 @@
+rubygem-minima-doc

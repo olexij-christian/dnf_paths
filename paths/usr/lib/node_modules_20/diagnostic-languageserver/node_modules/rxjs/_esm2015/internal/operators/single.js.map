@@ -1,0 +1,1 @@
+nodejs-diagnostic-language-server

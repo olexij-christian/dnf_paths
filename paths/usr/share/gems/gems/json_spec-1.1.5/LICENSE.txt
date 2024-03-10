@@ -1,0 +1,1 @@
+rubygem-json_spec

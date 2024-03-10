@@ -1,0 +1,2 @@
+anthy
+emacs-anthy

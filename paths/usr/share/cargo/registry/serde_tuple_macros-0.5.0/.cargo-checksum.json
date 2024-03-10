@@ -1,0 +1,1 @@
+rust-serde_tuple_macros-devel

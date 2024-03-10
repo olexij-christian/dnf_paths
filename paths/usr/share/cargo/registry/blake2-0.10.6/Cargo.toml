@@ -1,0 +1,8 @@
+rust-blake2+default-devel
+rust-blake2-devel
+rust-blake2+reset-devel
+rust-blake2+simd_asm-devel
+rust-blake2+simd-devel
+rust-blake2+simd_opt-devel
+rust-blake2+size_opt-devel
+rust-blake2+std-devel

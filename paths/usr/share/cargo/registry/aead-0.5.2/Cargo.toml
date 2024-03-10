@@ -1,0 +1,12 @@
+rust-aead+alloc-devel
+rust-aead+arrayvec-devel
+rust-aead+blobby-devel
+rust-aead+bytes-devel
+rust-aead+default-devel
+rust-aead+dev-devel
+rust-aead-devel
+rust-aead+getrandom-devel
+rust-aead+heapless-devel
+rust-aead+rand_core-devel
+rust-aead+std-devel
+rust-aead+stream-devel

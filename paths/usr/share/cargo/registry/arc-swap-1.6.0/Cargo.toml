@@ -1,0 +1,6 @@
+rust-arc-swap+default-devel
+rust-arc-swap-devel
+rust-arc-swap+experimental-strategies-devel
+rust-arc-swap+internal-test-strategies-devel
+rust-arc-swap+serde-devel
+rust-arc-swap+weak-devel

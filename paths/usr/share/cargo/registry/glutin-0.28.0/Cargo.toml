@@ -1,0 +1,4 @@
+rust-glutin+serde-devel
+rust-glutin+wayland-client-devel
+rust-glutin+wayland-dlopen-devel
+rust-glutin+wayland-egl-devel

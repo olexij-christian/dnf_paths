@@ -1,0 +1,9 @@
+rust-brotli-decompressor+alloc-stdlib-devel
+rust-brotli-decompressor+benchmark-devel
+rust-brotli-decompressor+default-devel
+rust-brotli-decompressor-devel
+rust-brotli-decompressor+disable-timer-devel
+rust-brotli-decompressor+pass-through-ffi-panics-devel
+rust-brotli-decompressor+seccomp-devel
+rust-brotli-decompressor+std-devel
+rust-brotli-decompressor+unsafe-devel

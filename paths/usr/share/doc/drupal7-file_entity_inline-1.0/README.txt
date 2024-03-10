@@ -1,0 +1,1 @@
+drupal7-file_entity_inline

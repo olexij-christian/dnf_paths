@@ -1,0 +1,2 @@
+kquickimageeditor-devel
+kquickimageeditor-qt5-devel

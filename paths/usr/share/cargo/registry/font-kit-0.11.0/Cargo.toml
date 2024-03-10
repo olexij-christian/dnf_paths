@@ -1,0 +1,10 @@
+rust-font-kit+default-devel
+rust-font-kit-devel
+rust-font-kit+freetype-devel
+rust-font-kit+loader-freetype-default-devel
+rust-font-kit+loader-freetype-devel
+rust-font-kit+source-devel
+rust-font-kit+source-fontconfig-default-devel
+rust-font-kit+source-fontconfig-devel
+rust-font-kit+source-fontconfig-dlopen-devel
+rust-font-kit+yeslogic-fontconfig-sys-devel

@@ -1,0 +1,11 @@
+rust-ahash+atomic-polyfill-devel
+rust-ahash+compile-time-rng-devel
+rust-ahash+const-random-devel
+rust-ahash+default-devel
+rust-ahash-devel
+rust-ahash+getrandom-devel
+rust-ahash+nightly-arm-aes-devel
+rust-ahash+no-rng-devel
+rust-ahash+runtime-rng-devel
+rust-ahash+serde-devel
+rust-ahash+std-devel

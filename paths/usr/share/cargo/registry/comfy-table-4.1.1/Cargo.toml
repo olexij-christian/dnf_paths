@@ -1,0 +1,4 @@
+rust-comfy-table+crossterm-devel
+rust-comfy-table+default-devel
+rust-comfy-table-devel
+rust-comfy-table+tty-devel

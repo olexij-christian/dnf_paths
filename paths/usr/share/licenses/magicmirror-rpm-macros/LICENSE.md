@@ -1,0 +1,1 @@
+magicmirror-rpm-macros

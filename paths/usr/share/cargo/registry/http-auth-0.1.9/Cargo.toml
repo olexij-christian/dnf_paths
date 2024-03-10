@@ -1,0 +1,14 @@
+rust-http-auth+base64-devel
+rust-http-auth+basic-scheme-devel
+rust-http-auth+default-devel
+rust-http-auth-devel
+rust-http-auth+digest-devel
+rust-http-auth+digest-scheme-devel
+rust-http-auth+hex-devel
+rust-http-auth+http10-devel
+rust-http-auth+http-devel
+rust-http-auth+log-devel
+rust-http-auth+md-5-devel
+rust-http-auth+rand-devel
+rust-http-auth+sha2-devel
+rust-http-auth+trace-devel

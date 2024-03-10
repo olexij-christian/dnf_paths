@@ -1,0 +1,5 @@
+libsbml
+perl-LibSBML
+python3-libsbml
+R-libSBML
+ruby-SBML

@@ -1,0 +1,13 @@
+rust-educe+Clone-devel
+rust-educe+Copy-devel
+rust-educe+Debug-devel
+rust-educe+Default-devel
+rust-educe+default-devel
+rust-educe+Deref-devel
+rust-educe+DerefMut-devel
+rust-educe-devel
+rust-educe+Eq-devel
+rust-educe+Hash-devel
+rust-educe+Ord-devel
+rust-educe+PartialEq-devel
+rust-educe+PartialOrd-devel

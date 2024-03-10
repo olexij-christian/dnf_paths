@@ -1,0 +1,7 @@
+rust-parsec-interface+arbitrary-devel
+rust-parsec-interface+default-devel
+rust-parsec-interface-devel
+rust-parsec-interface+fuzz-devel
+rust-parsec-interface+prost-build-devel
+rust-parsec-interface+regenerate-protobuf-devel
+rust-parsec-interface+testing-devel

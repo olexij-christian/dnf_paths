@@ -1,0 +1,3 @@
+rust-openssl-sys+bindgen-devel
+rust-openssl-sys+default-devel
+rust-openssl-sys-devel

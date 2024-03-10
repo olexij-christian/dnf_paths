@@ -1,0 +1,6 @@
+rust-genetlink+async-std-devel
+rust-genetlink+default-devel
+rust-genetlink-devel
+rust-genetlink+smol_socket-devel
+rust-genetlink+tokio-devel
+rust-genetlink+tokio_socket-devel

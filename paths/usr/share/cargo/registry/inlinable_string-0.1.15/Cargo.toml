@@ -1,0 +1,5 @@
+rust-inlinable_string+default-devel
+rust-inlinable_string-devel
+rust-inlinable_string+nightly-devel
+rust-inlinable_string+no_std-devel
+rust-inlinable_string+serde-devel

@@ -1,0 +1,14 @@
+rust-bindgen0.68+__cli-devel
+rust-bindgen0.68+default-devel
+rust-bindgen0.68-devel
+rust-bindgen0.68+experimental-devel
+rust-bindgen0.68+logging-devel
+rust-bindgen0.68+prettyplease-devel
+rust-bindgen0.68+runtime-devel
+rust-bindgen0.68+static-devel
+rust-bindgen0.68+__testing_only_extra_assertions-devel
+rust-bindgen0.68+__testing_only_libclang_5-devel
+rust-bindgen0.68+__testing_only_libclang_9-devel
+rust-bindgen0.68+which-rustfmt-devel
+rust-bindgen+__testing_only_libclang_5-devel
+rust-bindgen+testing_only_libclang_5-devel

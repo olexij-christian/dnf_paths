@@ -1,0 +1,6 @@
+rust-socketpair+async-std-devel
+rust-socketpair+default-devel
+rust-socketpair-devel
+rust-socketpair+tokio-devel
+rust-socketpair+use_async_std-devel
+rust-socketpair+use_tokio-devel

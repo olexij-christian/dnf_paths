@@ -1,0 +1,5 @@
+rust-futures-executor+default-devel
+rust-futures-executor-devel
+rust-futures-executor+num_cpus-devel
+rust-futures-executor+std-devel
+rust-futures-executor+thread-pool-devel

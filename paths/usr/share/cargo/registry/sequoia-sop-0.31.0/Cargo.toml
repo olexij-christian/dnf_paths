@@ -1,0 +1,8 @@
+rust-sequoia-sop+cli-devel
+rust-sequoia-sop+compression-bzip2-devel
+rust-sequoia-sop+compression-deflate-devel
+rust-sequoia-sop+compression-devel
+rust-sequoia-sop+crypto-nettle-devel
+rust-sequoia-sop+crypto-openssl-devel
+rust-sequoia-sop+default-devel
+rust-sequoia-sop-devel

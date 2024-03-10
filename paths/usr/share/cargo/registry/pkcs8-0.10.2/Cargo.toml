@@ -1,0 +1,13 @@
+rust-pkcs8+3des-devel
+rust-pkcs8+alloc-devel
+rust-pkcs8+default-devel
+rust-pkcs8+des-insecure-devel
+rust-pkcs8-devel
+rust-pkcs8+encryption-devel
+rust-pkcs8+getrandom-devel
+rust-pkcs8+pem-devel
+rust-pkcs8+pkcs5-devel
+rust-pkcs8+rand_core-devel
+rust-pkcs8+sha1-insecure-devel
+rust-pkcs8+std-devel
+rust-pkcs8+subtle-devel

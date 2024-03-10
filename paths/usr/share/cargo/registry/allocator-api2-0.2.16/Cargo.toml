@@ -1,0 +1,6 @@
+rust-allocator-api2+alloc-devel
+rust-allocator-api2+default-devel
+rust-allocator-api2-devel
+rust-allocator-api2+nightly-devel
+rust-allocator-api2+serde-devel
+rust-allocator-api2+std-devel

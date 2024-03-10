@@ -1,0 +1,5 @@
+rust-dashmap4+default-devel
+rust-dashmap4-devel
+rust-dashmap4+raw-api-devel
+rust-dashmap4+rayon-devel
+rust-dashmap4+serde-devel

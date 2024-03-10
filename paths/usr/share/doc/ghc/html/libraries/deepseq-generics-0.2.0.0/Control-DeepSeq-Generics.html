@@ -1,0 +1,1 @@
+ghc-deepseq-generics-doc

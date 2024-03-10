@@ -1,0 +1,5 @@
+rust-normpath+default-devel
+rust-normpath-devel
+rust-normpath+localization-devel
+rust-normpath+print_bytes-devel
+rust-normpath+serde-devel

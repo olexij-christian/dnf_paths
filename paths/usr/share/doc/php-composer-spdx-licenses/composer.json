@@ -1,0 +1,1 @@
+php-composer-spdx-licenses

@@ -1,0 +1,5 @@
+rust-pancurses+default-devel
+rust-pancurses-devel
+rust-pancurses+disable_resize-devel
+rust-pancurses+show_menu-devel
+rust-pancurses+wide-devel

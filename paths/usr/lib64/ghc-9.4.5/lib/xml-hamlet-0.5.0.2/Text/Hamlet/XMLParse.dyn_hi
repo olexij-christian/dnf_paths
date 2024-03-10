@@ -1,0 +1,1 @@
+ghc-xml-hamlet-devel

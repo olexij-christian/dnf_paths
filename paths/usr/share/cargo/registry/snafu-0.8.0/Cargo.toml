@@ -1,0 +1,16 @@
+rust-snafu+backtrace-devel
+rust-snafu+backtraces-impl-backtrace-crate-devel
+rust-snafu+default-devel
+rust-snafu-devel
+rust-snafu+futures-core-crate-devel
+rust-snafu+futures-crate-devel
+rust-snafu+futures-devel
+rust-snafu+guide-devel
+rust-snafu+internal-dev-dependencies-devel
+rust-snafu+pin-project-devel
+rust-snafu+rust_1_61-devel
+rust-snafu+rust_1_65-devel
+rust-snafu+std-devel
+rust-snafu+unstable-core-error-devel
+rust-snafu+unstable-provider-api-devel
+rust-snafu+unstable-try-trait-devel

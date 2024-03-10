@@ -1,0 +1,6 @@
+rust-env_logger+auto-color-devel
+rust-env_logger+color-devel
+rust-env_logger+default-devel
+rust-env_logger-devel
+rust-env_logger+humantime-devel
+rust-env_logger+regex-devel

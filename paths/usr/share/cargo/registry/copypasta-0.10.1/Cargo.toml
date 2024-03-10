@@ -1,0 +1,6 @@
+rust-copypasta+default-devel
+rust-copypasta-devel
+rust-copypasta+smithay-clipboard-devel
+rust-copypasta+wayland-devel
+rust-copypasta+x11-clipboard-devel
+rust-copypasta+x11-devel

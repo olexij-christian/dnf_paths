@@ -1,0 +1,10 @@
+rust-nom5+alloc-devel
+rust-nom5+default-devel
+rust-nom5-devel
+rust-nom5+lazy_static-devel
+rust-nom5+lexical-core-devel
+rust-nom5+lexical-devel
+rust-nom5+regex-devel
+rust-nom5+regexp-devel
+rust-nom5+regexp_macros-devel
+rust-nom5+std-devel

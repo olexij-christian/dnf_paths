@@ -1,0 +1,1 @@
+libglvnd-core-devel

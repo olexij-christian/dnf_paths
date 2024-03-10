@@ -1,0 +1,10 @@
+rust-curl-sys+default-devel
+rust-curl-sys-devel
+rust-curl-sys+http2-devel
+rust-curl-sys+ntlm-devel
+rust-curl-sys+openssl-sys-devel
+rust-curl-sys+poll_7_68_0-devel
+rust-curl-sys+protocol-ftp-devel
+rust-curl-sys+spnego-devel
+rust-curl-sys+ssl-devel
+rust-curl-sys+upkeep_7_62_0-devel

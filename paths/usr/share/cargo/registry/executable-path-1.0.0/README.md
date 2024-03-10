@@ -1,0 +1,1 @@
+rust-executable-path-devel

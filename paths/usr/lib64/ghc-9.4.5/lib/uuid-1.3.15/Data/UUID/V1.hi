@@ -1,0 +1,1 @@
+ghc-uuid-devel

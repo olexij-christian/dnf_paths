@@ -1,0 +1,1 @@
+rust-mailparse-devel

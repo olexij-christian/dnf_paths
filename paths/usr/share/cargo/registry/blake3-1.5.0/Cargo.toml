@@ -1,0 +1,16 @@
+rust-blake3+default-devel
+rust-blake3-devel
+rust-blake3+digest-devel
+rust-blake3+mmap-devel
+rust-blake3+no_avx2-devel
+rust-blake3+no_avx512-devel
+rust-blake3+no_neon-devel
+rust-blake3+no_sse2-devel
+rust-blake3+no_sse41-devel
+rust-blake3+prefer_intrinsics-devel
+rust-blake3+pure-devel
+rust-blake3+rayon-devel
+rust-blake3+serde-devel
+rust-blake3+std-devel
+rust-blake3+traits-preview-devel
+rust-blake3+zeroize-devel

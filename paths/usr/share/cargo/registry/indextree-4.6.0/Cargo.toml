@@ -1,0 +1,7 @@
+rust-indextree+default-devel
+rust-indextree+deser-devel
+rust-indextree-devel
+rust-indextree+par_iter-devel
+rust-indextree+rayon-devel
+rust-indextree+serde-devel
+rust-indextree+std-devel

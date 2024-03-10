@@ -1,0 +1,14 @@
+rust-time+alloc-devel
+rust-time+default-devel
+rust-time-devel
+rust-time+formatting-devel
+rust-time+large-dates-devel
+rust-time+local-offset-devel
+rust-time+macros-devel
+rust-time+parsing-devel
+rust-time+quickcheck-devel
+rust-time+rand-devel
+rust-time+serde-devel
+rust-time+serde-human-readable-devel
+rust-time+serde-well-known-devel
+rust-time+std-devel

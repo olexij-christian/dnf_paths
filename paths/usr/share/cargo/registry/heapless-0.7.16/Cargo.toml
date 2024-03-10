@@ -1,0 +1,9 @@
+rust-heapless+atomic-polyfill-devel
+rust-heapless+cas-devel
+rust-heapless+default-devel
+rust-heapless-devel
+rust-heapless+mpmc_large-devel
+rust-heapless+serde-devel
+rust-heapless+ufmt-impl-devel
+rust-heapless+ufmt-write-devel
+rust-heapless+x86-sync-pool-devel

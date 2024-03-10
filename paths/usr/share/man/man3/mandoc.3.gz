@@ -1,0 +1,1 @@
+libmandoc-devel

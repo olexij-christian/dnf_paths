@@ -1,0 +1,2 @@
+hwloc-devel
+hwloc-libs

@@ -1,0 +1,4 @@
+rust-cargo-lock+default-devel
+rust-cargo-lock+dependency-tree-devel
+rust-cargo-lock-devel
+rust-cargo-lock+petgraph-devel

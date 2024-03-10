@@ -1,0 +1,8 @@
+rust-bugreport+collector_operating_system-devel
+rust-bugreport+default-devel
+rust-bugreport-devel
+rust-bugreport+format_markdown-devel
+rust-bugreport+format_plaintext-devel
+rust-bugreport+git_hash-devel
+rust-bugreport+git-version-devel
+rust-bugreport+sys-info-devel

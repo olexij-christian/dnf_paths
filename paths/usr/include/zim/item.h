@@ -1,0 +1,2 @@
+libzim-devel
+zimlib-devel

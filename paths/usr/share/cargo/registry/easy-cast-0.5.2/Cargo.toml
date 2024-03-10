@@ -1,0 +1,8 @@
+rust-easy-cast+always_assert-devel
+rust-easy-cast+assert_digits-devel
+rust-easy-cast+assert_float-devel
+rust-easy-cast+assert_int-devel
+rust-easy-cast+default-devel
+rust-easy-cast-devel
+rust-easy-cast+libm-devel
+rust-easy-cast+std-devel

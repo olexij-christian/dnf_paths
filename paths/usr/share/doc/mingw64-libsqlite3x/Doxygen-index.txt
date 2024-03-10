@@ -1,0 +1,1 @@
+mingw64-libsqlite3x

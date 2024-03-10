@@ -1,0 +1,3 @@
+python3-setuptools_scm
+python3-setuptools_scm+rich
+python3-setuptools_scm+toml

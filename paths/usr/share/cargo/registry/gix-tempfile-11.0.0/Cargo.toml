@@ -1,0 +1,5 @@
+rust-gix-tempfile+default-devel
+rust-gix-tempfile-devel
+rust-gix-tempfile+document-features-devel
+rust-gix-tempfile+hp-hashmap-devel
+rust-gix-tempfile+signals-devel

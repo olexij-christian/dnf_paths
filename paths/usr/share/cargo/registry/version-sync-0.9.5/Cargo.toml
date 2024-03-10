@@ -1,0 +1,12 @@
+rust-version-sync+contains_regex-devel
+rust-version-sync+default-devel
+rust-version-sync-devel
+rust-version-sync+html_root_url_updated-devel
+rust-version-sync+markdown_deps_updated-devel
+rust-version-sync+proc-macro2-devel
+rust-version-sync+pulldown-cmark-devel
+rust-version-sync+regex-devel
+rust-version-sync+semver-devel
+rust-version-sync+syn-devel
+rust-version-sync+toml-devel
+rust-version-sync+url-devel

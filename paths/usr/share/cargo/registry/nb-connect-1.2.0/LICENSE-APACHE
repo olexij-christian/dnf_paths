@@ -1,0 +1,1 @@
+rust-nb-connect-devel

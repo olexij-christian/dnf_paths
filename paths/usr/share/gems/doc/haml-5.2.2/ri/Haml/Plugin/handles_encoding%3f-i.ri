@@ -1,0 +1,1 @@
+rubygem-haml-doc

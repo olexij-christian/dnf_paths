@@ -1,0 +1,7 @@
+rust-memchr+alloc-devel
+rust-memchr+default-devel
+rust-memchr-devel
+rust-memchr+libc-devel
+rust-memchr+logging-devel
+rust-memchr+std-devel
+rust-memchr+use_std-devel

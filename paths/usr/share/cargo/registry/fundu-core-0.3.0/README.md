@@ -1,0 +1,1 @@
+rust-fundu-core-devel

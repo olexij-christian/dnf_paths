@@ -1,0 +1,1 @@
+perl-Scalar-Util-LooksLikeNumber

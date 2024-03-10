@@ -1,0 +1,1 @@
+liblxqt-l10n

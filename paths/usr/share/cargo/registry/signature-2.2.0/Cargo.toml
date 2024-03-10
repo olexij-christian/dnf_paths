@@ -1,0 +1,7 @@
+rust-signature+alloc-devel
+rust-signature+default-devel
+rust-signature+derive-devel
+rust-signature-devel
+rust-signature+digest-devel
+rust-signature+rand_core-devel
+rust-signature+std-devel

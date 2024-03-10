@@ -1,0 +1,1 @@
+qpid-dispatch-console

@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-mysql
+python3-opentelemetry-instrumentation-mysql+instruments

@@ -1,0 +1,6 @@
+rust-strum+default-devel
+rust-strum+derive-devel
+rust-strum-devel
+rust-strum+phf-devel
+rust-strum+std-devel
+rust-strum+strum_macros-devel

@@ -1,0 +1,12 @@
+rust-lopdf+chrono-devel
+rust-lopdf+chrono_time-devel
+rust-lopdf+default-devel
+rust-lopdf-devel
+rust-lopdf+embed_image-devel
+rust-lopdf+image-devel
+rust-lopdf+nom-devel
+rust-lopdf+nom_parser-devel
+rust-lopdf+pom-devel
+rust-lopdf+pom_parser-devel
+rust-lopdf+rayon-devel
+rust-lopdf+serde-devel

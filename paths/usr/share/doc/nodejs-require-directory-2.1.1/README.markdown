@@ -1,0 +1,1 @@
+nodejs-require-directory

@@ -1,0 +1,2 @@
+darktable
+darktable-tools-noise

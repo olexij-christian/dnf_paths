@@ -1,0 +1,7 @@
+rust-octseq+bytes-devel
+rust-octseq+default-devel
+rust-octseq-devel
+rust-octseq+heapless-devel
+rust-octseq+serde-devel
+rust-octseq+smallvec-devel
+rust-octseq+std-devel

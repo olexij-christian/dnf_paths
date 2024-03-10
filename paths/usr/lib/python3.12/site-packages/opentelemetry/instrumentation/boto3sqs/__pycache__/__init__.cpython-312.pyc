@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-boto3sqs
+python3-opentelemetry-instrumentation-boto3sqs+instruments

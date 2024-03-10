@@ -1,0 +1,13 @@
+rust-libslirp+dbus-devel
+rust-libslirp+default-devel
+rust-libslirp-devel
+rust-libslirp+ipnetwork-devel
+rust-libslirp+lazy_static-devel
+rust-libslirp+libc-devel
+rust-libslirp+libsystemd-devel
+rust-libslirp+mio-devel
+rust-libslirp+mio-extras-devel
+rust-libslirp+nix-devel
+rust-libslirp+slab-devel
+rust-libslirp+structopt-devel
+rust-libslirp+url-devel

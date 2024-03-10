@@ -1,0 +1,1 @@
+ghc-stm-doc

@@ -1,0 +1,4 @@
+rust-tss-esapi-sys+bindgen-devel
+rust-tss-esapi-sys+default-devel
+rust-tss-esapi-sys-devel
+rust-tss-esapi-sys+generate-bindings-devel

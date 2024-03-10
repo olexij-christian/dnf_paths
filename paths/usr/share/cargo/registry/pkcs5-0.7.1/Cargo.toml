@@ -1,0 +1,7 @@
+rust-pkcs5+3des-devel
+rust-pkcs5+alloc-devel
+rust-pkcs5+default-devel
+rust-pkcs5+des-insecure-devel
+rust-pkcs5-devel
+rust-pkcs5+pbes2-devel
+rust-pkcs5+sha1-insecure-devel

@@ -1,0 +1,1 @@
+php-phar-io-version

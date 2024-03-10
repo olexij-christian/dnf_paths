@@ -1,0 +1,1 @@
+fedora-gnat-project-common

@@ -1,0 +1,11 @@
+rust-vergen+build-devel
+rust-vergen+cargo-devel
+rust-vergen+chrono-devel
+rust-vergen+default-devel
+rust-vergen-devel
+rust-vergen+git2-devel
+rust-vergen+git-devel
+rust-vergen+rustc-devel
+rust-vergen+rustc_version-devel
+rust-vergen+si-devel
+rust-vergen+sysinfo-devel

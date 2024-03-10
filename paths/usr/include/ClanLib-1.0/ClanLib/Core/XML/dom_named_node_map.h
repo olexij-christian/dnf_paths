@@ -1,0 +1,1 @@
+ClanLib1-devel

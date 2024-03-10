@@ -1,0 +1,5 @@
+rust-input-sys+bindgen-devel
+rust-input-sys+default-devel
+rust-input-sys-devel
+rust-input-sys+gen-devel
+rust-input-sys+update_bindings-devel

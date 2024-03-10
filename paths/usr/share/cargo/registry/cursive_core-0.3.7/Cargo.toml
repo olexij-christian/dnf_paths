@@ -1,0 +1,7 @@
+rust-cursive_core+default-devel
+rust-cursive_core-devel
+rust-cursive_core+doc-cfg-devel
+rust-cursive_core+markdown-devel
+rust-cursive_core+pulldown-cmark-devel
+rust-cursive_core+toml-devel
+rust-cursive_core+unstable_scroll-devel

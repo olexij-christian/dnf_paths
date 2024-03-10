@@ -1,0 +1,8 @@
+rust-indexmap+arbitrary-devel
+rust-indexmap+default-devel
+rust-indexmap-devel
+rust-indexmap+quickcheck-devel
+rust-indexmap+rayon-devel
+rust-indexmap+serde-devel
+rust-indexmap+std-devel
+rust-indexmap+test_debug-devel

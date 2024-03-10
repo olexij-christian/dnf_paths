@@ -1,0 +1,1 @@
+ghc-cabal-doctest-doc

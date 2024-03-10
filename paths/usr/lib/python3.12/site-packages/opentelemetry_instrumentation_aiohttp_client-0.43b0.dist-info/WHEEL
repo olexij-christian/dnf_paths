@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-aiohttp-client
+python3-opentelemetry-instrumentation-aiohttp-client+instruments

@@ -1,0 +1,8 @@
+rust-aes-siv+alloc-devel
+rust-aes-siv+default-devel
+rust-aes-siv-devel
+rust-aes-siv+getrandom-devel
+rust-aes-siv+heapless-devel
+rust-aes-siv+pmac-devel
+rust-aes-siv+std-devel
+rust-aes-siv+stream-devel

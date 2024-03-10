@@ -1,0 +1,1 @@
+ghc-hint-devel

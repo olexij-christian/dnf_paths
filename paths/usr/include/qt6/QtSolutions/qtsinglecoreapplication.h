@@ -1,0 +1,1 @@
+qtsinglecoreapplication-qt6-devel

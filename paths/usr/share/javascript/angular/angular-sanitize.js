@@ -1,0 +1,1 @@
+XStatic-Angular-common

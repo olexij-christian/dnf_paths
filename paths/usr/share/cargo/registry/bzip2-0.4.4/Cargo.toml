@@ -1,0 +1,5 @@
+rust-bzip2+default-devel
+rust-bzip2-devel
+rust-bzip2+futures-devel
+rust-bzip2+tokio-devel
+rust-bzip2+tokio-io-devel

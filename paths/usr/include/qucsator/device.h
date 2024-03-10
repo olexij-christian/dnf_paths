@@ -1,0 +1,1 @@
+qucs-devel

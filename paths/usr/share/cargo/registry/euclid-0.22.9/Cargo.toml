@@ -1,0 +1,9 @@
+rust-euclid+arbitrary-devel
+rust-euclid+bytemuck-devel
+rust-euclid+default-devel
+rust-euclid-devel
+rust-euclid+libm-devel
+rust-euclid+mint-devel
+rust-euclid+serde-devel
+rust-euclid+std-devel
+rust-euclid+unstable-devel

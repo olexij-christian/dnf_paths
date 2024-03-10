@@ -1,0 +1,15 @@
+rust-gtk4+blueprint-devel
+rust-gtk4+default-devel
+rust-gtk4-devel
+rust-gtk4+gnome_42-devel
+rust-gtk4+gnome_43-devel
+rust-gtk4+gnome_44-devel
+rust-gtk4+gnome_45-devel
+rust-gtk4+unsafe-assume-initialized-devel
+rust-gtk4+v4_10-devel
+rust-gtk4+v4_12-devel
+rust-gtk4+v4_2-devel
+rust-gtk4+v4_4-devel
+rust-gtk4+v4_6-devel
+rust-gtk4+v4_8-devel
+rust-gtk4+xml_validation-devel

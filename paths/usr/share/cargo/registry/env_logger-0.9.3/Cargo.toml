@@ -1,0 +1,6 @@
+rust-env_logger0.9+atty-devel
+rust-env_logger0.9+default-devel
+rust-env_logger0.9-devel
+rust-env_logger0.9+humantime-devel
+rust-env_logger0.9+regex-devel
+rust-env_logger0.9+termcolor-devel

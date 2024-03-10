@@ -1,0 +1,1 @@
+rust-sd-notify-devel

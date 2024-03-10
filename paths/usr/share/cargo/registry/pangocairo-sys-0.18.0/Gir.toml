@@ -1,0 +1,1 @@
+rust-pangocairo-sys-devel

@@ -1,0 +1,5 @@
+rust-crosstermion+ansi_term-devel
+rust-crosstermion+termion-devel
+rust-crosstermion+tui-react-termion-devel
+rust-crosstermion+tui-termion-backend-devel
+rust-crosstermion+tui-termion-devel

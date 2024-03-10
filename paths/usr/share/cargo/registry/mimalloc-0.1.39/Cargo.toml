@@ -1,0 +1,7 @@
+rust-mimalloc+debug-devel
+rust-mimalloc+debug_in_debug-devel
+rust-mimalloc+default-devel
+rust-mimalloc-devel
+rust-mimalloc+local_dynamic_tls-devel
+rust-mimalloc+override-devel
+rust-mimalloc+secure-devel

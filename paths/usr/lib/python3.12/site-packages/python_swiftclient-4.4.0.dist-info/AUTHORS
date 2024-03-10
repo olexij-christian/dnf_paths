@@ -1,0 +1,2 @@
+python3-swiftclient
+python3-swiftclient+keystone

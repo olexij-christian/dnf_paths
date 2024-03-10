@@ -1,0 +1,1 @@
+librawstudio-devel

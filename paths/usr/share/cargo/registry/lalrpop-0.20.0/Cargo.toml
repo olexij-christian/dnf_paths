@@ -1,0 +1,4 @@
+rust-lalrpop+default-devel
+rust-lalrpop-devel
+rust-lalrpop+lexer-devel
+rust-lalrpop+unicode-devel

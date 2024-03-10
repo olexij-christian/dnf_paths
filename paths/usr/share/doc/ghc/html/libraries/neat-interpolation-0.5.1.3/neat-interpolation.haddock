@@ -1,0 +1,1 @@
+ghc-neat-interpolation-doc

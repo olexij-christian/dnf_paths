@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-sqlite3
+python3-opentelemetry-instrumentation-sqlite3+instruments

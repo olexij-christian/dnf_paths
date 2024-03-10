@@ -1,0 +1,7 @@
+ghc8.10-compiler-default
+ghc9.0-compiler-default
+ghc9.2-compiler-default
+ghc9.4-compiler-default
+ghc9.6-compiler-default
+ghc9.8-compiler-default
+ghc-compiler

@@ -1,0 +1,4 @@
+rust-lazy_static+default-devel
+rust-lazy_static-devel
+rust-lazy_static+spin-devel
+rust-lazy_static+spin_no_std-devel

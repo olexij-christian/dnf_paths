@@ -1,0 +1,4 @@
+rust-imagequant-sys+capi-devel
+rust-imagequant-sys+default-devel
+rust-imagequant-sys-devel
+rust-imagequant-sys+threads-devel

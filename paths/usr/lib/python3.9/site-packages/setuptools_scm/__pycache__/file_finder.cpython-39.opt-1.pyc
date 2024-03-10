@@ -1,0 +1,1 @@
+python39-setuptools_scm

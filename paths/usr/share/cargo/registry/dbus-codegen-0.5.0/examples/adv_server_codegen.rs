@@ -1,0 +1,1 @@
+rust-dbus-codegen-devel

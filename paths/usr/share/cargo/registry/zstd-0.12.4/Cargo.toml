@@ -1,0 +1,16 @@
+rust-zstd0.12+arrays-devel
+rust-zstd0.12+bindgen-devel
+rust-zstd0.12+debug-devel
+rust-zstd0.12+default-devel
+rust-zstd0.12-devel
+rust-zstd0.12+doc-cfg-devel
+rust-zstd0.12+experimental-devel
+rust-zstd0.12+fat-lto-devel
+rust-zstd0.12+legacy-devel
+rust-zstd0.12+no_asm-devel
+rust-zstd0.12+pkg-config-devel
+rust-zstd0.12+thin-devel
+rust-zstd0.12+thin-lto-devel
+rust-zstd0.12+wasm-devel
+rust-zstd0.12+zdict_builder-devel
+rust-zstd0.12+zstdmt-devel

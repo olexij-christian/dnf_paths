@@ -1,0 +1,1 @@
+nodejs-nsp-audit-shrinkwrap

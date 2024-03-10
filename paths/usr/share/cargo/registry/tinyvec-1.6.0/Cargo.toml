@@ -1,0 +1,13 @@
+rust-tinyvec+alloc-devel
+rust-tinyvec+arbitrary-devel
+rust-tinyvec+default-devel
+rust-tinyvec-devel
+rust-tinyvec+experimental_write_impl-devel
+rust-tinyvec+grab_spare_slice-devel
+rust-tinyvec+nightly_slice_partition_dedup-devel
+rust-tinyvec+rustc_1_40-devel
+rust-tinyvec+rustc_1_55-devel
+rust-tinyvec+rustc_1_57-devel
+rust-tinyvec+serde-devel
+rust-tinyvec+std-devel
+rust-tinyvec+tinyvec_macros-devel

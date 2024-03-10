@@ -1,0 +1,5 @@
+rust-sval_nested+alloc-devel
+rust-sval_nested+default-devel
+rust-sval_nested-devel
+rust-sval_nested+no_debug_assertions-devel
+rust-sval_nested+std-devel

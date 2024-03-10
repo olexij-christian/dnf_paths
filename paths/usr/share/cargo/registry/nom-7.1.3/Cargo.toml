@@ -1,0 +1,5 @@
+rust-nom+alloc-devel
+rust-nom+default-devel
+rust-nom-devel
+rust-nom+docsrs-devel
+rust-nom+std-devel

@@ -1,0 +1,5 @@
+rust-crossbeam-queue+alloc-devel
+rust-crossbeam-queue+default-devel
+rust-crossbeam-queue-devel
+rust-crossbeam-queue+nightly-devel
+rust-crossbeam-queue+std-devel

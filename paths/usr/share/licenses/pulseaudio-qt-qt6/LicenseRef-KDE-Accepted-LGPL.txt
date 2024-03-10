@@ -1,0 +1,1 @@
+pulseaudio-qt-qt6

@@ -1,0 +1,6 @@
+rust-xkbcommon+as-raw-xcb-connection-devel
+rust-xkbcommon+default-devel
+rust-xkbcommon-devel
+rust-xkbcommon+memmap2-devel
+rust-xkbcommon+wayland-devel
+rust-xkbcommon+x11-devel

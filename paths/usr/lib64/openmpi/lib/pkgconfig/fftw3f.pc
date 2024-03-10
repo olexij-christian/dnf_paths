@@ -1,0 +1,1 @@
+fftw-openmpi-devel

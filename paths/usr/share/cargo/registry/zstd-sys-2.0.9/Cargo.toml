@@ -1,0 +1,15 @@
+rust-zstd-sys+bindgen-devel
+rust-zstd-sys+debug-devel
+rust-zstd-sys+default-devel
+rust-zstd-sys-devel
+rust-zstd-sys+experimental-devel
+rust-zstd-sys+fat-lto-devel
+rust-zstd-sys+legacy-devel
+rust-zstd-sys+no_asm-devel
+rust-zstd-sys+non-cargo-devel
+rust-zstd-sys+pkg-config-devel
+rust-zstd-sys+std-devel
+rust-zstd-sys+thin-devel
+rust-zstd-sys+thin-lto-devel
+rust-zstd-sys+zdict_builder-devel
+rust-zstd-sys+zstdmt-devel

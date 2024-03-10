@@ -1,0 +1,8 @@
+rust-winnow+alloc-devel
+rust-winnow+debug-devel
+rust-winnow+default-devel
+rust-winnow-devel
+rust-winnow+simd-devel
+rust-winnow+std-devel
+rust-winnow+unstable-doc-devel
+rust-winnow+unstable-recover-devel

@@ -1,0 +1,1 @@
+perl-MooseX-Traits-Pluggable

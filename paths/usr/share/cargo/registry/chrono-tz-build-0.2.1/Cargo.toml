@@ -1,0 +1,6 @@
+rust-chrono-tz-build+case-insensitive-devel
+rust-chrono-tz-build+default-devel
+rust-chrono-tz-build-devel
+rust-chrono-tz-build+filter-by-regex-devel
+rust-chrono-tz-build+regex-devel
+rust-chrono-tz-build+uncased-devel

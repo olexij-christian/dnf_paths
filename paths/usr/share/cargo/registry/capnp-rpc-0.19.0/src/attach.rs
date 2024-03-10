@@ -1,0 +1,1 @@
+rust-capnp-rpc-devel

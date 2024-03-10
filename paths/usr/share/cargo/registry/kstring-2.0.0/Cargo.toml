@@ -1,0 +1,8 @@
+rust-kstring+arc-devel
+rust-kstring+default-devel
+rust-kstring-devel
+rust-kstring+max_inline-devel
+rust-kstring+serde-devel
+rust-kstring+std-devel
+rust-kstring+unsafe-devel
+rust-kstring+unstable_bench_subset-devel

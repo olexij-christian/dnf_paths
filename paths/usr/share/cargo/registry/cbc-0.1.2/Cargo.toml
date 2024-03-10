@@ -1,0 +1,6 @@
+rust-cbc+alloc-devel
+rust-cbc+block-padding-devel
+rust-cbc+default-devel
+rust-cbc-devel
+rust-cbc+std-devel
+rust-cbc+zeroize-devel

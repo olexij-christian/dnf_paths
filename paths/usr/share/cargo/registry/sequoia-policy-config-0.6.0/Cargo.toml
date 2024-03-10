@@ -1,0 +1,4 @@
+rust-sequoia-policy-config+crypto-nettle-devel
+rust-sequoia-policy-config+crypto-openssl-devel
+rust-sequoia-policy-config+default-devel
+rust-sequoia-policy-config-devel

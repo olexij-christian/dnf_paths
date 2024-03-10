@@ -1,0 +1,5 @@
+rust-rustfft+avx-devel
+rust-rustfft+default-devel
+rust-rustfft-devel
+rust-rustfft+neon-devel
+rust-rustfft+sse-devel

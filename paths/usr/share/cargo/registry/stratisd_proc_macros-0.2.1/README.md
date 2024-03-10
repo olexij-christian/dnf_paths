@@ -1,0 +1,1 @@
+rust-stratisd_proc_macros-devel

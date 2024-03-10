@@ -1,0 +1,4 @@
+rust-grep+default-devel
+rust-grep-devel
+rust-grep+grep-pcre2-devel
+rust-grep+pcre2-devel

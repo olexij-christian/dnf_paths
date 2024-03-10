@@ -1,0 +1,5 @@
+rust-lib0+default-devel
+rust-lib0-devel
+rust-lib0+lib0-serde-devel
+rust-lib0+serde-devel
+rust-lib0+serde_json-devel

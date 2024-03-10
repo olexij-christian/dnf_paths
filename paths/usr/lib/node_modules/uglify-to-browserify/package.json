@@ -1,0 +1,1 @@
+nodejs-uglify-to-browserify

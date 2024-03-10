@@ -1,0 +1,1 @@
+vim-syntastic-z80

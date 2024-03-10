@@ -1,0 +1,7 @@
+rust-bitvec+alloc-devel
+rust-bitvec+atomic-devel
+rust-bitvec+default-devel
+rust-bitvec-devel
+rust-bitvec+serde-devel
+rust-bitvec+std-devel
+rust-bitvec+testing-devel

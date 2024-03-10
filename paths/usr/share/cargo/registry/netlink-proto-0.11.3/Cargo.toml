@@ -1,0 +1,4 @@
+rust-netlink-proto+default-devel
+rust-netlink-proto-devel
+rust-netlink-proto+smol_socket-devel
+rust-netlink-proto+tokio_socket-devel

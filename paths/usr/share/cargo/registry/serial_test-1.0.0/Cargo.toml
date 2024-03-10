@@ -1,0 +1,8 @@
+rust-serial_test1+async-devel
+rust-serial_test1+default-devel
+rust-serial_test1-devel
+rust-serial_test1+file_locks-devel
+rust-serial_test1+fslock-devel
+rust-serial_test1+futures-devel
+rust-serial_test1+log-devel
+rust-serial_test1+logging-devel

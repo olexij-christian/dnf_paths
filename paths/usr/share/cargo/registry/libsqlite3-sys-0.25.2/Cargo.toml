@@ -1,0 +1,11 @@
+rust-libsqlite3-sys+buildtime_bindgen-devel
+rust-libsqlite3-sys+default-devel
+rust-libsqlite3-sys-devel
+rust-libsqlite3-sys+min_sqlite_version_3_6_23-devel
+rust-libsqlite3-sys+min_sqlite_version_3_6_8-devel
+rust-libsqlite3-sys+min_sqlite_version_3_7_16-devel
+rust-libsqlite3-sys+min_sqlite_version_3_7_7-devel
+rust-libsqlite3-sys+preupdate_hook-devel
+rust-libsqlite3-sys+session-devel
+rust-libsqlite3-sys+unlock_notify-devel
+rust-libsqlite3-sys+with-asan-devel

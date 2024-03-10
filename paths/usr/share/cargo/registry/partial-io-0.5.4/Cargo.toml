@@ -1,0 +1,12 @@
+rust-partial-io+default-devel
+rust-partial-io-devel
+rust-partial-io+futures03-devel
+rust-partial-io+futures-devel
+rust-partial-io+pin-project-devel
+rust-partial-io+proptest1-devel
+rust-partial-io+proptest-devel
+rust-partial-io+quickcheck1-devel
+rust-partial-io+quickcheck-devel
+rust-partial-io+rand-devel
+rust-partial-io+tokio1-devel
+rust-partial-io+tokio-devel

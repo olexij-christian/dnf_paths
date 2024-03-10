@@ -1,0 +1,1 @@
+rust-wezterm-bidi-devel

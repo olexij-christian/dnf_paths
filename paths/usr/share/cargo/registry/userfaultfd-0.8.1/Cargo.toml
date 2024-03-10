@@ -1,0 +1,4 @@
+rust-userfaultfd+default-devel
+rust-userfaultfd-devel
+rust-userfaultfd+linux4_14-devel
+rust-userfaultfd+linux5_7-devel

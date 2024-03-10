@@ -1,0 +1,6 @@
+rust-textwrap+default-devel
+rust-textwrap-devel
+rust-textwrap+smawk-devel
+rust-textwrap+terminal_size-devel
+rust-textwrap+unicode-linebreak-devel
+rust-textwrap+unicode-width-devel

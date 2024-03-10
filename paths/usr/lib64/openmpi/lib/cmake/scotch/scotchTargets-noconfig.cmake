@@ -1,0 +1,1 @@
+ptscotch-openmpi-devel

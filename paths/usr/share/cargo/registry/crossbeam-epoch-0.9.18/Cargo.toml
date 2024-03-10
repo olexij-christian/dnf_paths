@@ -1,0 +1,5 @@
+rust-crossbeam-epoch+alloc-devel
+rust-crossbeam-epoch+default-devel
+rust-crossbeam-epoch-devel
+rust-crossbeam-epoch+nightly-devel
+rust-crossbeam-epoch+std-devel

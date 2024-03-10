@@ -1,0 +1,7 @@
+rust-rkyv_derive+arbitrary_enum_discriminant-devel
+rust-rkyv_derive+archive_be-devel
+rust-rkyv_derive+archive_le-devel
+rust-rkyv_derive+copy-devel
+rust-rkyv_derive+default-devel
+rust-rkyv_derive-devel
+rust-rkyv_derive+strict-devel

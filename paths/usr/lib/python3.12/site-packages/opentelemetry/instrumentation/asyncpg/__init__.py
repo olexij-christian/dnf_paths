@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-asyncpg
+python3-opentelemetry-instrumentation-asyncpg+instruments

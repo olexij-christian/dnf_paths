@@ -1,0 +1,5 @@
+rust-smol_str+arbitrary-devel
+rust-smol_str+default-devel
+rust-smol_str-devel
+rust-smol_str+serde-devel
+rust-smol_str+std-devel

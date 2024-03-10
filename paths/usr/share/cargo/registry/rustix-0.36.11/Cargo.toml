@@ -1,0 +1,4 @@
+rust-rustix+all-impls-devel
+rust-rustix+fs-err-devel
+rust-rustix+io-lifetimes-devel
+rust-rustix+os_pipe-devel

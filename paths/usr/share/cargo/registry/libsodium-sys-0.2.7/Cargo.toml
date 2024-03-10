@@ -1,0 +1,3 @@
+rust-libsodium-sys+default-devel
+rust-libsodium-sys-devel
+rust-libsodium-sys+use-pkg-config-devel

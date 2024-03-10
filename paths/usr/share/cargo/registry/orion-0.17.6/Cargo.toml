@@ -1,0 +1,8 @@
+rust-orion+alloc-devel
+rust-orion+ct-codecs-devel
+rust-orion+default-devel
+rust-orion-devel
+rust-orion+experimental-devel
+rust-orion+getrandom-devel
+rust-orion+safe_api-devel
+rust-orion+serde-devel

@@ -1,0 +1,16 @@
+rust-proptest0.10+alloc-devel
+rust-proptest0.10+atomic64bit-devel
+rust-proptest0.10+bit-set-devel
+rust-proptest0.10+break-dead-code-devel
+rust-proptest0.10+default-code-coverage-devel
+rust-proptest0.10+default-devel
+rust-proptest0.10-devel
+rust-proptest0.10+fork-devel
+rust-proptest0.10+lazy_static-devel
+rust-proptest0.10+quick-error-devel
+rust-proptest0.10+regex-syntax-devel
+rust-proptest0.10+rusty-fork-devel
+rust-proptest0.10+std-devel
+rust-proptest0.10+tempfile-devel
+rust-proptest0.10+timeout-devel
+rust-proptest0.10+unstable-devel

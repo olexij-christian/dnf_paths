@@ -1,0 +1,5 @@
+rust-bigdecimal+default-devel
+rust-bigdecimal-devel
+rust-bigdecimal+serde-devel
+rust-bigdecimal+std-devel
+rust-bigdecimal+string-only-devel

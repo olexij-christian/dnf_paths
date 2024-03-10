@@ -1,0 +1,5 @@
+rust-secrecy+alloc-devel
+rust-secrecy+bytes-devel
+rust-secrecy+default-devel
+rust-secrecy-devel
+rust-secrecy+serde-devel

@@ -1,0 +1,6 @@
+rust-pulldown-cmark+default-devel
+rust-pulldown-cmark-devel
+rust-pulldown-cmark+gen-tests-devel
+rust-pulldown-cmark+getopts-devel
+rust-pulldown-cmark+serde-devel
+rust-pulldown-cmark+simd-devel

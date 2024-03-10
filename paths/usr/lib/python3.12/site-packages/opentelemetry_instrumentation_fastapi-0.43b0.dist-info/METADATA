@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-fastapi
+python3-opentelemetry-instrumentation-fastapi+instruments

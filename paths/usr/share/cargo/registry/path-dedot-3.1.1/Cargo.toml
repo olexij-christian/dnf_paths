@@ -1,0 +1,7 @@
+rust-path-dedot+default-devel
+rust-path-dedot-devel
+rust-path-dedot+lazy_static_cache-devel
+rust-path-dedot+lazy_static-devel
+rust-path-dedot+once_cell_cache-devel
+rust-path-dedot+unsafe_cache-devel
+rust-path-dedot+use_unix_paths_on_wasm-devel

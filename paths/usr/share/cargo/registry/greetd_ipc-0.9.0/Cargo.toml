@@ -1,0 +1,8 @@
+rust-greetd_ipc+async-trait-devel
+rust-greetd_ipc+codec-devel
+rust-greetd_ipc+default-devel
+rust-greetd_ipc-devel
+rust-greetd_ipc+sync-codec-devel
+rust-greetd_ipc+thiserror-devel
+rust-greetd_ipc+tokio-codec-devel
+rust-greetd_ipc+tokio-devel

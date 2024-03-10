@@ -1,0 +1,6 @@
+rust-libbpf-sys+bindgen-devel
+rust-libbpf-sys+default-devel
+rust-libbpf-sys-devel
+rust-libbpf-sys+novendor-devel
+rust-libbpf-sys+static-devel
+rust-libbpf-sys+vendored-devel

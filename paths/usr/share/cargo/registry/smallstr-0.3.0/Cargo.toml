@@ -1,0 +1,6 @@
+rust-smallstr+default-devel
+rust-smallstr-devel
+rust-smallstr+ffi-devel
+rust-smallstr+serde-devel
+rust-smallstr+std-devel
+rust-smallstr+union-devel

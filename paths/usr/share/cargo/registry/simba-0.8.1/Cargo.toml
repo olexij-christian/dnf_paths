@@ -1,0 +1,15 @@
+rust-simba+cordic-devel
+rust-simba+decimal-devel
+rust-simba+default-devel
+rust-simba-devel
+rust-simba+fixed-devel
+rust-simba+libm-devel
+rust-simba+libm_force-devel
+rust-simba+partial_fixed_point_support-devel
+rust-simba+rand-devel
+rust-simba+rkyv-devel
+rust-simba+rkyv-serialize-devel
+rust-simba+serde-devel
+rust-simba+serde_serialize-devel
+rust-simba+std-devel
+rust-simba+wide-devel

@@ -1,0 +1,1 @@
+rubygem-openscap-devel

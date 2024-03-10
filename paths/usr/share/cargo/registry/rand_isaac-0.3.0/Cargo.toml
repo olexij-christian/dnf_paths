@@ -1,0 +1,5 @@
+rust-rand_isaac+default-devel
+rust-rand_isaac-devel
+rust-rand_isaac+serde1-devel
+rust-rand_isaac+serde_derive-devel
+rust-rand_isaac+serde-devel

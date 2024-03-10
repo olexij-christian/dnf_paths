@@ -1,0 +1,5 @@
+rust-pretty_assertions+alloc-devel
+rust-pretty_assertions+default-devel
+rust-pretty_assertions-devel
+rust-pretty_assertions+std-devel
+rust-pretty_assertions+unstable-devel

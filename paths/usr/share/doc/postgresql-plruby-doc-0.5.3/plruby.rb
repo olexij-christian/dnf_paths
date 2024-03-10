@@ -1,0 +1,1 @@
+postgresql-plruby-doc

@@ -1,0 +1,1 @@
+nodejs-buffer-crc32

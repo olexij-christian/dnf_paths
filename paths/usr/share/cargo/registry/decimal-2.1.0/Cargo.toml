@@ -1,0 +1,5 @@
+rust-decimal+default-devel
+rust-decimal-devel
+rust-decimal+ord_subset-devel
+rust-decimal+rustc-serialize-devel
+rust-decimal+serde-devel

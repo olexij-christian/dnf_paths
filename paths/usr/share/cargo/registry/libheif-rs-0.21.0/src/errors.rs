@@ -1,0 +1,1 @@
+rust-libheif-rs-devel

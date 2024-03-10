@@ -1,0 +1,1 @@
+magicmirror-module-singlestock

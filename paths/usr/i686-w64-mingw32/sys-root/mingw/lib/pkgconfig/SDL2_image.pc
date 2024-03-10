@@ -1,0 +1,1 @@
+mingw32-SDL2_image

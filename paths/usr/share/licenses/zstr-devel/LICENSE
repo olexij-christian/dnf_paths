@@ -1,0 +1,1 @@
+zstr-devel

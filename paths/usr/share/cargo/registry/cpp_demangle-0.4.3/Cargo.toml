@@ -1,0 +1,6 @@
+rust-cpp_demangle+alloc-devel
+rust-cpp_demangle+default-devel
+rust-cpp_demangle-devel
+rust-cpp_demangle+logging-devel
+rust-cpp_demangle+run_libiberty_tests-devel
+rust-cpp_demangle+std-devel

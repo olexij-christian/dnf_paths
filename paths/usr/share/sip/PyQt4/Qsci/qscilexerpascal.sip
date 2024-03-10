@@ -1,0 +1,1 @@
+qscintilla-python-devel

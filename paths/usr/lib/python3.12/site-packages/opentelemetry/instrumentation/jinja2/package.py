@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-jinja2
+python3-opentelemetry-instrumentation-jinja2+instruments

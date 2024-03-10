@@ -1,0 +1,9 @@
+rust-libmimalloc-sys+cty-devel
+rust-libmimalloc-sys+debug-devel
+rust-libmimalloc-sys+debug_in_debug-devel
+rust-libmimalloc-sys+default-devel
+rust-libmimalloc-sys-devel
+rust-libmimalloc-sys+extended-devel
+rust-libmimalloc-sys+local_dynamic_tls-devel
+rust-libmimalloc-sys+override-devel
+rust-libmimalloc-sys+secure-devel

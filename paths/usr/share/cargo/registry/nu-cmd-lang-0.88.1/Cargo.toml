@@ -1,0 +1,10 @@
+rust-nu-cmd-lang+dataframe-devel
+rust-nu-cmd-lang+default-devel
+rust-nu-cmd-lang-devel
+rust-nu-cmd-lang+extra-devel
+rust-nu-cmd-lang+mimalloc-devel
+rust-nu-cmd-lang+sqlite-devel
+rust-nu-cmd-lang+static-link-openssl-devel
+rust-nu-cmd-lang+trash-support-devel
+rust-nu-cmd-lang+wasi-devel
+rust-nu-cmd-lang+which-support-devel

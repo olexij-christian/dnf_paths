@@ -1,0 +1,12 @@
+rust-portable-atomic+critical-section-devel
+rust-portable-atomic+default-devel
+rust-portable-atomic-devel
+rust-portable-atomic+disable-fiq-devel
+rust-portable-atomic+fallback-devel
+rust-portable-atomic+float-devel
+rust-portable-atomic+force-amo-devel
+rust-portable-atomic+require-cas-devel
+rust-portable-atomic+serde-devel
+rust-portable-atomic+s-mode-devel
+rust-portable-atomic+std-devel
+rust-portable-atomic+unsafe-assume-single-core-devel

@@ -1,0 +1,1 @@
+rust-rmp-serde-devel

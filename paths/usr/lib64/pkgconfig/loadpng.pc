@@ -1,0 +1,1 @@
+allegro-loadpng-devel

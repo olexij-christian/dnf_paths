@@ -1,0 +1,1 @@
+qtermwidget-l10n

@@ -1,0 +1,1 @@
+cekit-zsh-completion

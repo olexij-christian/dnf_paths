@@ -1,0 +1,4 @@
+rust-crossbeam-utils+default-devel
+rust-crossbeam-utils-devel
+rust-crossbeam-utils+nightly-devel
+rust-crossbeam-utils+std-devel

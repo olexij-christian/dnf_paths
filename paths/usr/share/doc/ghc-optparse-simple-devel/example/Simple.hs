@@ -1,0 +1,1 @@
+ghc-optparse-simple-devel

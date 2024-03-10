@@ -1,0 +1,1 @@
+libarrow-dataset-glib-devel

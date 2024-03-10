@@ -1,0 +1,5 @@
+rust-scrypt+default-devel
+rust-scrypt-devel
+rust-scrypt+password-hash-devel
+rust-scrypt+simple-devel
+rust-scrypt+std-devel

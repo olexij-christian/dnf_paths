@@ -1,0 +1,1 @@
+vazirmatn-rd-ui-fonts

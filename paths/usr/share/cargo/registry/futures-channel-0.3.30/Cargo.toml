@@ -1,0 +1,8 @@
+rust-futures-channel+alloc-devel
+rust-futures-channel+cfg-target-has-atomic-devel
+rust-futures-channel+default-devel
+rust-futures-channel-devel
+rust-futures-channel+futures-sink-devel
+rust-futures-channel+sink-devel
+rust-futures-channel+std-devel
+rust-futures-channel+unstable-devel

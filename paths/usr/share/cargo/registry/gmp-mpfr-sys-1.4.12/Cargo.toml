@@ -1,0 +1,9 @@
+rust-gmp-mpfr-sys+cnodelete-devel
+rust-gmp-mpfr-sys+c-no-tests-devel
+rust-gmp-mpfr-sys+default-devel
+rust-gmp-mpfr-sys-devel
+rust-gmp-mpfr-sys+fail-on-warnings-devel
+rust-gmp-mpfr-sys+force-cross-devel
+rust-gmp-mpfr-sys+mpc-devel
+rust-gmp-mpfr-sys+mpfr-devel
+rust-gmp-mpfr-sys+use-system-libs-devel

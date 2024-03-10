@@ -1,0 +1,9 @@
+rust-half+alloc-devel
+rust-half+bytemuck-devel
+rust-half+default-devel
+rust-half-devel
+rust-half+num-traits-devel
+rust-half+rand_distr-devel
+rust-half+serde-devel
+rust-half+std-devel
+rust-half+use-intrinsics-devel

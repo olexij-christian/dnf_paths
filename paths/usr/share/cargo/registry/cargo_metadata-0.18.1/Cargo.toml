@@ -1,0 +1,5 @@
+rust-cargo_metadata+builder-devel
+rust-cargo_metadata+default-devel
+rust-cargo_metadata+derive_builder-devel
+rust-cargo_metadata-devel
+rust-cargo_metadata+unstable-devel

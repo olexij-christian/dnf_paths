@@ -1,0 +1,1 @@
+qxmpp-qt6

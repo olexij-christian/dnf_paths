@@ -1,0 +1,1 @@
+rust-libpulse-binding-devel

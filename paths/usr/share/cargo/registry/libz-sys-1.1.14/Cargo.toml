@@ -1,0 +1,4 @@
+rust-libz-sys+default-devel
+rust-libz-sys-devel
+rust-libz-sys+libc-devel
+rust-libz-sys+stock-zlib-devel

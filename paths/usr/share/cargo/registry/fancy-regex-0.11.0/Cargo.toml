@@ -1,0 +1,9 @@
+rust-fancy-regex+default-devel
+rust-fancy-regex-devel
+rust-fancy-regex+perf-cache-devel
+rust-fancy-regex+perf-devel
+rust-fancy-regex+perf-dfa-devel
+rust-fancy-regex+perf-inline-devel
+rust-fancy-regex+perf-literal-devel
+rust-fancy-regex+track_caller-devel
+rust-fancy-regex+unicode-devel

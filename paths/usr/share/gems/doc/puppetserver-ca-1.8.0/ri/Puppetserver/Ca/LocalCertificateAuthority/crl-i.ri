@@ -1,0 +1,1 @@
+rubygem-puppetserver-ca-doc

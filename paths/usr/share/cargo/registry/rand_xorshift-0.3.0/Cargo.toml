@@ -1,0 +1,4 @@
+rust-rand_xorshift+default-devel
+rust-rand_xorshift-devel
+rust-rand_xorshift+serde1-devel
+rust-rand_xorshift+serde-devel

@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-pyramid
+python3-opentelemetry-instrumentation-pyramid+instruments

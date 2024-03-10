@@ -1,0 +1,4 @@
+rust-sequoia-ipc+compression-bzip2-devel
+rust-sequoia-ipc+compression-deflate-devel
+rust-sequoia-ipc+compression-devel
+rust-sequoia-ipc+crypto-nettle-devel

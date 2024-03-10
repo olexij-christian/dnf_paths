@@ -1,0 +1,1 @@
+qtsinglecoreapplication-qt5-devel

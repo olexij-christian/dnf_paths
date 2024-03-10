@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-kafka-python
+python3-opentelemetry-instrumentation-kafka-python+instruments

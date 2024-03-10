@@ -1,0 +1,8 @@
+rust-fallible_collections+default-devel
+rust-fallible_collections-devel
+rust-fallible_collections+hashbrown-devel
+rust-fallible_collections+hashmap-devel
+rust-fallible_collections+rust_1_57-devel
+rust-fallible_collections+std-devel
+rust-fallible_collections+std_io-devel
+rust-fallible_collections+unstable-devel

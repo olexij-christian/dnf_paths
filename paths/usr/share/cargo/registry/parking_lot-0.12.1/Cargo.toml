@@ -1,0 +1,9 @@
+rust-parking_lot+arc_lock-devel
+rust-parking_lot+deadlock_detection-devel
+rust-parking_lot+default-devel
+rust-parking_lot-devel
+rust-parking_lot+hardware-lock-elision-devel
+rust-parking_lot+nightly-devel
+rust-parking_lot+owning_ref-devel
+rust-parking_lot+send_guard-devel
+rust-parking_lot+serde-devel

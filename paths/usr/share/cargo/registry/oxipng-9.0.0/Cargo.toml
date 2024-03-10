@@ -1,0 +1,12 @@
+rust-oxipng+binary-devel
+rust-oxipng+clap-devel
+rust-oxipng+crossbeam-channel-devel
+rust-oxipng+default-devel
+rust-oxipng-devel
+rust-oxipng+env_logger-devel
+rust-oxipng+filetime-devel
+rust-oxipng+freestanding-devel
+rust-oxipng+image-devel
+rust-oxipng+parallel-devel
+rust-oxipng+rayon-devel
+rust-oxipng+sanity-checks-devel

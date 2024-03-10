@@ -1,0 +1,1 @@
+rubygem-faraday-doc

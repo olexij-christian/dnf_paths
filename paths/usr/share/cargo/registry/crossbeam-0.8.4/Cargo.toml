@@ -1,0 +1,9 @@
+rust-crossbeam+alloc-devel
+rust-crossbeam+crossbeam-channel-devel
+rust-crossbeam+crossbeam-deque-devel
+rust-crossbeam+crossbeam-epoch-devel
+rust-crossbeam+crossbeam-queue-devel
+rust-crossbeam+default-devel
+rust-crossbeam-devel
+rust-crossbeam+nightly-devel
+rust-crossbeam+std-devel

@@ -1,0 +1,4 @@
+rust-byteorder+default-devel
+rust-byteorder-devel
+rust-byteorder+i128-devel
+rust-byteorder+std-devel

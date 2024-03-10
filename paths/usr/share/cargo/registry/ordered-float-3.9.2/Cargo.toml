@@ -1,0 +1,14 @@
+rust-ordered-float+arbitrary-devel
+rust-ordered-float+bytemuck-devel
+rust-ordered-float+default-devel
+rust-ordered-float-devel
+rust-ordered-float+proptest-devel
+rust-ordered-float+rand-devel
+rust-ordered-float+randtest-devel
+rust-ordered-float+rkyv_16-devel
+rust-ordered-float+rkyv_32-devel
+rust-ordered-float+rkyv_64-devel
+rust-ordered-float+rkyv_ck-devel
+rust-ordered-float+rkyv-devel
+rust-ordered-float+serde-devel
+rust-ordered-float+std-devel

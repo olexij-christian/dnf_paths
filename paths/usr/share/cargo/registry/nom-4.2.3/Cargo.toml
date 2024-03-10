@@ -1,0 +1,9 @@
+rust-nom4+alloc-devel
+rust-nom4+default-devel
+rust-nom4-devel
+rust-nom4+lazy_static-devel
+rust-nom4+regex-devel
+rust-nom4+regexp-devel
+rust-nom4+regexp_macros-devel
+rust-nom4+std-devel
+rust-nom4+verbose-errors-devel

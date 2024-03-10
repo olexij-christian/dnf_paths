@@ -1,0 +1,14 @@
+rust-cairo-sys-rs+default-devel
+rust-cairo-sys-rs-devel
+rust-cairo-sys-rs+glib-devel
+rust-cairo-sys-rs+pdf-devel
+rust-cairo-sys-rs+png-devel
+rust-cairo-sys-rs+ps-devel
+rust-cairo-sys-rs+script-devel
+rust-cairo-sys-rs+svg-devel
+rust-cairo-sys-rs+use_glib-devel
+rust-cairo-sys-rs+v1_16-devel
+rust-cairo-sys-rs+v1_18-devel
+rust-cairo-sys-rs+x11-devel
+rust-cairo-sys-rs+xcb-devel
+rust-cairo-sys-rs+xlib-devel

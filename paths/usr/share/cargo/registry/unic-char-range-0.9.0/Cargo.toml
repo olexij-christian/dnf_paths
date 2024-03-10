@@ -1,0 +1,8 @@
+rust-unic-char-range+default-devel
+rust-unic-char-range-devel
+rust-unic-char-range+exact-size-is-empty-devel
+rust-unic-char-range+fused-devel
+rust-unic-char-range+rayon-devel
+rust-unic-char-range+std-devel
+rust-unic-char-range+trusted-len-devel
+rust-unic-char-range+unstable-devel

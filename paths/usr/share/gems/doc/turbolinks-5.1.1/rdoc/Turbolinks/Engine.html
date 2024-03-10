@@ -1,0 +1,1 @@
+rubygem-turbolinks-doc

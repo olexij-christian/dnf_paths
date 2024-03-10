@@ -1,0 +1,8 @@
+rust-gstreamer+default-devel
+rust-gstreamer-devel
+rust-gstreamer+serde_bytes-devel
+rust-gstreamer+serde-devel
+rust-gstreamer+v1_16-devel
+rust-gstreamer+v1_18-devel
+rust-gstreamer+v1_20-devel
+rust-gstreamer+v1_22-devel

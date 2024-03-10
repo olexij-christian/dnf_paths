@@ -1,0 +1,4 @@
+python-qpid-proton-docs
+qpid-proton-c
+qpid-proton-c-docs
+qpid-proton-cpp-docs

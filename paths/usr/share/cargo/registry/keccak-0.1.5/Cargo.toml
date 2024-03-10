@@ -1,0 +1,5 @@
+rust-keccak+asm-devel
+rust-keccak+default-devel
+rust-keccak-devel
+rust-keccak+no_unroll-devel
+rust-keccak+simd-devel

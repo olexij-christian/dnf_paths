@@ -1,0 +1,6 @@
+rust-bstr+alloc-devel
+rust-bstr+default-devel
+rust-bstr-devel
+rust-bstr+serde-devel
+rust-bstr+std-devel
+rust-bstr+unicode-devel

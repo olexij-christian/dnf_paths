@@ -1,0 +1,1 @@
+rust-buf-min-devel

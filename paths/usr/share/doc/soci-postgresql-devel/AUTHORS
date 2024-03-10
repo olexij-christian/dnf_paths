@@ -1,0 +1,1 @@
+soci-postgresql-devel

@@ -1,0 +1,4 @@
+rust-libdeflate-sys+default-devel
+rust-libdeflate-sys-devel
+rust-libdeflate-sys+dynamic-devel
+rust-libdeflate-sys+freestanding-devel

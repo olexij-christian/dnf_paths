@@ -1,0 +1,10 @@
+python3-fonttools
+python3-fonttools+graphite
+python3-fonttools+interpolatable
+python3-fonttools+lxml
+python3-fonttools+plot
+python3-fonttools+symfont
+python3-fonttools+type1
+python3-fonttools+ufo
+python3-fonttools+unicode
+python3-fonttools+woff

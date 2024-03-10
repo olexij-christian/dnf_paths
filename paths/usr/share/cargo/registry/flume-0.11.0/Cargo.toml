@@ -1,0 +1,9 @@
+rust-flume+async-devel
+rust-flume+default-devel
+rust-flume-devel
+rust-flume+eventual-fairness-devel
+rust-flume+futures-core-devel
+rust-flume+futures-sink-devel
+rust-flume+nanorand-devel
+rust-flume+select-devel
+rust-flume+spin-devel

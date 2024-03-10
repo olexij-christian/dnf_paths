@@ -1,0 +1,15 @@
+rust-tokio-tungstenite+connect-devel
+rust-tokio-tungstenite+default-devel
+rust-tokio-tungstenite-devel
+rust-tokio-tungstenite+handshake-devel
+rust-tokio-tungstenite+native-tls-crate-devel
+rust-tokio-tungstenite+native-tls-devel
+rust-tokio-tungstenite+rustls-devel
+rust-tokio-tungstenite+rustls-native-certs-devel
+rust-tokio-tungstenite+__rustls-tls-devel
+rust-tokio-tungstenite+rustls-tls-native-roots-devel
+rust-tokio-tungstenite+rustls-tls-webpki-roots-devel
+rust-tokio-tungstenite+stream-devel
+rust-tokio-tungstenite+tokio-native-tls-devel
+rust-tokio-tungstenite+tokio-rustls-devel
+rust-tokio-tungstenite+webpki-roots-devel

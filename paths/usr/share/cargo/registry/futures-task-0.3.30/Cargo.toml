@@ -1,0 +1,6 @@
+rust-futures-task+alloc-devel
+rust-futures-task+cfg-target-has-atomic-devel
+rust-futures-task+default-devel
+rust-futures-task-devel
+rust-futures-task+std-devel
+rust-futures-task+unstable-devel

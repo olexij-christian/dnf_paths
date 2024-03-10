@@ -1,0 +1,7 @@
+rust-protobuf+bytes-devel
+rust-protobuf+default-devel
+rust-protobuf-devel
+rust-protobuf+serde_derive-devel
+rust-protobuf+serde-devel
+rust-protobuf+with-bytes-devel
+rust-protobuf+with-serde-devel

@@ -1,0 +1,13 @@
+rust-brotli+alloc-stdlib-devel
+rust-brotli+benchmark-devel
+rust-brotli+default-devel
+rust-brotli-devel
+rust-brotli+disable-timer-devel
+rust-brotli+external-literal-probability-devel
+rust-brotli+ffi-api-devel
+rust-brotli+pass-through-ffi-panics-devel
+rust-brotli+seccomp-devel
+rust-brotli+sha2-devel
+rust-brotli+std-devel
+rust-brotli+validation-devel
+rust-brotli+vector_scratch_space-devel

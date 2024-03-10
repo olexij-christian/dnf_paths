@@ -1,0 +1,7 @@
+rust-crossterm0.25+bracketed-paste-devel
+rust-crossterm0.25+default-devel
+rust-crossterm0.25-devel
+rust-crossterm0.25+event-stream-devel
+rust-crossterm0.25+futures-core-devel
+rust-crossterm0.25+serde-devel
+rust-crossterm+futures-core-devel

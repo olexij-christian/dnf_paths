@@ -1,0 +1,1 @@
+libyui-ncurses-doc

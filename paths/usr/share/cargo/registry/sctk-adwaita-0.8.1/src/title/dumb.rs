@@ -1,0 +1,1 @@
+rust-sctk-adwaita-devel

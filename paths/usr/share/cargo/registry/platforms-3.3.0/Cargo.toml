@@ -1,0 +1,4 @@
+rust-platforms+default-devel
+rust-platforms-devel
+rust-platforms+serde-devel
+rust-platforms+std-devel

@@ -1,0 +1,14 @@
+rust-askama_shared+comrak-devel
+rust-askama_shared+config-devel
+rust-askama_shared+default-devel
+rust-askama_shared-devel
+rust-askama_shared+humansize-devel
+rust-askama_shared+json-devel
+rust-askama_shared+markdown-devel
+rust-askama_shared+num-traits-devel
+rust-askama_shared+percent-encoding-devel
+rust-askama_shared+serde-devel
+rust-askama_shared+serde_json-devel
+rust-askama_shared+serde_yaml-devel
+rust-askama_shared+toml-devel
+rust-askama_shared+yaml-devel

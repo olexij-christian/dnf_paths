@@ -1,0 +1,14 @@
+rust-gst-plugin-gtk4+capi-devel
+rust-gst-plugin-gtk4+default-devel
+rust-gst-plugin-gtk4-devel
+rust-gst-plugin-gtk4+doc-devel
+rust-gst-plugin-gtk4+gdk_wayland-devel
+rust-gst-plugin-gtk4+gdk_x11-devel
+rust-gst-plugin-gtk4+gst_gl-devel
+rust-gst-plugin-gtk4+gst_gl_egl-devel
+rust-gst-plugin-gtk4+gst_gl_wayland-devel
+rust-gst-plugin-gtk4+gst_gl_x11-devel
+rust-gst-plugin-gtk4+static-devel
+rust-gst-plugin-gtk4+wayland-devel
+rust-gst-plugin-gtk4+x11egl-devel
+rust-gst-plugin-gtk4+x11glx-devel

@@ -1,0 +1,12 @@
+rust-glutin+default-devel
+rust-glutin-devel
+rust-glutin+egl-devel
+rust-glutin+glutin_egl_sys-devel
+rust-glutin+glutin_glx_sys-devel
+rust-glutin+glx-devel
+rust-glutin+libloading-devel
+rust-glutin+wayland-devel
+rust-glutin+wayland-sys-devel
+rust-glutin+wgl-devel
+rust-glutin+x11-devel
+rust-glutin+x11-dl-devel

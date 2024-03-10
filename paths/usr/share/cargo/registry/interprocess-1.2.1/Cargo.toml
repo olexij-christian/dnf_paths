@@ -1,0 +1,9 @@
+rust-interprocess+blocking-devel
+rust-interprocess+default-devel
+rust-interprocess-devel
+rust-interprocess+doc_cfg-devel
+rust-interprocess+futures-core-devel
+rust-interprocess+futures-io-devel
+rust-interprocess+nonblocking-devel
+rust-interprocess+tokio-devel
+rust-interprocess+tokio_support-devel

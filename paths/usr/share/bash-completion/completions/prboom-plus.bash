@@ -1,0 +1,1 @@
+prboom-plus-bash-completion

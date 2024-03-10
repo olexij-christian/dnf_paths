@@ -1,0 +1,16 @@
+rust-zbus+async-executor-devel
+rust-zbus+async-fs-devel
+rust-zbus+async-io-devel
+rust-zbus+async-lock-devel
+rust-zbus+async-task-devel
+rust-zbus+blocking-devel
+rust-zbus+chrono-devel
+rust-zbus+default-devel
+rust-zbus-devel
+rust-zbus+gvariant-devel
+rust-zbus+quick-xml-devel
+rust-zbus+serde-xml-rs-devel
+rust-zbus+time-devel
+rust-zbus+tokio-devel
+rust-zbus+url-devel
+rust-zbus+xml-devel

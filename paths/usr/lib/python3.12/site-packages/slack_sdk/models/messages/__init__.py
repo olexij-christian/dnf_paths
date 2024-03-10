@@ -1,0 +1,2 @@
+python3-slackclient
+python3-slackclient+optional

@@ -1,0 +1,7 @@
+rust-toml_edit+default-devel
+rust-toml_edit-devel
+rust-toml_edit+display-devel
+rust-toml_edit+parse-devel
+rust-toml_edit+perf-devel
+rust-toml_edit+serde-devel
+rust-toml_edit+unbounded-devel

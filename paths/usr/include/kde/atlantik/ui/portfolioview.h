@@ -1,0 +1,1 @@
+kdegames3-devel

@@ -1,0 +1,6 @@
+rust-ethtool+async-std-devel
+rust-ethtool+default-devel
+rust-ethtool-devel
+rust-ethtool+smol_socket-devel
+rust-ethtool+tokio-devel
+rust-ethtool+tokio_socket-devel

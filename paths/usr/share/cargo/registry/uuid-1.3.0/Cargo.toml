@@ -1,0 +1,3 @@
+rust-uuid+getrandom-devel
+rust-uuid+rand-devel
+rust-uuid+sha1_smol-devel

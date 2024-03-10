@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-psycopg2
+python3-opentelemetry-instrumentation-psycopg2+instruments

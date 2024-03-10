@@ -1,0 +1,2 @@
+libtracker-sparql
+tracker-devel

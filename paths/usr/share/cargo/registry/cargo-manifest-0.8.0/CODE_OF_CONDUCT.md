@@ -1,0 +1,1 @@
+rust-cargo-manifest-devel

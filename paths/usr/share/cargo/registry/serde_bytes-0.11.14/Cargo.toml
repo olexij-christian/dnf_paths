@@ -1,0 +1,4 @@
+rust-serde_bytes+alloc-devel
+rust-serde_bytes+default-devel
+rust-serde_bytes-devel
+rust-serde_bytes+std-devel

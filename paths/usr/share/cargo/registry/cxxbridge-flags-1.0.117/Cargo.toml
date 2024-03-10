@@ -1,0 +1,5 @@
+rust-cxxbridge-flags+c++14-devel
+rust-cxxbridge-flags+c++17-devel
+rust-cxxbridge-flags+c++20-devel
+rust-cxxbridge-flags+default-devel
+rust-cxxbridge-flags-devel

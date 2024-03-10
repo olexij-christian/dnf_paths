@@ -1,0 +1,7 @@
+rust-psa-crypto-sys+bindgen-devel
+rust-psa-crypto-sys+default-devel
+rust-psa-crypto-sys-devel
+rust-psa-crypto-sys+interface-devel
+rust-psa-crypto-sys+operations-devel
+rust-psa-crypto-sys+prefix-devel
+rust-psa-crypto-sys+static-devel

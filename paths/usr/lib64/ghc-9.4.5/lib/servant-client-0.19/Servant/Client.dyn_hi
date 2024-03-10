@@ -1,0 +1,1 @@
+ghc-servant-client-devel

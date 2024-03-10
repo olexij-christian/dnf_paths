@@ -1,0 +1,5 @@
+rust-imagequant+default-devel
+rust-imagequant-devel
+rust-imagequant+_internal_c_ffi-devel
+rust-imagequant+large_palettes-devel
+rust-imagequant+threads-devel

@@ -1,0 +1,2 @@
+xorg-x11-server-Xwayland-devel
+xwayland-devel

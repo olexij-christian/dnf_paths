@@ -1,0 +1,4 @@
+rust-cryptoki-sys+bindgen-devel
+rust-cryptoki-sys+default-devel
+rust-cryptoki-sys-devel
+rust-cryptoki-sys+generate-bindings-devel

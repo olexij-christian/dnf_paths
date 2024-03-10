@@ -1,0 +1,1 @@
+vala-language-server

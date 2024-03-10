@@ -1,0 +1,8 @@
+rust-phf+default-devel
+rust-phf-devel
+rust-phf+macros-devel
+rust-phf+phf_macros-devel
+rust-phf+serde-devel
+rust-phf+std-devel
+rust-phf+uncased-devel
+rust-phf+unicase-devel

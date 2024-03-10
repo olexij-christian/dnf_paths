@@ -1,0 +1,2 @@
+gettext
+php-gettext-gettext

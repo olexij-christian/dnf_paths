@@ -1,0 +1,8 @@
+rust-serde+alloc-devel
+rust-serde+default-devel
+rust-serde+derive-devel
+rust-serde-devel
+rust-serde+rc-devel
+rust-serde+serde_derive-devel
+rust-serde+std-devel
+rust-serde+unstable-devel

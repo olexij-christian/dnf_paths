@@ -1,0 +1,1 @@
+rubygem-coffee-script-doc

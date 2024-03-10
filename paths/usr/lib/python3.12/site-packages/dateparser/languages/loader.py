@@ -1,0 +1,2 @@
+python3-dateparser
+python3-dateparser+langdetect

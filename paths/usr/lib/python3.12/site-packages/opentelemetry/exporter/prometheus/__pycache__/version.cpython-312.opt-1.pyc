@@ -1,0 +1,1 @@
+python3-opentelemetry-exporter-prometheus

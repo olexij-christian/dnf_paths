@@ -1,0 +1,1 @@
+rust-sysinfo-devel

@@ -1,0 +1,1 @@
+libslopy-devel

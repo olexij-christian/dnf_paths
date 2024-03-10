@@ -1,0 +1,12 @@
+rust-notify-rust+async-devel
+rust-notify-rust+d-devel
+rust-notify-rust+debug_namespace-devel
+rust-notify-rust+default-devel
+rust-notify-rust-devel
+rust-notify-rust+env_logger-devel
+rust-notify-rust+image-devel
+rust-notify-rust+images-devel
+rust-notify-rust+lazy_static-devel
+rust-notify-rust+serde-devel
+rust-notify-rust+zbus-devel
+rust-notify-rust+z-devel

@@ -1,0 +1,1 @@
+ghc-psqueues-doc

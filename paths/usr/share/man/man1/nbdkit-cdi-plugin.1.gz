@@ -1,0 +1,1 @@
+nbdkit-cdi-plugin

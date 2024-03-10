@@ -1,0 +1,1 @@
+kcm-fcitx5

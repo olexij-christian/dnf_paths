@@ -1,0 +1,6 @@
+rust-password-hash+alloc-devel
+rust-password-hash+default-devel
+rust-password-hash-devel
+rust-password-hash+getrandom-devel
+rust-password-hash+rand_core-devel
+rust-password-hash+std-devel

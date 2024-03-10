@@ -1,0 +1,1 @@
+libhqx-devel

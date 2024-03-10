@@ -1,0 +1,7 @@
+rust-gstreamer-video+default-devel
+rust-gstreamer-video-devel
+rust-gstreamer-video+serde-devel
+rust-gstreamer-video+v1_16-devel
+rust-gstreamer-video+v1_18-devel
+rust-gstreamer-video+v1_20-devel
+rust-gstreamer-video+v1_22-devel

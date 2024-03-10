@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-logging
+python3-opentelemetry-instrumentation-logging+instruments

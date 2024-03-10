@@ -1,0 +1,9 @@
+rust-hashbrown0.13+ahash-devel
+rust-hashbrown0.13+bumpalo-devel
+rust-hashbrown0.13+default-devel
+rust-hashbrown0.13-devel
+rust-hashbrown0.13+inline-more-devel
+rust-hashbrown0.13+raw-devel
+rust-hashbrown0.13+rayon-devel
+rust-hashbrown0.13+serde-devel
+rust-hashbrown+bumpalo-devel

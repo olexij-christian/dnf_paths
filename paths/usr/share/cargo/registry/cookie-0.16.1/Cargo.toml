@@ -1,0 +1,15 @@
+rust-cookie0.16+aes-gcm-devel
+rust-cookie0.16+base64-devel
+rust-cookie0.16+default-devel
+rust-cookie0.16-devel
+rust-cookie0.16+hkdf-devel
+rust-cookie0.16+hmac-devel
+rust-cookie0.16+key-expansion-devel
+rust-cookie0.16+percent-encode-devel
+rust-cookie0.16+percent-encoding-devel
+rust-cookie0.16+private-devel
+rust-cookie0.16+rand-devel
+rust-cookie0.16+secure-devel
+rust-cookie0.16+sha2-devel
+rust-cookie0.16+signed-devel
+rust-cookie0.16+subtle-devel

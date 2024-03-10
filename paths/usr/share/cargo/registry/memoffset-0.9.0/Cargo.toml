@@ -1,0 +1,4 @@
+rust-memoffset+default-devel
+rust-memoffset-devel
+rust-memoffset+unstable_const-devel
+rust-memoffset+unstable_offset_of-devel

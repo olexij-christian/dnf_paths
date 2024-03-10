@@ -1,0 +1,2 @@
+python3-sphinxcontrib-websupport
+python3-sphinxcontrib-websupport+whoosh

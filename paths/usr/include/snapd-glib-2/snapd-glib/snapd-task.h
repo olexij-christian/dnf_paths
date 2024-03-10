@@ -1,0 +1,1 @@
+snapd-glib-devel

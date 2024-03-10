@@ -1,0 +1,1 @@
+rpm-local-generator-support

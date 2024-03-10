@@ -1,0 +1,1 @@
+texlive-eurosym-doc

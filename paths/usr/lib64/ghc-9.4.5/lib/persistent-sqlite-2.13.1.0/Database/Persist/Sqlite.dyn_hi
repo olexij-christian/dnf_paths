@@ -1,0 +1,1 @@
+ghc-persistent-sqlite-devel

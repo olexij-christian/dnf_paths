@@ -1,0 +1,8 @@
+rust-serde_qs+actix4-devel
+rust-serde_qs+actix-web4-devel
+rust-serde_qs+default-devel
+rust-serde_qs-devel
+rust-serde_qs+futures-devel
+rust-serde_qs+tracing-devel
+rust-serde_qs+warp-devel
+rust-serde_qs+warp-framework-devel

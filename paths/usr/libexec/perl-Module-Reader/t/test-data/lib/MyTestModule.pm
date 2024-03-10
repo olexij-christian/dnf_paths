@@ -1,0 +1,1 @@
+perl-Module-Reader-tests

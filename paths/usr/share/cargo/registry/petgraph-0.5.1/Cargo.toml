@@ -1,0 +1,11 @@
+rust-petgraph0.5+all-devel
+rust-petgraph0.5+default-devel
+rust-petgraph0.5-devel
+rust-petgraph0.5+generate-devel
+rust-petgraph0.5+graphmap-devel
+rust-petgraph0.5+matrix_graph-devel
+rust-petgraph0.5+serde-1-devel
+rust-petgraph0.5+serde_derive-devel
+rust-petgraph0.5+serde-devel
+rust-petgraph0.5+stable_graph-devel
+rust-petgraph0.5+unstable-devel

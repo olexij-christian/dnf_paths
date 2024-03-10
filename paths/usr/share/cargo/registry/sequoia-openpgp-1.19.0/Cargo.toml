@@ -1,0 +1,10 @@
+rust-sequoia-openpgp+allow-experimental-crypto-devel
+rust-sequoia-openpgp+allow-variable-time-crypto-devel
+rust-sequoia-openpgp+compression-bzip2-devel
+rust-sequoia-openpgp+compression-deflate-devel
+rust-sequoia-openpgp+compression-devel
+rust-sequoia-openpgp+crypto-nettle-devel
+rust-sequoia-openpgp+crypto-openssl-devel
+rust-sequoia-openpgp+default-devel
+rust-sequoia-openpgp-devel
+rust-sequoia-openpgp+__implicit-crypto-backend-for-tests-devel

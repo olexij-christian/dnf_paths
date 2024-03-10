@@ -1,0 +1,1 @@
+rust-sys-locale-devel

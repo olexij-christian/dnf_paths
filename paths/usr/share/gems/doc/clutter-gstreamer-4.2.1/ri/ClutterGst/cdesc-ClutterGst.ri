@@ -1,0 +1,1 @@
+rubygem-clutter-gstreamer-doc

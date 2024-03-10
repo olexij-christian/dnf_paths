@@ -1,0 +1,1 @@
+rust-nu-lsp-devel

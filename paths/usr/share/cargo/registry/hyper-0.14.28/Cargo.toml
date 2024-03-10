@@ -1,0 +1,16 @@
+rust-hyper+backports-devel
+rust-hyper+client-devel
+rust-hyper+default-devel
+rust-hyper+deprecated-devel
+rust-hyper-devel
+rust-hyper+ffi-devel
+rust-hyper+full-devel
+rust-hyper+h2-devel
+rust-hyper+http1-devel
+rust-hyper+http2-devel
+rust-hyper+libc-devel
+rust-hyper+runtime-devel
+rust-hyper+server-devel
+rust-hyper+socket2-devel
+rust-hyper+stream-devel
+rust-hyper+tcp-devel

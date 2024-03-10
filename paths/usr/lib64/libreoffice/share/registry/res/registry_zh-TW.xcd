@@ -1,0 +1,1 @@
+libreoffice-langpack-zh-Hant

@@ -1,0 +1,9 @@
+rust-reedline+bashisms-devel
+rust-reedline+crossbeam-devel
+rust-reedline+default-devel
+rust-reedline-devel
+rust-reedline+external_printer-devel
+rust-reedline+rusqlite-devel
+rust-reedline+serde_json-devel
+rust-reedline+sqlite-devel
+rust-reedline+sqlite-dynlib-devel

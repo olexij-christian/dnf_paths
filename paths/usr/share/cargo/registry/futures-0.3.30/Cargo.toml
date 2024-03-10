@@ -1,0 +1,14 @@
+rust-futures+alloc-devel
+rust-futures+async-await-devel
+rust-futures+bilock-devel
+rust-futures+cfg-target-has-atomic-devel
+rust-futures+compat-devel
+rust-futures+default-devel
+rust-futures-devel
+rust-futures+executor-devel
+rust-futures+futures-executor-devel
+rust-futures+io-compat-devel
+rust-futures+std-devel
+rust-futures+thread-pool-devel
+rust-futures+unstable-devel
+rust-futures+write-all-vectored-devel

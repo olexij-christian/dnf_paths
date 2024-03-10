@@ -1,0 +1,7 @@
+rust-ed25519+default-devel
+rust-ed25519-devel
+rust-ed25519+serde_bytes_crate-devel
+rust-ed25519+serde_bytes-devel
+rust-ed25519+serde-devel
+rust-ed25519+std-devel
+rust-ed25519+zeroize-devel

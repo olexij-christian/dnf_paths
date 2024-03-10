@@ -1,0 +1,2 @@
+groonga-examples
+groonga-libs

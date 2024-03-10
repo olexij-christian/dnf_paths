@@ -1,0 +1,9 @@
+rust-spki+alloc-devel
+rust-spki+arbitrary-devel
+rust-spki+base64-devel
+rust-spki+default-devel
+rust-spki-devel
+rust-spki+fingerprint-devel
+rust-spki+pem-devel
+rust-spki+sha2-devel
+rust-spki+std-devel

@@ -1,0 +1,17 @@
+rust-serde_with+alloc-devel
+rust-serde_with+base64-devel
+rust-serde_with+chrono_0_4-devel
+rust-serde_with+chrono-devel
+rust-serde_with+default-devel
+rust-serde_with-devel
+rust-serde_with+guide-devel
+rust-serde_with+hashbrown_0_14-devel
+rust-serde_with+hex-devel
+rust-serde_with+indexmap_1-devel
+rust-serde_with+indexmap_2-devel
+rust-serde_with+indexmap-devel
+rust-serde_with+json-devel
+rust-serde_with+macros-devel
+rust-serde_with+schemars_0_8-devel
+rust-serde_with+std-devel
+rust-serde_with+time_0_3-devel

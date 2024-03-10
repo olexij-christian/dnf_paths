@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-wsgi
+python3-opentelemetry-instrumentation-wsgi+instruments

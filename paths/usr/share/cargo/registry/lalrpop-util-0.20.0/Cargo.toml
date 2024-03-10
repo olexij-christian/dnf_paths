@@ -1,0 +1,6 @@
+rust-lalrpop-util+default-devel
+rust-lalrpop-util-devel
+rust-lalrpop-util+lexer-devel
+rust-lalrpop-util+regex-devel
+rust-lalrpop-util+std-devel
+rust-lalrpop-util+unicode-devel

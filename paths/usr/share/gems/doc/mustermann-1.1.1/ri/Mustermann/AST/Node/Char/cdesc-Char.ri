@@ -1,0 +1,1 @@
+rubygem-mustermann-doc

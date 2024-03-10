@@ -1,0 +1,1 @@
+rubygem-aws-sigv4

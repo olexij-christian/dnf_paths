@@ -1,0 +1,5 @@
+rust-jpeg-decoder+default-devel
+rust-jpeg-decoder-devel
+rust-jpeg-decoder+nightly_aarch64_neon-devel
+rust-jpeg-decoder+platform_independent-devel
+rust-jpeg-decoder+rayon-devel

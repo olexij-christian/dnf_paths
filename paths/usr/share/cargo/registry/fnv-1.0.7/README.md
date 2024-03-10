@@ -1,0 +1,1 @@
+rust-fnv-devel

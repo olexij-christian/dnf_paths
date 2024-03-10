@@ -1,0 +1,5 @@
+rust-phf_shared+default-devel
+rust-phf_shared-devel
+rust-phf_shared+std-devel
+rust-phf_shared+uncased-devel
+rust-phf_shared+unicase-devel

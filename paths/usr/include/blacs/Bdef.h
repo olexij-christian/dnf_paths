@@ -1,0 +1,2 @@
+blacs-common
+scalapack-common

@@ -1,0 +1,1 @@
+nodejs-grunt-angular-templates

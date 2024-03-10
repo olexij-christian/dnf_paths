@@ -1,0 +1,2 @@
+libdigidocpp
+libdigidocpp-doc

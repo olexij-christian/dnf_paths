@@ -1,0 +1,4 @@
+rust-aes+default-devel
+rust-aes-devel
+rust-aes+hazmat-devel
+rust-aes+zeroize-devel

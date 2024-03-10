@@ -1,0 +1,15 @@
+rust-bindgen0.63+default-devel
+rust-bindgen0.63-devel
+rust-bindgen0.63+log-devel
+rust-bindgen0.63+logging-devel
+rust-bindgen0.63+runtime-devel
+rust-bindgen0.63+static-devel
+rust-bindgen0.63+testing_only_docs-devel
+rust-bindgen0.63+testing_only_extra_assertions-devel
+rust-bindgen0.63+testing_only_libclang_5-devel
+rust-bindgen0.63+testing_only_libclang_9-devel
+rust-bindgen0.63+which-devel
+rust-bindgen0.63+which-rustfmt-devel
+rust-bindgen+log-devel
+rust-bindgen+testing_only_docs-devel
+rust-bindgen+which-devel

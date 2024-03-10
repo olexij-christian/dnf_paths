@@ -1,0 +1,2 @@
+libcint-devel
+qcint-devel

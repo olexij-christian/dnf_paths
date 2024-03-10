@@ -1,0 +1,1 @@
+rust-cpufeatures-devel

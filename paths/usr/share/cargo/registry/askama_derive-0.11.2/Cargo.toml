@@ -1,0 +1,9 @@
+rust-askama_derive+actix-web-devel
+rust-askama_derive+axum-devel
+rust-askama_derive+gotham-devel
+rust-askama_derive+json-devel
+rust-askama_derive+mendes-devel
+rust-askama_derive+rocket-devel
+rust-askama_derive+tide-devel
+rust-askama_derive+warp-devel
+rust-askama_derive+yaml-devel

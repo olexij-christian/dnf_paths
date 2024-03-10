@@ -1,0 +1,5 @@
+rust-udev+default-devel
+rust-udev-devel
+rust-udev+hwdb-devel
+rust-udev+mio08-devel
+rust-udev+mio-devel

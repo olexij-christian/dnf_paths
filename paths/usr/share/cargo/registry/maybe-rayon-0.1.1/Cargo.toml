@@ -1,0 +1,4 @@
+rust-maybe-rayon+default-devel
+rust-maybe-rayon-devel
+rust-maybe-rayon+rayon-devel
+rust-maybe-rayon+threads-devel

@@ -1,0 +1,8 @@
+rust-crossterm+bracketed-paste-devel
+rust-crossterm+default-devel
+rust-crossterm-devel
+rust-crossterm+events-devel
+rust-crossterm+event-stream-devel
+rust-crossterm+filedescriptor-devel
+rust-crossterm+serde-devel
+rust-crossterm+use-dev-tty-devel

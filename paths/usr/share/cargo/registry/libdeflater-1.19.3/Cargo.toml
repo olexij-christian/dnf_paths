@@ -1,0 +1,5 @@
+rust-libdeflater+default-devel
+rust-libdeflater-devel
+rust-libdeflater+dynamic-devel
+rust-libdeflater+freestanding-devel
+rust-libdeflater+use_rust_alloc-devel

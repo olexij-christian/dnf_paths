@@ -1,0 +1,1 @@
+ghc-fast-logger-doc

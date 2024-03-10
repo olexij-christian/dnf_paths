@@ -1,0 +1,1 @@
+rubygem-sprockets-rails-doc

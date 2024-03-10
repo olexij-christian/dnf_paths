@@ -1,0 +1,14 @@
+rust-ureq+brotli-devel
+rust-ureq+charset-devel
+rust-ureq+cookies-devel
+rust-ureq+default-devel
+rust-ureq-devel
+rust-ureq+gzip-devel
+rust-ureq+http-crate-devel
+rust-ureq+http-interop-devel
+rust-ureq+json-devel
+rust-ureq+native-certs-devel
+rust-ureq+native-tls-devel
+rust-ureq+proxy-from-env-devel
+rust-ureq+socks-proxy-devel
+rust-ureq+tls-devel

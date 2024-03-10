@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-aiopg
+python3-opentelemetry-instrumentation-aiopg+instruments

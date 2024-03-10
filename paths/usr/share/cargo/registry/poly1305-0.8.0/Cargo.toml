@@ -1,0 +1,4 @@
+rust-poly1305+default-devel
+rust-poly1305-devel
+rust-poly1305+std-devel
+rust-poly1305+zeroize-devel

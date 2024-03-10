@@ -1,0 +1,15 @@
+rust-cursive+crossterm-backend-devel
+rust-cursive+crossterm-devel
+rust-cursive+default-devel
+rust-cursive-devel
+rust-cursive+doc-cfg-devel
+rust-cursive+maplit-devel
+rust-cursive+markdown-devel
+rust-cursive+ncurses-backend-devel
+rust-cursive+pancurses-backend-devel
+rust-cursive+pancurses-devel
+rust-cursive+termion-backend-devel
+rust-cursive+termion-devel
+rust-cursive+term_size-devel
+rust-cursive+toml-devel
+rust-cursive+unstable_scroll-devel

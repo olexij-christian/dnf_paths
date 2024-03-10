@@ -1,0 +1,1 @@
+nodejs-astral-angular-annotate

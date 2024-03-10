@@ -1,0 +1,3 @@
+rust-netmap_sys+default-devel
+rust-netmap_sys-devel
+rust-netmap_sys+netmap_with_libs-devel

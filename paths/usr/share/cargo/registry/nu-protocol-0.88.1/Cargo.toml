@@ -1,0 +1,4 @@
+rust-nu-protocol+default-devel
+rust-nu-protocol-devel
+rust-nu-protocol+plugin-devel
+rust-nu-protocol+serde_json-devel

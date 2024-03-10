@@ -1,0 +1,7 @@
+rust-num-bigint+arbitrary-devel
+rust-num-bigint+default-devel
+rust-num-bigint-devel
+rust-num-bigint+quickcheck-devel
+rust-num-bigint+rand-devel
+rust-num-bigint+serde-devel
+rust-num-bigint+std-devel

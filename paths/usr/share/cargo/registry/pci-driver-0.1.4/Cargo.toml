@@ -1,0 +1,5 @@
+rust-pci-driver+default-devel
+rust-pci-driver-devel
+rust-pci-driver+libc-devel
+rust-pci-driver+_unsafe-op-in-unsafe-fn-devel
+rust-pci-driver+vfio-devel

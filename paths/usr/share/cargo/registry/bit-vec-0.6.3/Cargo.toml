@@ -1,0 +1,6 @@
+rust-bit-vec+default-devel
+rust-bit-vec-devel
+rust-bit-vec+serde-devel
+rust-bit-vec+serde_no_std-devel
+rust-bit-vec+serde_std-devel
+rust-bit-vec+std-devel

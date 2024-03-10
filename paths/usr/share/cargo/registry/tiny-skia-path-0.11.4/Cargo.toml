@@ -1,0 +1,5 @@
+rust-tiny-skia-path+default-devel
+rust-tiny-skia-path-devel
+rust-tiny-skia-path+libm-devel
+rust-tiny-skia-path+no-std-float-devel
+rust-tiny-skia-path+std-devel

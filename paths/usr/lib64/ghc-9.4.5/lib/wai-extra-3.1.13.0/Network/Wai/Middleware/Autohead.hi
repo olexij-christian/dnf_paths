@@ -1,0 +1,1 @@
+ghc-wai-extra-devel

@@ -1,0 +1,1 @@
+perl-JavaScript-Minifier-tests

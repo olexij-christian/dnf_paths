@@ -1,0 +1,16 @@
+rust-tungstenite+data-encoding-devel
+rust-tungstenite+default-devel
+rust-tungstenite-devel
+rust-tungstenite+handshake-devel
+rust-tungstenite+httparse-devel
+rust-tungstenite+http-devel
+rust-tungstenite+native-tls-crate-devel
+rust-tungstenite+native-tls-devel
+rust-tungstenite+rustls-devel
+rust-tungstenite+rustls-native-certs-devel
+rust-tungstenite+__rustls-tls-devel
+rust-tungstenite+rustls-tls-native-roots-devel
+rust-tungstenite+rustls-tls-webpki-roots-devel
+rust-tungstenite+sha1-devel
+rust-tungstenite+url-devel
+rust-tungstenite+webpki-roots-devel

@@ -1,0 +1,1 @@
+rust-quickcheck_macros-devel

@@ -1,0 +1,1 @@
+nbdkit-perl-plugin

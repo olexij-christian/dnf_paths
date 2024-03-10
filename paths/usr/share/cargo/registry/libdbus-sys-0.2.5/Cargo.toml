@@ -1,0 +1,3 @@
+rust-libdbus-sys+default-devel
+rust-libdbus-sys-devel
+rust-libdbus-sys+pkg-config-devel

@@ -1,0 +1,7 @@
+rust-cxx+alloc-devel
+rust-cxx+c++14-devel
+rust-cxx+c++17-devel
+rust-cxx+c++20-devel
+rust-cxx+default-devel
+rust-cxx-devel
+rust-cxx+std-devel

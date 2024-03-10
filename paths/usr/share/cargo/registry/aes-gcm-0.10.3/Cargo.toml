@@ -1,0 +1,11 @@
+rust-aes-gcm+aes-devel
+rust-aes-gcm+alloc-devel
+rust-aes-gcm+arrayvec-devel
+rust-aes-gcm+default-devel
+rust-aes-gcm-devel
+rust-aes-gcm+getrandom-devel
+rust-aes-gcm+heapless-devel
+rust-aes-gcm+rand_core-devel
+rust-aes-gcm+std-devel
+rust-aes-gcm+stream-devel
+rust-aes-gcm+zeroize-devel

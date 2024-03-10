@@ -1,0 +1,1 @@
+qcommandline-devel

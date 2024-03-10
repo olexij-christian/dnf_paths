@@ -1,0 +1,9 @@
+rust-bstr0.2+default-devel
+rust-bstr0.2-devel
+rust-bstr0.2+lazy_static-devel
+rust-bstr0.2+regex-automata-devel
+rust-bstr0.2+serde1-devel
+rust-bstr0.2+serde1-nostd-devel
+rust-bstr0.2+serde-devel
+rust-bstr0.2+std-devel
+rust-bstr0.2+unicode-devel

@@ -1,0 +1,9 @@
+rust-ordered-float2+arbitrary-devel
+rust-ordered-float2+default-devel
+rust-ordered-float2-devel
+rust-ordered-float2+proptest-devel
+rust-ordered-float2+rand-devel
+rust-ordered-float2+randtest-devel
+rust-ordered-float2+rkyv-devel
+rust-ordered-float2+serde-devel
+rust-ordered-float2+std-devel

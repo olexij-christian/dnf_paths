@@ -1,0 +1,1 @@
+kcolorpicker-qt6

@@ -1,0 +1,2 @@
+fonts-rpm-macros
+fonts-srpm-macros

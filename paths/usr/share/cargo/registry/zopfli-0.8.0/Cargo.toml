@@ -1,0 +1,5 @@
+rust-zopfli+default-devel
+rust-zopfli-devel
+rust-zopfli+gzip-devel
+rust-zopfli+std-devel
+rust-zopfli+zlib-devel

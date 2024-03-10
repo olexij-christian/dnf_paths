@@ -1,0 +1,6 @@
+rust-pnet_datalink+default-devel
+rust-pnet_datalink-devel
+rust-pnet_datalink+netmap-devel
+rust-pnet_datalink+netmap_sys-devel
+rust-pnet_datalink+pcap-devel
+rust-pnet_datalink+serde-devel

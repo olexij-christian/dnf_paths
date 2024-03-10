@@ -1,0 +1,1 @@
+php-consolidation-annotated-command

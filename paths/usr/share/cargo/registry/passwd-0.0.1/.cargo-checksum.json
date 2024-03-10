@@ -1,0 +1,1 @@
+rust-passwd-devel

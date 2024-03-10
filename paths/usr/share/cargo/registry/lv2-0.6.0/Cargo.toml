@@ -1,0 +1,16 @@
+rust-lv2+default-devel
+rust-lv2-devel
+rust-lv2+full-devel
+rust-lv2+lv2-atom-devel
+rust-lv2+lv2-core-devel
+rust-lv2+lv2-midi-devel
+rust-lv2+lv2-state-devel
+rust-lv2+lv2-sys-devel
+rust-lv2+lv2-time-devel
+rust-lv2+lv2-units-devel
+rust-lv2+lv2-urid-devel
+rust-lv2+lv2-worker-devel
+rust-lv2+minimal_plugin-devel
+rust-lv2+plugin-devel
+rust-lv2+urid-devel
+rust-lv2+wmidi-devel

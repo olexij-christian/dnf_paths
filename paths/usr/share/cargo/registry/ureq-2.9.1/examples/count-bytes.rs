@@ -1,0 +1,1 @@
+rust-ureq-devel

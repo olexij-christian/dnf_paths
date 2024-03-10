@@ -1,0 +1,11 @@
+rust-tokio-compat+blocking-devel
+rust-tokio-compat+default-devel
+rust-tokio-compat-devel
+rust-tokio-compat+pin-project-lite-devel
+rust-tokio-compat+rt-current-thread-devel
+rust-tokio-compat+rt-full-devel
+rust-tokio-compat+sink-devel
+rust-tokio-compat+tokio-current-thread-01-devel
+rust-tokio-compat+tokio-executor-01-devel
+rust-tokio-compat+tokio-reactor-01-devel
+rust-tokio-compat+tokio-timer-02-devel

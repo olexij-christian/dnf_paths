@@ -1,0 +1,2 @@
+anaconda-live
+anaconda-liveinst

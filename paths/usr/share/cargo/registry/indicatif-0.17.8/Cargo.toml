@@ -1,0 +1,10 @@
+rust-indicatif+default-devel
+rust-indicatif-devel
+rust-indicatif+futures-devel
+rust-indicatif+improved_unicode-devel
+rust-indicatif+in_memory-devel
+rust-indicatif+rayon-devel
+rust-indicatif+tokio-devel
+rust-indicatif+unicode-segmentation-devel
+rust-indicatif+unicode-width-devel
+rust-indicatif+vt100-devel

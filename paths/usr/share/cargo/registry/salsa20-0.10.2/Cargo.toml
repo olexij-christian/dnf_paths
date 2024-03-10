@@ -1,0 +1,4 @@
+rust-salsa20+default-devel
+rust-salsa20-devel
+rust-salsa20+std-devel
+rust-salsa20+zeroize-devel

@@ -1,0 +1,14 @@
+rust-ed25519-compact+blind-keys-devel
+rust-ed25519-compact+ct-codecs-devel
+rust-ed25519-compact+default-devel
+rust-ed25519-compact-devel
+rust-ed25519-compact+disable-signatures-devel
+rust-ed25519-compact+ed25519-devel
+rust-ed25519-compact+getrandom-devel
+rust-ed25519-compact+opt_size-devel
+rust-ed25519-compact+pem-devel
+rust-ed25519-compact+random-devel
+rust-ed25519-compact+self-verify-devel
+rust-ed25519-compact+std-devel
+rust-ed25519-compact+traits-devel
+rust-ed25519-compact+x25519-devel

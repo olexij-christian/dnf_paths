@@ -1,0 +1,12 @@
+rust-num-format+cfg-if-devel
+rust-num-format+default-devel
+rust-num-format-devel
+rust-num-format+encoding_rs-devel
+rust-num-format+lazy_static-devel
+rust-num-format+libc-devel
+rust-num-format+num-bigint-devel
+rust-num-format+serde-devel
+rust-num-format+std-devel
+rust-num-format+with-num-bigint-devel
+rust-num-format+with-serde-devel
+rust-num-format+with-system-locale-devel

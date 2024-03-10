@@ -1,0 +1,2 @@
+yosys
+yosys-doc

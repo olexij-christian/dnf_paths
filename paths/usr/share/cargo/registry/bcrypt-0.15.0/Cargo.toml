@@ -1,0 +1,7 @@
+rust-bcrypt+alloc-devel
+rust-bcrypt+default-devel
+rust-bcrypt-devel
+rust-bcrypt+getrandom-devel
+rust-bcrypt+js-devel
+rust-bcrypt+std-devel
+rust-bcrypt+zeroize-devel

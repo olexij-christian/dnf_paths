@@ -1,0 +1,1 @@
+emacs-rpm-spec-mode

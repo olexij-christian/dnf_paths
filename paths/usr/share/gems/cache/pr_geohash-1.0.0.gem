@@ -1,0 +1,1 @@
+rubygem-pr_geohash

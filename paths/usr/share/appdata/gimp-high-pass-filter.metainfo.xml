@@ -1,0 +1,1 @@
+gimp-high-pass-filter

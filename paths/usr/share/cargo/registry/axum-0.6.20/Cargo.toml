@@ -1,0 +1,17 @@
+rust-axum+default-devel
+rust-axum-devel
+rust-axum+form-devel
+rust-axum+headers-devel
+rust-axum+http1-devel
+rust-axum+http2-devel
+rust-axum+json-devel
+rust-axum+macros-devel
+rust-axum+matched-path-devel
+rust-axum+multipart-devel
+rust-axum+original-uri-devel
+rust-axum+query-devel
+rust-axum+tokio-devel
+rust-axum+tower-http-devel
+rust-axum+tower-log-devel
+rust-axum+tracing-devel
+rust-axum+ws-devel

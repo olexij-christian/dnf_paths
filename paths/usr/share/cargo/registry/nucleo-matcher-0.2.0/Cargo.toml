@@ -1,0 +1,5 @@
+rust-nucleo-matcher+default-devel
+rust-nucleo-matcher-devel
+rust-nucleo-matcher+unicode-casefold-devel
+rust-nucleo-matcher+unicode-normalization-devel
+rust-nucleo-matcher+unicode-segmentation-devel

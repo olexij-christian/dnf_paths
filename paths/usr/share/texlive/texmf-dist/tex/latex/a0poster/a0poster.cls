@@ -1,0 +1,1 @@
+texlive-a0poster

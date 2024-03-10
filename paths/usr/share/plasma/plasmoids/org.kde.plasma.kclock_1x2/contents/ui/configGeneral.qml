@@ -1,0 +1,1 @@
+kclock-plasma-applet

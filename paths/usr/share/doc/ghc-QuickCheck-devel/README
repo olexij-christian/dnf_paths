@@ -1,0 +1,1 @@
+ghc-QuickCheck-devel

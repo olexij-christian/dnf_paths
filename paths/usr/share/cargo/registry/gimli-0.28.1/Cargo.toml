@@ -1,0 +1,9 @@
+rust-gimli+default-devel
+rust-gimli-devel
+rust-gimli+endian-reader-devel
+rust-gimli+fallible-iterator-devel
+rust-gimli+read-all-devel
+rust-gimli+read-core-devel
+rust-gimli+read-devel
+rust-gimli+std-devel
+rust-gimli+write-devel

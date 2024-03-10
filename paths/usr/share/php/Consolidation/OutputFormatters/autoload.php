@@ -1,0 +1,1 @@
+php-consolidation-output-formatters

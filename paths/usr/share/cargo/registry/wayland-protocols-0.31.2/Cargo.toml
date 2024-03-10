@@ -1,0 +1,8 @@
+rust-wayland-protocols+client-devel
+rust-wayland-protocols+default-devel
+rust-wayland-protocols-devel
+rust-wayland-protocols+server-devel
+rust-wayland-protocols+staging-devel
+rust-wayland-protocols+unstable-devel
+rust-wayland-protocols+wayland-client-devel
+rust-wayland-protocols+wayland-server-devel

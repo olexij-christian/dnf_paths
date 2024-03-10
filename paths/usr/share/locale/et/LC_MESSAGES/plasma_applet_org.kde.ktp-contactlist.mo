@@ -1,0 +1,1 @@
+ktp-desktop-applets

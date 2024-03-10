@@ -1,0 +1,1 @@
+golang-xorm-core-devel

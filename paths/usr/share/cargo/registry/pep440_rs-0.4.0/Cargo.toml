@@ -1,0 +1,4 @@
+rust-pep440_rs+default-devel
+rust-pep440_rs-devel
+rust-pep440_rs+serde-devel
+rust-pep440_rs+tracing-devel

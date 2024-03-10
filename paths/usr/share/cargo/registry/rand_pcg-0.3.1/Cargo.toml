@@ -1,0 +1,4 @@
+rust-rand_pcg+default-devel
+rust-rand_pcg-devel
+rust-rand_pcg+serde1-devel
+rust-rand_pcg+serde-devel

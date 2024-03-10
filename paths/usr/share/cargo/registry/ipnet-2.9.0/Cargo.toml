@@ -1,0 +1,6 @@
+rust-ipnet+default-devel
+rust-ipnet-devel
+rust-ipnet+heapless-devel
+rust-ipnet+ser_as_str-devel
+rust-ipnet+serde-devel
+rust-ipnet+std-devel

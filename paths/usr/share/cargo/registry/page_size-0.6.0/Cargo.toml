@@ -1,0 +1,4 @@
+rust-page_size+default-devel
+rust-page_size-devel
+rust-page_size+no_std-devel
+rust-page_size+spin-devel

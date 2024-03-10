@@ -1,0 +1,5 @@
+rust-darling_core+default-devel
+rust-darling_core-devel
+rust-darling_core+diagnostics-devel
+rust-darling_core+strsim-devel
+rust-darling_core+suggestions-devel

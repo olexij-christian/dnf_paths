@@ -1,0 +1,5 @@
+rust-async-compression+bytes-05-devel
+rust-async-compression+futures-bufread-devel
+rust-async-compression+futures-write-devel
+rust-async-compression+stream-devel
+rust-async-compression+tokio-02-devel

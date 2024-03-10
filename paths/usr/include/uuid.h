@@ -1,0 +1,9 @@
+rust-diesel+uuid-devel
+rust-fake+uuid-devel
+rust-rkyv+uuid-devel
+rust-rusqlite+uuid-devel
+rust-schemars+uuid-devel
+rust-tower-http+uuid-devel
+rust-zbus+uuid-devel
+stduuid-devel
+uuid-devel

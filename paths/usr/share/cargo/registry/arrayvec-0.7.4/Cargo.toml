@@ -1,0 +1,5 @@
+rust-arrayvec+default-devel
+rust-arrayvec-devel
+rust-arrayvec+serde-devel
+rust-arrayvec+std-devel
+rust-arrayvec+zeroize-devel

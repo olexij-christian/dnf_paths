@@ -1,0 +1,2 @@
+plexus-xml
+plexus-xml-javadoc

@@ -1,0 +1,9 @@
+rust-csscolorparser+cint-devel
+rust-csscolorparser+default-devel
+rust-csscolorparser-devel
+rust-csscolorparser+lab-devel
+rust-csscolorparser+named-colors-devel
+rust-csscolorparser+phf-devel
+rust-csscolorparser+rgb-devel
+rust-csscolorparser+rust-rgb-devel
+rust-csscolorparser+serde-devel

@@ -1,0 +1,8 @@
+rust-im-rc+arbitrary-devel
+rust-im-rc+debug-devel
+rust-im-rc+default-devel
+rust-im-rc-devel
+rust-im-rc+proptest-devel
+rust-im-rc+quickcheck-devel
+rust-im-rc+rayon-devel
+rust-im-rc+serde-devel

@@ -1,0 +1,5 @@
+rust-crossterm0.19+default-devel
+rust-crossterm0.19-devel
+rust-crossterm0.19+event-stream-devel
+rust-crossterm0.19+futures-core-devel
+rust-crossterm0.19+serde-devel

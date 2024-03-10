@@ -1,0 +1,7 @@
+rust-siphasher+default-devel
+rust-siphasher-devel
+rust-siphasher+serde-devel
+rust-siphasher+serde_json-devel
+rust-siphasher+serde_no_std-devel
+rust-siphasher+serde_std-devel
+rust-siphasher+std-devel

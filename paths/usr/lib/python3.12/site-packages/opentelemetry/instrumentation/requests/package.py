@@ -1,0 +1,2 @@
+python3-opentelemetry-instrumentation-requests
+python3-opentelemetry-instrumentation-requests+instruments

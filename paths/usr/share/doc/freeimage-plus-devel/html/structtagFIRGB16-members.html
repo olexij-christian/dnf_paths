@@ -1,0 +1,1 @@
+freeimage-plus-devel

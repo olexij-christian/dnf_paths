@@ -1,0 +1,1 @@
+python-XStatic-Angular-Cookies

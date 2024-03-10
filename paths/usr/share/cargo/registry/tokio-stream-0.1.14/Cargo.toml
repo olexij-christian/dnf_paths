@@ -1,0 +1,9 @@
+rust-tokio-stream+default-devel
+rust-tokio-stream-devel
+rust-tokio-stream+full-devel
+rust-tokio-stream+io-util-devel
+rust-tokio-stream+net-devel
+rust-tokio-stream+signal-devel
+rust-tokio-stream+sync-devel
+rust-tokio-stream+time-devel
+rust-tokio-stream+tokio-util-devel

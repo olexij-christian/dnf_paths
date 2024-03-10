@@ -1,0 +1,4 @@
+rust-actix-server+default-devel
+rust-actix-server-devel
+rust-actix-server+io-uring-devel
+rust-actix-server+tokio-uring-devel

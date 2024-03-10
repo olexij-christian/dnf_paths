@@ -1,0 +1,16 @@
+rust-palette+alloc-devel
+rust-palette+approx-devel
+rust-palette+bytemuck-devel
+rust-palette+default-devel
+rust-palette-devel
+rust-palette+find-crate-devel
+rust-palette+libm-devel
+rust-palette+named-devel
+rust-palette+named_from_str-devel
+rust-palette+phf-devel
+rust-palette+rand-devel
+rust-palette+random-devel
+rust-palette+serde-devel
+rust-palette+serializing-devel
+rust-palette+std-devel
+rust-palette+wide-devel

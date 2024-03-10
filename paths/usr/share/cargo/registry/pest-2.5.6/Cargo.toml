@@ -1,0 +1,3 @@
+rust-pest+serde-devel
+rust-pest+serde_json-devel
+rust-pest+thiserror-devel

@@ -1,0 +1,5 @@
+rust-maxminddb+default-devel
+rust-maxminddb-devel
+rust-maxminddb+memmap2-devel
+rust-maxminddb+mmap-devel
+rust-maxminddb+unsafe-str-decode-devel

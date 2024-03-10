@@ -1,0 +1,4 @@
+rust-tracing-core+default-devel
+rust-tracing-core-devel
+rust-tracing-core+once_cell-devel
+rust-tracing-core+std-devel

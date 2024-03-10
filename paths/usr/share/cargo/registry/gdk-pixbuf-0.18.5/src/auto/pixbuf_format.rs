@@ -1,0 +1,1 @@
+rust-gdk-pixbuf-devel

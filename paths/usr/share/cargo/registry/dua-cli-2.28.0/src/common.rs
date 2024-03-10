@@ -1,0 +1,1 @@
+rust-dua-cli-devel

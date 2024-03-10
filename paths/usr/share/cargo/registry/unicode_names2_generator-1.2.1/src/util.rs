@@ -1,0 +1,1 @@
+rust-unicode_names2_generator-devel

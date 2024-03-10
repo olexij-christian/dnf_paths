@@ -1,0 +1,1 @@
+perl-CGI-Fast-tests

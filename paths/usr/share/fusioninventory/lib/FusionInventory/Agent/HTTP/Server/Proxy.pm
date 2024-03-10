@@ -1,0 +1,1 @@
+perl-FusionInventory-Agent

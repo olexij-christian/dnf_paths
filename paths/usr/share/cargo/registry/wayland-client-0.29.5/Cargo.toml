@@ -1,0 +1,3 @@
+rust-wayland-client+dlopen-devel
+rust-wayland-client+scoped-tls-devel
+rust-wayland-client+use_system_lib-devel

@@ -1,0 +1,10 @@
+rust-serde_json+alloc-devel
+rust-serde_json+arbitrary_precision-devel
+rust-serde_json+default-devel
+rust-serde_json-devel
+rust-serde_json+float_roundtrip-devel
+rust-serde_json+indexmap-devel
+rust-serde_json+preserve_order-devel
+rust-serde_json+raw_value-devel
+rust-serde_json+std-devel
+rust-serde_json+unbounded_depth-devel

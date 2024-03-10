@@ -1,0 +1,12 @@
+rust-diesel_derives+128-column-tables-devel
+rust-diesel_derives+32-column-tables-devel
+rust-diesel_derives+64-column-tables-devel
+rust-diesel_derives+chrono-devel
+rust-diesel_derives+default-devel
+rust-diesel_derives-devel
+rust-diesel_derives+postgres-devel
+rust-diesel_derives+r2d2-devel
+rust-diesel_derives+sqlite-devel
+rust-diesel_derives+time-devel
+rust-diesel_derives+with-deprecated-devel
+rust-diesel_derives+without-deprecated-devel

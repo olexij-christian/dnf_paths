@@ -1,0 +1,5 @@
+rust-ppv-lite86+default-devel
+rust-ppv-lite86-devel
+rust-ppv-lite86+no_simd-devel
+rust-ppv-lite86+simd-devel
+rust-ppv-lite86+std-devel
